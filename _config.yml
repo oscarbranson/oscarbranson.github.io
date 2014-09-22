@@ -21,9 +21,9 @@ gems:
 
 # Site owner
 owner:
-  name: Oscar Branson
-  email: oscarbranson@gmail.com
-  twitter: Oscarscarbranson
+  name: "Oscar Branson"
+  email: "oscarbranson@gmail.com"
+  twitter: "oscarbranson"
   google:
     ad-client:
     ad-slot:
