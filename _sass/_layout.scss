@@ -658,9 +658,9 @@
   margin-top: -12px;
   position: relative;
   z-index : 10;
-  -webkit-border-radius: 50px;
-     -moz-border-radius: 50px;
-          border-radius: 50px;
+  -webkit-border-radius: 30px;
+     -moz-border-radius: 30px;
+          border-radius: 30px;
 }
 
 @media only screen and (min-width: 48em) {
@@ -683,8 +683,11 @@
     width: 45px;
     position: relative;
     margin-top: -12px;
-    margin-right: -40px;
+    margin-right: -35px;
     z-index : 10;
+   -webkit-border-radius: 45px;
+      -moz-border-radius: 45px;
+           border-radius: 45px;
   }
 }
 
