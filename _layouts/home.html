@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
+    {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
+    {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+    {% if page.author %}
+      {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+    {% endif %}
+    {% include open-graph.html %}
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+
+    <style>
+    .sliding-menu-content {
+      top: 0;
+      right: 0;
+      text-align: center;
+      visibility: hidden;
+      height: 100%;
+      width: 100%;
+      -webkit-transform: translateX(100%);
+      -moz-transform: translateX(100%);
+      -ms-transform: translateX(100%);
+      -o-transform: translateX(100%);
+      transform: translateX(100%);
+    }
+    </style>
+
+    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+    <!-- HTML5 Shiv and Media Query Support for IE -->
+    <!--[if lt IE 9]>
+      <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
+      <script src="{{ site.url }}/js/vendor/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body>
+    {% include header.html %}
+    {% include navigation-sliding.html %}
+
+    {% if page.image.feature %}
+    <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+      <div class="wrap page-lead-content">
+        <h1><font color="black">Oscar Branson</font></h1>
+        <h2>Postdoc at UC Davis.</h2>
+        <a href="{{ site.url }}/blog/" class="btn-inverse">Blog</a> &nbsp; <a href="{{ site.url }}/travel/" class="btn-inverse">Adventures</a> &nbsp; <a href="{{ site.url }}/papers/" class="btn-inverse">Science</a> &nbsp; <a href="{{ site.url }}/about/" class="btn-inverse">Who am I?</a>
+      </div><!-- /.page-lead-content -->
+    </div><!-- /.page-lead -->
+    {% endif %}
+
+    <div id="page-wrapper">
+      {% include browser-upgrade.html %}
+
+<section class="entry">
+        <div class="entry-wrapper">
+            <header class="entry-header">
+                <h2>Recent posts </h2>
+            </header>
+            <div class="entry-content">
+                <ul class="post-index unstyled-list">
+                {% for post in site.categories.main limit:5 %}
+                {% assign readtime = post.content | number_of_words | divided_by:200 %}
+                    <li>
+                        <article itemscope itemtype="http://schema.org/Article">
+                            <a href="{{ site.url }}{{ post.url }}" itemprop="url">
+                                <img src="{{ site.url }}/images/{{ post.image.thumb }}" class="preview" alt="preview image">
+                                <h1 itemprop="name">{{ post.title }}</h1>
+                                <p itemprop="description">{{ post.description }}</p>
+                                <p class="entry-meta">
+                                    <i class="fa fa-clock-o"></i> Reading time ~{% if readtime <= 1 %}1 min{% else %}{{ readtime }} min{% endif %} &#8901; <span class="entry-date date published"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span>
+                                </p><!~~ /.entry-meta ~~>
+                            </a>
+                        </article>
+                    </li>
+                {% endfor %}
+                    <div class="center-block"><a href="{{ site.url }}/blog/" class="btn">Read More</a></div><!~~ /.center-block ~~>
+                </ul><!~~ /.unstyled-list ~~>
+            </div><!~~ /.entry-content ~~>
+        </div><!~~ /.entry-wrapper ~~>
+    </section><!~~ /.entry ~~>
+
+ {% include footer.html %}
+
+    <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="{{ site.url }}/js/main.js"></script>
+
+  </body>
+
+</html>

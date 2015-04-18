@@ -1,6 +1,26 @@
 # Site navigation links
 
-- title: blog
+- title: Blog
   url: /blog/
-  excerpt: "My blog."
-  image:
+  excerpt: "Stray thoughts..."
+  image: blog_teaser.png
+
+- title: Travel
+  url: /travel/
+  excerpt: "Adventures"
+  image: travel_teaser.jpg
+
+- title: Papers
+  url: /papers/
+  excerpt: "Science I have done."
+  image: papers_teaser.jpg
+
+- title: Code
+  url: /code/
+  excerpt: "Serious geekery"
+  image: code_teaser.png
+
+- title: About
+  url: /about/
+  excerpt: "A bit about Oscar"
+  image: oscar_teaser.jpg

@@ -1,11 +1,11 @@
 # Site wide configuration
 
 title: Oscar Branson
-description: "Under construction..."
+description: "Research, Travel, Thoughts"
 logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: defaut_teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale:
-url:
+url: http://0.0.0.0:4000 # http://oscarbranson.github.io
 
 # Jekyll configuration
 

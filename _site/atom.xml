@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    
+
+    <title>Oscar Branson</title>
+    <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
+		<icon>http://0.0.0.0:4000/apple-touch-icon-precomposed.png</icon>
+    <subtitle>Research, Travel, Thoughts</subtitle>
+    <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+    <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html"/>
+    <updated>2015-04-18T09:02:02-05:00</updated>
+    <id>http://0.0.0.0:4000/</id>
+    <author>
+			<name>Oscar Branson</name>
+			<uri>http://0.0.0.0:4000/</uri>
+			<email>oscarbranson@gmail.com</email>
+		</author>
+
+    
+    <entry>
+        <title>A new piece in the Moon puzzle</title>
+        <link href="http://0.0.0.0:4000/blog/main/earth-story/moon-puzzle/"/>
+        <updated>2015-04-12T08:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/earth-story/moon-puzzle</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//earth-story/moonformation.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;The formation of the Moon has puzzled scientists for generations. The best theory we have at the moment is called the ‘Giant Impactor Hypothesis’. We’ve covered this before on &lt;a href=&quot;http://goo.gl/k6HarI&quot;&gt;Earth Story&lt;/a&gt;, but briefly, this theory says that Moon formed after a small rocky planet (around the size of Mars) collided with Earth. This collision threw up an enormous cloud of debris, much of which orbited the Earth and eventually coalesced into the Moon.&lt;/p&gt;
+
+&lt;p&gt;This theory fits well with what we know about the Moon. The ‘Giant Impact’ would have removed material from the outside of Earth, and left the molten iron core of our planet behind. As we’d expect in this scenario, the Moon has very similar geology to the outer surface of Earth, with very little iron. So far so good.&lt;/p&gt;
+
+&lt;p&gt;However, the chemical make-up of the Moon, all the way down to the isotopic compositions of the elements, is very similar to the surface of the Earth. Too similar. So similar that the planet that collided with the Earth would have had to be nearly chemically identical to Earth to form the Moon we see today. Until this study, the odds of this happening were well below 1%, making the ‘Giant Impact’ hypothesis extremely unlikely.&lt;/p&gt;
+
+&lt;p&gt;The Israeli study, published in Nature this week, shows the results of state-of-the art computer models, based on our best understanding of solar system formation. They used the models to test the chances of two ‘twin planets’, with nearly identical chemical composition, colliding. Their models showed that this was actually quite likely in the early solar system. The basic finding is that planets that form near each other are more likely to collide, and are also more likely to have similar chemical compositions. They are likely to be similar because they have formed as ‘sister’ planets - at similar distances from the Sun, and form the same basic material.&lt;/p&gt;
+
+&lt;p&gt;The study found that in planetary collisions like the ‘Giant Impact’, there is a 20-40% chance that the planets are as similar as the Earth and the Moon are today. This translates to a 20-40% chance that the Giant Impactor Hypothesis is correct, promoting it from ‘improbable’ to ‘quite likely’ - a great improvement on the 1% chance we gave it before. This is a major missing piece in the puzzle of how the moon formed.&lt;/p&gt;
+
+&lt;h6 id=&quot;further-reading&quot;&gt;Further Reading:&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/S3KgKL&quot;&gt;Nature News Article and PodCast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/PhBJyf&quot;&gt;A more erudite summary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/2blKx9&quot;&gt;Original Article&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&quot;other-moon-related-earth-story-posts&quot;&gt;Other Moon-related Earth Story posts&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/k6HarI&quot;&gt;Formation theories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/8wS6zf&quot;&gt;Moon + asteroids = Earth’s iron core?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/CaupMB&quot;&gt;The Moon and Life&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>A Pufferfish&#39;s Garden</title>
+        <link href="http://0.0.0.0:4000/blog/main/earth-story/pufferfish-garden/"/>
+        <updated>2015-04-12T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/earth-story/pufferfish-garden</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//earth-story/pufferfishgarden.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;For years divers off the coast of Japan encountered these enormous, 2 metre diameter ‘mystery circles’ on the sandy sea floor. Recently we found out who was making them.&lt;/p&gt;
+
+&lt;p&gt;This huge underwater crop-circle is the mating display of the male Torquigener pufferfish. The small (12 cm) fish takes 7-9 days to meticulously prepare one of these elaborate gardens. It seems that the sole purpose of the garden is to attract a mate, and provide a good site to lay her eggs.&lt;/p&gt;
+
+&lt;p&gt;If their garden catches a mate’s eye, the male will hang around for another 6 days to care for the eggs, before moving on to a new location, and starting a new garden.&lt;/p&gt;
+
+&lt;p&gt;This small pufferfish produces one of the most elaborate displays known in nature.&lt;/p&gt;
+
+&lt;h6 id=&quot;further-reading&quot;&gt;Further Reading:&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/Nh85tD&quot;&gt;Original Article&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/9TmPI4&quot;&gt;A Video (Attenborough!)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Zombie Ant</title>
+        <link href="http://0.0.0.0:4000/blog/main/earth-story/zombie-ant/"/>
+        <updated>2015-04-10T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/earth-story/zombie-ant</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//earth-story/zombie_ant.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This ant has been completely taken over by a fungus. It’s dead now, but the fungus has been in control for some time.&lt;/p&gt;
+
+&lt;p&gt;The fungus (&lt;em&gt;Ophiocordyceps unilateralis&lt;/em&gt;) has a complex relationship with the carpenter ant (&lt;em&gt;Camponotus leonardi&lt;/em&gt;). Yeast-like spores of the fungus attach to live ants, and gradually work their way into the body. Once there, they manipulate the chemistry of the ant’s nervous system, and change its behaviour. At this stage the ant is effectively a zombie, and all its actions benefit its fungal invader.&lt;/p&gt;
+
+&lt;p&gt;The zombie ant climbs up plants, and sinks its mandibles into the tick veins on the underside of leaves. Once attached, the fungus rapidly attacks the jaw muscles of the ant so it can’t detach, leaving it dangling on the underside of the leaf. The fungus then changes mode, and kills the ant. It grows tendril-like hyphae through the ants body, bursting out of the exoskeleton and firmly anchoring the ant to the underside of the leaf.&lt;/p&gt;
+
+&lt;p&gt;The fungus then grows a large ‘fruiting’ structure, which grows through the back of the ant’s head. The fruiting structure ripens, and scatters its spores on the ground below, where a new generation of zombie ants are infected.&lt;/p&gt;
+
+&lt;p&gt;This specific fungus-ant relationship is found in Thailand and Brazil, although numerous other examples of ‘zombie insects’ can be found throughout the world. Don’t worry though - there aren’t any human zombie fungi.&lt;/p&gt;
+
+&lt;h6 id=&quot;further-reading&quot;&gt;Further Reading:&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/OObekX&quot;&gt;A quick video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/PR3hWm&quot;&gt;A bit more detail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/z78gP&quot;&gt;The fungus also has predators…&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>How well do you know the world?</title>
+        <link href="http://0.0.0.0:4000/blog/main/earth-story/maps/"/>
+        <updated>2015-04-04T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/earth-story/maps</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//earth-story/maps.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;We all use maps. In the age of GPS and Google Maps, they’re just a few taps away. But how often does your interaction with a map go beyond ‘Where is the nearest coffee shop?’ When did you last step back and look at the world? And what is it that you’re actually looking at?&lt;/p&gt;
+
+&lt;p&gt;It’s all a matter of perspective. For example, why is North up? The short answer is that there is no good reason - it’s just the way it is. Stuart McArthur took issue with Australia being the land ‘down under’, and came up with his upside-down ‘Universal Corrective Map’ to challenge how people thought about the world.&lt;/p&gt;
+
+&lt;p&gt;Maps have been around for millennia. Early maps were simple diagrams of landmarks and navigational aids - a practical means of finding your way around without a guide. Their scale reflected the small worlds that people lived in. As humans began to explore the world, their horizons expanded and maps got more complex. Oceans and land masses began to take shape, but the edges of the maps were blank, warning off potential explorers with phrases like ‘Here be dragons’. People thought the world was flat.&lt;/p&gt;
+
+&lt;p&gt;As early cartographers studied the world, they started to realise it wasn’t flat. The idea of a spherical Earth began to emerge in ancient Greece, but wasn’t widely adopted until the Middle Ages, and wasn’t ‘proved’ until Magellan circumnavigated the Earth in the early 16th Century. Now we know that the Earth isn’t a sphere - more of an ellipsoid, which we call an ‘oblate spheroid’. This requires a complete shift in perspective, and presents an interesting problem: how do you represent the surface of an oblate spheroid on a flat map?&lt;/p&gt;
+
+&lt;p&gt;There are two ways to do this. The first is to ‘cut up’ the map, so you end up with lots of fragments, all on the same scale. This is geographically accurate, but is practically useless in the everyday world - navigating on many disjointed map fragments is a real headache. The more popular method is to stretch the surface of the sphere onto a grid. The evenly spaced lines of latitude (which circumnavigate the globe, parallel to the equator) stay the same, and you stretch out all the lines of longitude (which converge at the north to the south poles) so they are also parallel. This is the map most of you will be familiar with, and is called the Mercator projection. There are many subtle variations, but the one you will be most familiar with is the Web Mercator projection - established by Google in 2005, and now the standard for online maps.&lt;/p&gt;
+
+&lt;p&gt;In a Mercator projection vertical distances are correct, but as you move north or south from the equator everything is stretched horizontally. At the ‘coffee shop’ scale, this makes almost no difference, but at the global scale the differences are enormous. So enormous that most people’s sense of how big the countries of the world are is completely wrong.&lt;/p&gt;
+
+&lt;p&gt;If you’re wondering how well you know the world, &lt;a href=&quot;http://goo.gl/ekdVw&quot;&gt;&lt;strong&gt;play this little game&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This game gives you the outlines of 15 countries, and asks you to place them on a Web Mercator map. Watch how their size and shape changes as you move them around the map. Hint: Greenland is really quite small, and all those ‘little’ African countries? Not that little!&lt;/p&gt;
+
+&lt;h6 id=&quot;further-reading&quot;&gt;Further Reading:&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/T8omrA&quot;&gt;Some funky map projections&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Puzzle(ing) Animals</title>
+        <link href="http://0.0.0.0:4000/blog/main/earth-story/anomalocaris/"/>
+        <updated>2015-04-03T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/earth-story/anomalocaris</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//earth-story/anomalocaris.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;What do a shrimp, a jellyfish and a sponge have in common? It took palaeontologists around 80 years to work this one out.&lt;/p&gt;
+
+&lt;p&gt;The Burgess Shale, in the Canadian Rockies, is one of the best places in the world to find fossils. It was formed when a massive underwater landslide engulfed an entire Cambrian (541-485 million years ago) reef, preserving everything that lived there in spectacular detail. This is why we &lt;a href=&quot;http://on.fb.me/Riw7KU&quot;&gt;keep going on about it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While exploring the Burgess shales, and nearby areas, scientists have discovered thousands of long extinct animals. Today, we’re going to take a look at three, which provided quite the puzzle.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Shrimp.&lt;/em&gt;
+In 1892 the British palaeontologist Joseph Frederick Whiteaves discovered a crustacean-like creature around 8.5 cm long in the nearby Ogygopsis Shale, which looked like a strange shrimp. He gave it the latin name &lt;em&gt;Anomalocaris&lt;/em&gt;, which translates to ‘strange shrimp’.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Jellyfish.&lt;/em&gt;
+In the Early 20th Century Charles Doolittle Walcott discovered a strange jellyfish in the Burgess shale, which looked a lot like a fossilised 5 cm diameter pineapple slice. He called it ‘&lt;em&gt;Peytoia&lt;/em&gt;’.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Sponge.&lt;/em&gt;
+Walcott also discovered a strange ‘sea cucumber’, which he called &lt;em&gt;Laggania&lt;/em&gt;, although in 1978 Simon Conway Morris weighed in, and worked out that this sea cucumber was in fact a jellyfish (&lt;em&gt;Peytoia&lt;/em&gt;) squashed on top of a sponge.&lt;/p&gt;
+
+&lt;p&gt;For decades, these animals existed in the scientific world. People discussed them, drew them, and wondered about their role in the Cambrian ecosystem. Then in the early ’80s Harry Whittington noticed something peculiar. These three, separate animals fit together. They combined to make a beast so alien-looking that previous palaeontologists had thought they were several different species, rather than a single animal. The ‘sponge’ was its torso, the ‘jellyfish’ its mouth, and the ‘shrimp’ was one of its two, large feeding arms. Together, these parts combined to make an animal up to 1 metre long - the largest animal in these ancient oceans. This creature is known as &lt;em&gt;Anomalocaris&lt;/em&gt;, keeping the ‘strange shrimp’ name given to it’s feeding arm, although this beast is far from a shrimp.&lt;/p&gt;
+
+&lt;p&gt;Scientists have since discovered several whole specimens of &lt;em&gt;Anomalocaris&lt;/em&gt;, and worked out a lot about how it lived. Its size means that it would have been a top predator in the Cambrian. It had complex compound eyes, which would give it excellent vision, similar to a dragonfly today. It probably fed on hard-shelled ‘trilobites’, which were common throughout the ocean.&lt;/p&gt;
+
+&lt;h6 id=&quot;further-reading&quot;&gt;Further Reading:&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/F7kMO1&quot;&gt;A video about &lt;em&gt;Anomalocaris&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Some other Burgess Shale Wonders:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://goo.gl/gVGUbT&quot;&gt;The REAL prequel to Jaws&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://goo.gl/W7rhNL&quot;&gt;Opabinia&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>The Driest Place on Earth</title>
+        <link href="http://0.0.0.0:4000/blog/main/earth-story/dry-valleys/"/>
+        <updated>2015-03-29T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/earth-story/dry-valleys</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//earth-story/dryvalleys_1.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;It’s not where you expect. You’re thinking of majestic sand dunes along the western edge of the Sahara, or the barren rocky outcrop’s of Chile’s Atacama desert. The driest place on Earth is in Antarctica: the McMurdo Dry Valleys.&lt;/p&gt;
+
+&lt;p&gt;Antarctica has been covered in ice for the last 15 million years, and has built up an average ice thickness of 1.9km. The entire continent is cold (as low as -90ºC) and as dry as most deserts on Earth (South Pole average precipitation is 10cm/year). The McMurdo Dry Valleys are even drier. The fact that they have remained ice free, while the rest of the continent has built up thousands of meters of ice over millions of years, tells you just how parched these valleys are.&lt;/p&gt;
+
+&lt;p&gt;Their annual average precipitation is zero cm. They are found in the rain shadow of the 1.6km high Transantarctic Mountains. These mountains also act as a barrier to prevent glaciers from flowing into the valleys. Any ice that does form in the valleys rapidly ‘sublimates’, evaporating directly from solid ice to water vapour without melting. This processes is helped along by bone-dry ‘katabatic winds’, which form as cold dense air literally falls off the surrounding ice sheets, and rips through the valleys at over 300 km per hour.&lt;/p&gt;
+
+&lt;p&gt;Animals that stray too far into the valleys quickly die of dehydration. Rather than rotting, the dry air desiccates and mummifies their bodies, which can be preserved on the valley floor for hundreds or thousands of years (see photo below). When the explorer Robert Scott discovered these valleys in 1903, he called them the ‘valleys of death’.&lt;/p&gt;
+
+&lt;figure class=&quot;figcap&quot;&gt;
+  &lt;img src=&quot;/images/earth-story/dryvalleys_2.jpg&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;A mummified seal in the McMurdo Dry Valleys. Credit: &lt;a href=&quot;http://goo.gl/TtIoqe&quot;&gt;Wikimedia&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Since 1903 scientists have had a closer look at the dry valleys, and they are far from dead. All kinds of ‘extremophiles’ (life that thrives in extreme environments) call the McMurdo valleys home - lichens, mosses, nematodes (microscopic worms) and other microbes are most common.&lt;/p&gt;
+
+&lt;p&gt;These frozen deserts are one of the best analogues we have for Martian environments. Studying how life survives there is one of our best ways of understanding how life might exist on other planets.&lt;/p&gt;
+
+&lt;h6 id=&quot;further-reading&quot;&gt;Further Reading:&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/CCnTSd&quot;&gt;Where are these dry valleys?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/Mj1ZvU&quot;&gt;A bit more about them&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/7Ge5lE&quot;&gt;The wettest place on Earth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/pAHkY9&quot;&gt;We’ve talked about these valleys before&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Impending Mega-Droughts brought to life</title>
+        <link href="http://0.0.0.0:4000/blog/main/earth-story/megadrought/"/>
+        <updated>2015-03-21T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/earth-story/megadrought</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//earth-story/drought.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;The California Drought is in the news a lot these days. California has just declared a fourth consecutive year of historic drought. In January the governor declared a State of Emergency, and told everyone to prepare for water shortages.&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;http://svs.gsfc.nasa.gov/vis/a000000/a004200/a004270/10yr_-3to3_rcp85.mp4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;According to a recent NASA study published in Science Advances, and covered elsewhere on the &lt;a href=&quot;http://goo.gl/BVYf1x&quot;&gt;Earth Story&lt;/a&gt;, it’s not going to get better any time soon. The NASA Science Visualisation Studio brought these results to life in this startling animation, which shows how the droughts might unfold through the 21st century.&lt;/p&gt;
+
+&lt;p&gt;Based on the results of 17 different state-of-the art climate models, these scientists are predicting mega-droughts over the South-Western and Central USA and Mexico over the next century, “unlike anything humans have seen […] in the last thousand years”. The USA has seen similar “dust bowl” droughts in recorded history, most recently in the 1930s. The “Dirty Thirties”, as these droughts were known, caused environmental and economic upheaval across the USA, and provided the material for Steinbeck’s tragic tale “The Grapes of Wrath”, where no-one was having a good time. These past droughts never lasted for longer than 10 years or so. The models in this study are predicting similar levels of drought, but lasting 30-35 years.&lt;/p&gt;
+
+&lt;p&gt;Aside from the immediate importance of these findings to the millions of people that either live in the drought affected regions or rely on the food produced there, this study is significant because it directly links rising CO2 and global warming with the risks of imminent severe droughts. The study ran their models at two different CO2 levels - one with current CO2 (400 ppm), and the other with the IPCC predicted “business as usual” CO2 (rising to 1250 ppm by 2100). At current CO2 levels these droughts are very likely (60-80% chance of happening between 2050-2100), and at higher CO2 levels the likelihood goes up to over 80%.&lt;/p&gt;
+
+&lt;p&gt;It’s true that the models that foretell these grim events are “just models”, and models are not straightforward. They all tell slightly different stories, and often don’t perfectly predict the real world. However, as models go this study has used the best we’ve got - based firmly in the physics of how the ocean, atmosphere and land work and interact with each other. The real strength of this study comes in the use of 17 independent models. The results might not all be identical, because the underlying models work in subtly different ways, but they all show the same trends for increased drought risk.&lt;/p&gt;
+
+&lt;h6 id=&quot;further-reading&quot;&gt;Further Reading:&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://svs.gsfc.nasa.gov/vis/a000000/a004200/a004270/10yr_-3to3_rcp85.mp4&quot;&gt;Video source&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://on.fb.me/1xHiRhU&quot;&gt;Our past post on the topic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/oufe1p&quot;&gt;The original scientific article&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/KYo7h4&quot;&gt;A more in depth summary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://xkcd.com/1410/&quot;&gt;The California drought since 2000&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Alien Hot Springs</title>
+        <link href="http://0.0.0.0:4000/blog/main/earth-story/enceladus-hot-springs/"/>
+        <updated>2015-03-20T08:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/earth-story/enceladus-hot-springs</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//earth-story/enceladus_hot_springs.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;NASA’s Cassini spacecraft heated up the extra-terrestrial life debate last week, by finding evidence of hot-springs on Enceladus, Saturn’s sixth largest moon.&lt;/p&gt;
+
+&lt;p&gt;We’ve known about ice on Enceladus for several decades, but the freezing temperatures on the surface (highs of -198ºC) made life there extremely unlikely. Back in 2005 Cassini saw giant plumes of water vapour coming from Enceladus’ south pole, erupting up to 30km from the surface. This told us that somewhere in Enceladus there was enough heat to create liquid water - the vital ingredient for life. Gravitational measurements of Enceladus have since revealed that there could be an ocean up to 10km deep underneath the moon’s icy surface. This upgraded Enceladus from a frozen wasteland, to one of the most promising places in our solar system to look for alien life.&lt;/p&gt;
+
+&lt;p&gt;Last week, a paper published in Nature reported Cassini’s latest, sensational observations from Enceladus: hot springs. The scientists behind this discovery noticed that the water erupting from Enceladus contains nano-sized silicon dioxide (SiO&lt;sub&gt;2&lt;/sub&gt;) particles. Using a combination of Cassini’s observations, laboratory experiments and basic chemical and physical principles, the scientists were able to show that these particles must have come from active hot-springs, deep in Enceladus’ oceans.&lt;/p&gt;
+
+&lt;p&gt;So what’s all the fuss about? We’re not talking about a photo of E.T. relaxing in a Spa here, so why has this got the extra-terrestrial crowd so excited? Hot-springs, or hydrothermal vents, are present throughout the deep ocean on Earth. They are remarkable because, despite existing in the pitch-black ocean depths, they are teeming with life. The scorching hot water (up to 400ºC) and minerals spewing from the vents provides all the energy this ecosystem needs. Many researchers think that life on Earth began at hydrothermal vents.&lt;/p&gt;
+
+&lt;p&gt;Finding them on Enceladus is exciting because it means that this small, icy moon has liquid water, heat and vigorous chemical reactions: all the ingredients for life. This could mean that bacterial life, and possibly more complex organisms, could exist there.&lt;/p&gt;
+
+&lt;figure class=&quot;figcap&quot;&gt;
+  &lt;img src=&quot;/images/earth-story/enceladus_hot_springs2.jpg&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;A Hydrothermal Vent on Earth. Credit: IFE, URI-IAO, UW, Lost City Science Party; NOAA/OAR/OER; Lost City 2005 Exp./CC BY 2.0&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h6 id=&quot;further-reading&quot;&gt;Further Reading:&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/sKpsqw&quot;&gt;Nature News Feature&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/NgIK7a&quot;&gt;A hydrothermal vent (video)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/X7I69w&quot;&gt;Did life evolve at vents?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/jTqmx&quot;&gt;More about Cassini’s trip to Saturn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/ietceh&quot;&gt;Original Article&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Stone Faces</title>
+        <link href="http://0.0.0.0:4000/blog/main/earth-story/stone-faces/"/>
+        <updated>2015-03-20T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/earth-story/stone-faces</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//earth-story/stonefaces_1.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;It doesn’t take much to bring rocks to life.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/earth-story/stonefaces_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alain Bernegger has been finding personalities in the limestone cobbles and pebbles scattered around Le Beaucet, in the South of France.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/earth-story/stonefaces_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le Beaucet, in the Provence-Alpes-Côte d’Azur region, provides a spectacular backdrop for these quirky characters. Old stone villages nestled amongst the steep limestone slopes of the Mediterranean alps.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/earth-story/stonefaces_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;further-reading&quot;&gt;Further Reading:&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/kIFDto&quot;&gt;Artist’s Page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/3DoIWP&quot;&gt;Le Beaucet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>It&#39;s a Snow Record!</title>
+        <link href="http://0.0.0.0:4000/blog/main/earth-story/snow-record/"/>
+        <updated>2015-03-18T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/earth-story/snow-record</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//earth-story/bostonsnow.png&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Last Sunday Boston got a paltry 7.4 cm of new snow. This pushed the season total up to 2.77 m (just over 9 feet), more snow than Boston has experienced since records began in 1873.&lt;/p&gt;
+
+&lt;p&gt;This phenomenal snow-dump has been smashing some other records too: $35 million spent on snow and ice removal, which is almost double the city’s snow budget. The snow has been coming so thick and fast that simply ploughing the roads hasn’t been enough. City workers have been exporting their frozen excess to ‘snow farms’ outside the city (now full), and melting it in specialised ‘snow melting machines’.&lt;/p&gt;
+
+&lt;p&gt;On the human side, Bostonians have been trying to keep their spirits up by dressing up as Yetis, and digging bike tunnels through snow drifts. Some entrepreneurial spirits have been packing up this ‘record breaking snow’ and selling it to people across the USA. The snow has undoubtedly taken a toll, though, as city infrastructure recently declared a ‘state of emergency’, and the annual Boston parade has just been cancelled.&lt;/p&gt;
+
+&lt;p&gt;Four out of Boston’s top five snowfall years have happened since 1993. As Senator Inhofe recently pointed out with the help of an infamous snowball, the record-breaking snow that Boston and the North-East are experiencing clearly shows that global warming is a myth… No. No it doesn’t. While it’s very hard to attribute any individual storm to climate change, this kind of abnormal weather fits well with how we expect a warming planet to behave. The short story is: more heat on the planet means more evaporation, which means more moisture in the air, and more precipitation. The record snowfall in the North East USA this year was accompanied by record high sea surface temperatures off New England (11.5ºC, or 21ºF), which fuelled the incessant snow storms. For a more detailed explanation of this, see the links at the bottom.&lt;/p&gt;
+
+&lt;p&gt;Back in Boston, the snow season isn’t over yet, and forecasters are predicting more snow into the weekend.&lt;/p&gt;
+
+&lt;h6 id=&quot;further-reading&quot;&gt;Further Reading:&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/9r3VQ3&quot;&gt;The Weather Channel Announcement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/z3rEUT&quot;&gt;Record snowfall in a warming world?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/iOhbux&quot;&gt;How warming increases snowfall&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Sea Struggles</title>
+        <link href="http://0.0.0.0:4000/blog/main/earth-story/sea-struggles/"/>
+        <updated>2015-03-10T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/earth-story/sea-struggles</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//earth-story/foram_pic.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This photograph captures a life-or-death struggle between two ferocious sea beasts. Only one will survive this encounter. Both are less than a millimetre long.&lt;/p&gt;
+
+&lt;p&gt;In the upper left is a foraminifera, &lt;em&gt;Orbulina universa&lt;/em&gt;. This complex tangle of spines is formed by a single celled organism, much like an amoeba. The object that looks like a piece of popcorn in the centre of the spines is a porous calcite (calcium carbonate) shell that the foraminifera makes and lives around. Each of the spines protruding from the central shell is a single crystal of calcite, with a thin tendril of the cell running up it. The golden dots along these spines are photosynthetic microbes that live in these extended tendrils, which the cell “farms” for food. Each night the foraminifera brings the microbes into the safety of the central shell, where they deliver packets of sugar they have made during the day: a superb example of a symbiotic relationship.&lt;/p&gt;
+
+&lt;p&gt;In the lower right is a calanoid copepod, a microscopic crustacean. This complex, multi-cellular beast is a very different story. It is a powerful, ambush predator in this microscopic world. It has two sets of antennae crammed with tactile and chemical sensors, finely tuned for detecting prey and avoiding predators. The larger antennae also act as its main form of propulsion, allowing it to zip through the water with surprising speed. Its compact, transparent body has five pairs of legs, a heart and a central nervous system. A world apart from the nebulous, drifting foraminifera.&lt;/p&gt;
+
+&lt;p&gt;The copepod is an advanced and active predator, but it doesn’t stand a chance against the foraminifera. Besides being a benevolent farmer, &lt;em&gt;Orbulina universa&lt;/em&gt; is also a voracious predator, capable of catching and consuming prey many times its size. The foraminifera does not hunt actively, but sticky tendrils out beyond the tips of its spines can act like a microscopic cobweb - a trap for an unsuspecting visitor like the copepod. This copepod was completely devoured in just a few hours.&lt;/p&gt;
+
+&lt;h6 id=&quot;further-reading&quot;&gt;Further Reading:&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/gufXtH&quot;&gt;More about foraminifera, and why we’re interested in them (video)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/WoIoDy&quot;&gt;How copepods hunt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Ice is getting younger</title>
+        <link href="http://0.0.0.0:4000/blog/main/earth-story/young-ice/"/>
+        <updated>2015-03-09T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/earth-story/young-ice</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//earth-story/young_ice.png&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;The plight of Arctic ice is brought to life in this new animation by NOAA, showing how the ice moves and ages over time.&lt;/p&gt;
+
+&lt;iframe width=&quot;854&quot; height=&quot;510&quot; src=&quot;https://www.youtube.com/embed/FDRnH48LvhQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;During the cold winter months a layer of sea ice forms over the entire Arctic ocean. Over the summer most of this ice melts and breaks up, but a central cap of ice remains over the cold North Pole. While this polar ice cap is always present, it is not a single, constant piece of ice. The animation shows how the ice cap is constantly in flux, replenished each year by thousands of fragments of winter ice that survived the summer melt.&lt;/p&gt;
+
+&lt;p&gt;The ice fragments that make it into the polar ice cap tend to be the thickest, strongest pieces of the winter ice. Once there, they thaw a little each summer and are replenished each winter. These ice fragments can survive for many years, as long as the melting does not overtake the amount of freezing. In the 1980s 26% of the ice was over 4 years old. Eventually, the constantly shifting ice carries these old fragments to warmer waters, where the summer melting outstrips the winter freezing, and they disappear. In recent years rising temperatures have reduced the size of the region where old ice can survive. This is reducing the ‘lifetime’ of ice in the polar cap. In 2014 less than 10% of ice was more than 4 years old.&lt;/p&gt;
+
+&lt;p&gt;We’re constantly hearing about melting ice in the Arctic, but this video brings a fresh new look at what an ‘ice cap’ really is, and how it works. The ice cap is more than a single year of ice formation - it accumulates over a decade or more, and is the result of a complex, dynamic system. This means that a single year of increased ice cover (like 2012) does little replenish the ‘health’ of the polar ice cap, which is getting gradually younger, thinner and more fragile as the average amount of freezing decreases, and melting increases.&lt;/p&gt;
+
+&lt;p&gt;The animation is based on a combination of satellite imagery, and the movement of tracking buoys in the Arctic.&lt;/p&gt;
+
+&lt;h6 id=&quot;further-reading&quot;&gt;Further Reading:&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/c6lPnY&quot;&gt;More detail on this&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/7latDH&quot;&gt;More about Arctic sea-ice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/UBaKxX&quot;&gt;See sea-ice extent since 1980 (video)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/Ml9Kh&quot;&gt;Interactive Sea Ice data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/wJIjcA&quot;&gt;And a business interest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>The coordination and distribution of B in foraminiferal calcite.</title>
+        <link href="http://0.0.0.0:4000/papers/b-in-foraminiferal-calcite/"/>
+        <updated>2015-02-08T06:00:00-06:00</updated>
+        <id>http://0.0.0.0:4000/papers/b-in-foraminiferal-calcite</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Small Boy, Big City</title>
+        <link href="http://0.0.0.0:4000/blog/main/small-boy-big-city/"/>
+        <updated>2014-02-07T15:00:00-06:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/small-boy-big-city</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//big-city/hop_banner.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;What a week.&lt;/p&gt;
+
+&lt;p&gt;A week ago today, I finished a draft of my thesis. It feels strange writing that. After a brief attempt to return to being a social being (remember how to move around, interact with people, not stare fixedly over someone’s shoulder while lines of code flicked through my mind…), I moved to London.&lt;/p&gt;
+
+&lt;p&gt;London has always terrified me, and more than a little. As long as I can remember I have an almost irrepressible urge to about-turn and hot foot it back to the countryside as soon as I get off the train. The noise, the bustle, the unreasonable number of people all hurrying, determinedly avoiding any kind of interaction… So it was with a considerable trepidation that I raised my hungover self off the sofa, packed a seemingly random assortment of belongings into my oversized rucksack, and cycled off to the station last Sunday evening.&lt;/p&gt;
+
+&lt;p&gt;The packing presented the first hurdle: shirts. In London, I was told I would need ‘smart office wear’ (it’s London, that’s the dress code, right? I’ve seen the television…).  I own a suit. Tick. I packed it. I rummaged for shirts, and found a variety of shirt-like objects. On closer inspection, I had managed to acquire what can only be labelled a ‘Cambridge problem’: 5 dress shirts, 3 normal shirts. A shirt imbalance! Woe is me. Baffling. I hadn’t even been to that many black tie dinners… maybe they’re just something you acquire in a silly place like Cambridge? We’ll never know. (On that note, anyone need an over-sized dress shirt? Let me know – I’ve got some spare!). I was told firmly that ‘3 was not enough’ (has been so far!), but what could I do about it when walking and speaking were proving challenging? I will make do.&lt;/p&gt;
+
+&lt;p&gt;To London! On the bike, wobbled unsteadily under unfeasible heavy weight of unfeasibly large backpack, to the station, to London.&lt;/p&gt;
+
+&lt;p&gt;So why all this trouble? What has possessed me to collect up my smart office wear, and head into this terrifying metropolis? Science. And politics. Sciopolics? No.&lt;/p&gt;
+
+&lt;p&gt;I’m off to start a 3 month ‘policy internship’ with the Parliamentary Office of Science and Technology (the &lt;a href=&quot;http://www.parliament.uk/mps-lords-and-offices/offices/bicameral/post/&quot;&gt;POST office&lt;/a&gt;… no joke. There’s also one called ‘&lt;a href=&quot;https://www.gov.uk/government/organisations/government-office-for-science&quot;&gt;GO Science&lt;/a&gt;‘. I hope responsibility for that name can be assigned to a committee, rather than one unfortunate soul). During this internship, I’m told I will produce a four page briefing document, which will be available to the houses of Commons and Lords, on the science behind a ‘policy relevant issue’.  Four pages. In three months. Having just written a mite under 250 pages of science over four months, I find this whole idea rather baffling… but more on that later.&lt;/p&gt;
+
+&lt;p&gt;After a luxurious nights sleep in my friend’s well-appointed Brixton Maisonnette(, darling), I got on my bike, ready for my first London adventure: The Commute. Cycling in London is a strange thing. A friends described it as “… great fun! It’s like playing a computer game… but with your life… Hmm…”. You can be happily zooming along an empty side street, then meet a main road with wall-to-wall traffic, lycra-clad, virulent-yellow cyclists zipping amongst them at too-high speed. Panic! Work out a way to join the zipping cyclists without killing them, or yourself, and begin to zip yourself.  It gets rather fun after that – it’s like being in the Tour de France, but with added moving-wheely-death-crushing obstacles. You often get caught in the middle of a pack of 20-40 determinedly pedalling lycra’ed apparitions. At this stage you have two choices: (1) panic, slam breaks on, cause mass pile up, everyone run over by the bus that is nudging at your rear wheel. Or (2) pretend you’re in a murmuration. Synchronise watches, breathing, pedalling; copy everyone around you exactly, and become one with the lycra locomotive. Then you just hope REALLY hard they’re going the same way as you. Turning is a big ‘No’. Generally, I have tended towards the second option, and so far so good! I haven’t ended up in Canary Wharf wondering why I can’t see Big Ben. So in conclusion: commuting on a bike in London is great, if you don’t think about it too hard. It’s much faster than the tube (vis my 20 mins, compared to my office mates 2.5 hrs the other day), and you even get some exercise.&lt;/p&gt;
+
+&lt;p&gt;Having survived the commute, I arrived at Westminster, an hour early, to find a beautiful morning, a coffee shop, and a seat overlooking the Thames, houses of parliament lit up in the morning light. I had definitely arrived. When the time came to go to work, I found my way to No 7 Millbank. A large, unnatractive lump of a building just South West of parliament, full of various departments. Orientation: I was shown around the building (many identical corridors, literally no idea where I was going or where I had been), taken over to Parliament to get my security pass (failure… back again tomorrow!), shown to my desk, attempted to login to my computer (failure! ongoing IT woes), and am given my topic: ‘reducing diffuse water pollution from agriculture’.&lt;/p&gt;
+
+&lt;p&gt;A little outside the realms of plankton shells, but I grew up on a farm, it involves water, and I have vague recollections of biology lectures about eutrophication… so I think I should be OK. But why do we care, do you ask? From an obvious point of view, clean water is essential to everything that lives, including us, and we are busily going about polluting and mis-managing it. From a political point of view, it’s because of something called the Water Frameworks Directive, which we made law in the UK back in 2011. This is an ambitious EU plan to make sure that Europe has clean, fresh water for the foreseeable future. Good. Given the intractable links between the condition of waterways (streams, rivers, lakes, canals etc.) and the ‘health’ of the natural environment, this plan essentially focusses on restoring all the waterways in the EU to ‘good’ ecological status. Generally speaking, a healthy environment helps keep water clean, and clean water helps maintain a healthy environment. A nice cycle. However, in 2008, 80% of waterways in the UK failed to meet the ‘good’ ecological criteria set out by the EU. Poor pollution management in cities, and bad practices in farming have led to a gradual degradation of waterways in the UK, to the point where they’re in a pretty bad state. We have a big job to do! My role in this is to distill the myriad scientific studies on water pollution from agriculture, and the best ways of preventing it, down to an understandable, interesting and useful 4 page document. This will involve (a lot of) reading, conferences, interviewing experts from all industry, government, NGOs, and eventually trying to distill it into something that an MP or Lord might want to read with their morning coffee.&lt;/p&gt;
+
+&lt;p&gt;There will be plenty more about what I’m actually working on to follow, so for now I’m going to tell you a bit about my week in Westminster. Highlights so far have been: getting on to the roof of Parliament (there are tables and chairs up there!), having a security pass that lets me go in and out as I please, eating delicious food in the insanely subsidised cafes everywhere (thank you tax payers!), and sitting in on the Commons and the Lords to see what they had to say.&lt;/p&gt;
+
+&lt;p&gt;The Commons was exactly like on TV, but worse. Braying (think herd of terrible, snorting and stamping sheep), bickering, point scoring, openly having conversations with each other and not listening to the person speaking… just generally rude, and rather disappointing. I’m reasonably sure a class of school children wouldn’t be allowed to behave like that. Nevertheless, some of the people said some interesting things… but then no-one ever actually debated anything. It was more like: ‘I think this’, ‘Well I think this, so there, and also your party is rubbish’, ‘Well I think you’re both wrong, and that the EU is evil’. No-one seemed to really address the concerns raised by others, or actually listen to each other. Maybe this all happens in back rooms, and the actual house is just an elaborate strutting ground, where MPs can fluff their feathers for the electorate and try and get a few votes? I hope so.&lt;/p&gt;
+
+&lt;p&gt;The Lords impressed and surprised me. They sat quietly (admittedly, some of them might just have been asleep, or wondering why the bus was taking such a bloody long time to arrive… a couple looked like they weren’t sure where they were.), they listened, they actually had a reasoned discussion, and numerous people with different party affiliations all agreed on something (that water was something too important to politicise)! There was no braying, bleating, stamping, overt point-scoring, or general unpleasantness. There were definitely party-political undercurrents, but it was treated more as a nuisance, than the core of the debate, as it appeared in the Commons. In a way, this frustrated me: the people we elected to run the country left me feeling disappointed, confused and slightly greasy, while the entrenched peers who were there ‘just ‘cos’ managed to do what appeared to be a decent job. People took an interest, spoke intelligently,debated points, and were just… well… better!  I will go back as often as possible, and see whether this impression evolves.&lt;/p&gt;
+
+&lt;figure class=&quot;figcap&quot;&gt;
+  &lt;img src=&quot;/images/big-city/london.jpg&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;My new shambling grounds.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I feel this is getting rather too long, so I will end it on a high point: The Shard. I decided on arrival, it would be a good idea to get an overview of my new shambling-grounds. So on monday night, fresh from my commute, I met with some folks, and up we went. To one of the bars on the 32nd floor, not the whole way up – we decided we would rather pay for a cocktail than a lift. The lift was fun. The numbers of the first ten floors seemed to vanish in about 2 seconds flat. ZOOM! But I felt rather silly about the whole thing – extravagant, ridiculous, it’s going to be disappointing.  All thoughts running through my head.  It was great. Excellent cocktails, stunning view, just generally a fantastic introduction to city life.&lt;/p&gt;
+
+&lt;p&gt;A week later, I’m still alive, I have resisted the urge to leave london, and am really enjoying myself. Cycling everywhere helps – before this I had essentially thought of london as a series of tube stations, separated by vast oceans of larva, or some other insurmountable barrier. Little isolated patches of chaos, focussed around an underground station – maybe you can see why it terrified me so? Things are much better on a bike. Places join up and make sense, and the whole place is less intimidating. Still enormous and terrifying, but in a manageable way.&lt;/p&gt;
+
+&lt;p&gt;I’m looking forward to more.&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Naked Plankton</title>
+        <link href="http://0.0.0.0:4000/blog/main/naked-plankton/"/>
+        <updated>2014-01-09T15:00:00-06:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/naked-plankton</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//naked-plankton/clouds.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;I wrote an article for the &lt;a href=&quot;http://www.thenakedscientists.com/&quot;&gt;Naked Scientists&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s about how plankton make clouds to protect themselves from the sun.  Pretty impressive for tiny critters, no?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.thenakedscientists.com/HTML/articles/article/clouds-of-plankton/&quot;&gt;&lt;strong&gt;Take a look&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Git</title>
+        <link href="http://0.0.0.0:4000/blog/main/code/git/"/>
+        <updated>2014-01-07T15:00:00-06:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/code/git</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//git/git_header.png&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;I’m not insulting you all. Honest. I may be in the throes of writing my thesis, but I’m not quite at the stage of hating everyone and everything… give me another week, I reckon.&lt;/p&gt;
+
+&lt;p&gt;This is about something I’ve discovered while writing, which is incredibly boring, but even more useful. If you’re hoping to read something interesting or enlightening, stop here: geeks only beyond this point!&lt;/p&gt;
+
+&lt;p&gt;So the thing: &lt;a href=&quot;http://git-scm.com/&quot;&gt;git&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Git is a version control system, originally designed to enable the development of Linux, which is actively worked on by thousands of people. It is piece of software that keeps track of your projects, and the changes you make in them. It goes something like this: My Thesis, a big, amorphous mass of latex files, figures and references: 992 files and counting. I plod along, doing my work, and every so often tell git to update. This is like saving your work, but better. Each document is saved, but also &lt;em&gt;every change you’ve made to every document&lt;/em&gt;. If you, say, get drunk and attempt to edit a chapter, you can open up git the next morning, review the results of your ‘editing’ line by line, and undo all the terrible harm you did the night before with a single click!  Brilliant!&lt;/p&gt;
+
+&lt;p&gt;OK, so that’s a silly example. In reality, this is incredibly useful for coding projects: data analysis, mining, programming. Every change you make to the code in a session is recorded line-by-line, so you can undo those bright ideas that break everything. Even better, you can ‘branch’ your project – like a tree! If you suddenly have a wild idea and want to go off an try it, you can – just create a branch of your project, and edit away to your hearts content without messing up the original ‘trunk’. If any of your wild branchings turn out to be useful, you can merge them back into the trunk later.&lt;/p&gt;
+
+&lt;p&gt;This ability to ‘branch’ code makes git great for collaborative work.  You can save your git ‘repository’ online somewhere, and everyone involved can get involved with it, tinker, and not keep over-writing each others work. This ability to save the repository in an online, super-safe location, also makes a git-enabled project the mother of all backups.&lt;/p&gt;
+
+&lt;p&gt;To anyone familiar with git, I’m painfully aware that this description is childishly basic, and barely scratches the surface… but hey, it’s a start, and I’m learning!  Anyone in my position, who works on big, complicated projects with lots of incremental changes that have the potential to break everything, have a go – it will change your life!&lt;/p&gt;
+
+&lt;p&gt;To get you going, here are some simple steps:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Download and install &lt;a href=&quot;http://git-scm.com/downloads/&quot;&gt;git&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Download a GUI for git – I’ve been having a good time with &lt;a href=&quot;http://www.sourcetreeapp.com/&quot;&gt;SourceTree&lt;/a&gt; (free), but there are many &lt;a href=&quot;http://git-scm.com/downloads/guis&quot;&gt;other options&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Start a git project! You can do this from SourceTree, or via the command line (cd to your project folder, and type “git init”. You can then control git from SourceTree (managing projects and branches, ‘staging’ files and ‘committing’ your changes), or do it all from the command line if you really want to get to grips with the program.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For reference, the &lt;a href=&quot;http://git-scm.com/doc&quot;&gt;git documentation pages&lt;/a&gt; are mostly excellent, and have some good ‘getting started’ material.&lt;/p&gt;
+
+&lt;p&gt;It’s also worth mentioning that git plays nicely with various text editors. I use the curios &lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;SublimeText&lt;/a&gt; editor, combined with the hilariously named &lt;a href=&quot;https://sublimegit.net/&quot;&gt;SublimeGit&lt;/a&gt; plugin, which allows me to control everything about git alongside my writing/coding. Woop!&lt;/p&gt;
+
+&lt;p&gt;OK. Geeking over. Something more interesting next time, I promise…&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>The Coordination of Mg in Foraminiferal Calcite.</title>
+        <link href="http://0.0.0.0:4000/papers/mg-in-foraminiferal-calcite/"/>
+        <updated>2013-12-29T21:37:40-06:00</updated>
+        <id>http://0.0.0.0:4000/papers/mg-in-foraminiferal-calcite</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>It knows where I live?</title>
+        <link href="http://0.0.0.0:4000/blog/main/code/it-knows-where-i-live/"/>
+        <updated>2013-12-20T15:00:00-06:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/code/it-knows-where-i-live</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//it-knows-where-i-live/map-header.png&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;I recently came across an intriguing post by fellow Jesuan &lt;a href=&quot;https://epijim.uk/&quot;&gt;James Black&lt;/a&gt;, about making maps out of Google location data. This is the result.&lt;/p&gt;
+
+&lt;p&gt;Google is infamous for its data-harvesting practices. It really is quite amazing how much it knows about you. If you have a smartphone, the chances are Google knows almost exactly where you are, almost all of the time.&lt;/p&gt;
+
+&lt;p&gt;There is a service called ‘&lt;a href=&quot;https://accounts.google.com/ServiceLogin?service=backup&amp;amp;passive=1209600&amp;amp;&quot;&gt;Google Takeout&lt;/a&gt;‘, which allows you to download all the data Google has collected about you. I did this. If you have clicked ‘yes’ at all the appropriate moments, Google has a record of: you web browser bookmarks, your contacts, your ‘Hangouts’ (text messages), your YouTube history, your emails, your Google documents, your Google+ social history and photographs, your calendar, and your location. It’s not doing anything wrong here – I’ve agreed to each of these pieces of information being stored by Google, usually by skipping over long ‘terms and conditions’ blurbs to click ‘yes’ and get to where I want to be.&lt;/p&gt;
+
+&lt;p&gt;Google uses all this information to ‘improve your Google experience’ – offering you advice about things you might be interested in (i.e. adverts) based on your interests, and where you are. Clever. So with this wealth of data at my fingertips, I thought I’d have a look at what I’d been up to.&lt;/p&gt;
+
+&lt;p&gt;The ‘location’ data that I got from google is an astonishing &lt;em&gt;152379 measurements… Since the start of November?!!&lt;/em&gt; It contains regular updates of latitude, longitude (usually accurate to around 25m) and altitude, an estimate of which direction and how fast I’m moving (if I’m moving), and (most amazingly) a guess at whether I’m sitting still, walking, cycling, or in a vehicle. Incredible. It only had data from the last few months (since I got a shiny new phone), but… well… wow! And quite scary.&lt;/p&gt;
+
+&lt;p&gt;So after half an hour of fiddling around in R (a statistical computing language), this is what I got:&lt;/p&gt;
+
+&lt;figure class=&quot;figcap&quot;&gt;
+  &lt;img src=&quot;/images/it-knows-where-i-live/overview.jpeg&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;Where I’ve been since 20th March 2013, according to Google. I’t definitely missing a few spots, but it’s worryingly comprehensive. A conference in Barcelona, and some trips around the UK.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;To get the full impact of this kind of data, we have to look a little closer: let’s zoom in to Cambridge, where I spend most of my time.&lt;/p&gt;
+
+&lt;figure class=&quot;figcap&quot;&gt;
+  &lt;img src=&quot;/images/it-knows-where-i-live/cambridge.png&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;My life in Cambridge… I can see home, work and all the places I spend time around town. Red dots are records of my location. Amazing.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;And a whole other layer of activity can be revealed by looking at what I was doing in all of these places:&lt;/p&gt;
+
+&lt;figure class=&quot;figcap&quot;&gt;
+  &lt;img src=&quot;/images/it-knows-where-i-live/cambridge_movement.png&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;Things get really clear here: you can see where I spend most of my time staying still (black dots) is at home, and around my department. The spread of points gets a bit wider here, partly because I move around the department quite a bit, but also I imagine because the walls are pretty thick, which reduces the gps accuracy. My commute to and from work gets really obvious, and I can tie each of the black blobs to an event.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;And putting this all together:&lt;/p&gt;
+
+&lt;figure class=&quot;figcap&quot;&gt;
+  &lt;img src=&quot;/images/it-knows-where-i-live/closeup.png&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;Purple dots are ‘uncategorised’ location markers – i.e. Google wasn’t sure what I was doing. In this map, I can link each of the black ‘still’ blobs to specific events: a dinner and lunch at Jesus College, a dinner at Clare college, a trip to the pub to celebrate a friend passing his PhD viva, dinner out with two sets of other friends, 3 pub visits, watching the fireworks, visiting friends in their houses, and doing my christmas shopping! You can get even more detail if you add time into the equation – you can see exactly when I was at all of these places.  And all of this is available for anyone in Google to look at… hmm…&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;And finally, here is a day:&lt;/p&gt;
+
+&lt;figure class=&quot;figcap&quot;&gt;
+  &lt;img src=&quot;/images/it-knows-where-i-live/dec12.gif&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;Follow the dot! I get to work, go to coffee around 11:20 (watch the dot move!), go out to get some lunch at 1:30pm, head back and eat it in the coffee room, then back to the office at around 2:20pm. At around 6pm I go briefly to the zoology department, then to The Mill pub to meet some friends. After the pub, I have dinner at Clare college, a drink in Clare MCR, then home via Magdelene St. You really can track my movements to the minute.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I’m going to steer clear of the morals of this kind of information hoarding, and leave this as a fun, and revealing exercise. I have always been aware that Google have been keeping an eye on me, but the extent of it is staggering!&lt;/p&gt;
+
+&lt;h5 id=&quot;the-nitty-gritty&quot;&gt;The Nitty-Gritty&lt;/h5&gt;
+
+&lt;p&gt;I did all this using open source (i.e. free) software. If you’re interested in seeing how I did it, take a look at &lt;a href=&quot;/main/code/it-knows-where-i-live-code/&quot;&gt;this post&lt;/a&gt;.&lt;/p&gt;
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Science Photography</title>
+        <link href="http://0.0.0.0:4000/blog/main/photography_competition/"/>
+        <updated>2013-12-05T13:00:00-06:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/photography_competition</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//science-photog/obranson_photo_banner.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;A few weeks ago, I foolishly entered a &lt;a href=&quot;http://www.nerc.ac.uk/press/releases/2013/87-competition/&quot;&gt;NERC Photography and Short Article Writing competition&lt;/a&gt;. I didn’t win.&lt;/p&gt;
+
+&lt;p&gt;This is what I entered:&lt;/p&gt;
+
+&lt;figure class=&quot;figcaption&quot;&gt;
+  &lt;img src=&quot;/images/science-photog/obranson_photo.jpg&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;The microscopic shell of Ammonia tepida. Smaller than a grain of sand, this shell is made by a single-celled organism called a ‘foraminifera’. This picture was taken using X-rays from a synchrotron particle accelerator (Diamond, Oxford), and reveals the fantastic complexity inside the shell.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;And the writing to go with it:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I study plankton. For fun, but also for my PhD.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The term plankton covers any animal or plant that lives in the ocean, and cannot control where they end up. The clue is in the name – planktos is Greek for ‘drifter’. This description isn’t particularly useful, and covers a truly mind-boggling diversity of sizes, shapes and lifestyles: from impossibly tiny micro-bacteria, to the enormous Lion’s Mane jellyfish, 2m in diameter, with tentacles longer than 3 buses!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Every drop of seawater is teeming with microscopic life, with its own complicated ecosystem of plants, grazers and predators all striving to survive. This microscopic tangle of life provides food for all the animals in the sea, and indirectly supports most life on land. They are an integral part of global nutrient cycling, cloud formation, regulating the concentration of CO2 in the atmosphere, and produce the oxygen in every second breath you take. In short, they are important!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In this strange, unexplored micro-world, it’s easy to get caught up in how little we understand, and just marvel at the fantastic creatures as they float by. But in science, this is frowned upon. We pick a detail of the complicated picture, and work away frantically: we hypothesise, and scheme, and reduce the detail to numbers. We categorise it, describe it, and seek to understand it, and so the puzzle is slowly completed.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;My particular piece of the puzzle is shells. Yes. Plankton can make shells. Even the plants try their hand at sculpting minerals to their advantage, and produce some truly incredible and improbable structures. They make them predominantly from calcium carbonate or silica. I study the former.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We are interested in these shells because of what they can tell us about the past. Each of these tiny structures provides us with a snapshot of the world it lived in, and by looking at fossil shells in deep ocean mud, we can look back in time and seek to understand how our planet works.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We can work out the temperature and pH of the ocean, we can estimate how much ice there was on the planet, we can tell how productive (i.e. ‘how much life was in’) the ocean was, we can track the movements of ocean currents, and we can begin to understand the way the world was before records began; and all from something you would not be able to distinguish from a grain of sand.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Those of you familiar with my blog might recognise a lot of the text from my &lt;a href=&quot;/blog/main/my-work-plankton/&quot;&gt;first post&lt;/a&gt;… not that I entered this competition in any kind of last-minute, slap-dash way, of course!&lt;/p&gt;
+
+&lt;p&gt;The result: I got shortlisted, which was nice.&lt;/p&gt;
+
+&lt;p&gt;The winner (by Paul Hopwood of the University of Exeter) was really cool: a picture of a pair of awful burying beetles. The pair black and orange shiny, hairy creatures, are feeding on a rotting carcass, while nursing their young (maggots toward the top of the picture). The female (top) is covered in horrible, parasitic mites. A striking, if rather morbid picture.&lt;/p&gt;
+
+&lt;figure class=&quot;figcap&quot;&gt;
+  &lt;img src=&quot;/images/science-photog/winner.jpg&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;Winner of the NERC Student photography competition: Burying beetles processing an animal carcass. Copyright Paul Hopwood.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Reading Ancient Climate from Plankton Shells</title>
+        <link href="http://0.0.0.0:4000/blog/main/reading-mg/"/>
+        <updated>2013-12-02T15:00:00-06:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/reading-mg</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//reading-mg/ALS_night_header.png&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Or: &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0012821X13005487&quot;&gt;Look!&lt;/a&gt;  I published a paper! This is what we did…&lt;/p&gt;
+
+&lt;p&gt;As I explained in &lt;a href=&quot;&quot;&gt;my first post&lt;/a&gt;, I study plankton. One of the main reasons I’m interested in these tiny bugs is that their shells record the state of the world they live in. By &lt;a href=&quot;http://www.iodp.org/&quot;&gt;digging deep holes in the ocean floor&lt;/a&gt;, we can get at the shells of plankton that lived millions of years ago; shells that contain a tiny chemical snapshot of the world it lived in.&lt;/p&gt;
+
+&lt;p&gt;Lots of people spend their lives getting these tiny shells and analysing their chemistry using big machines. They relate shell chemistry to the environment, and generate long-term records of climate cycles going deep into the immeasurable past, that are essential to our understanding of the planet. I come at things from a different angle – I look at how the chemicals get in the shells in the first place: what they really mean, and how far we can trust them.&lt;/p&gt;
+
+&lt;p&gt;Two years ago, I went to &lt;a href=&quot;http://www-als.lbl.gov/&quot;&gt;ALS&lt;/a&gt; for the first time. Perched in a eucalyptus forest on a crest of hills just east of Berkeley, with views over the whole Bay Area, and the Golden Gate shining in the distance. It’s a great place to be a scientist! Being from Cambridge, we felt we had a certain eccentricity to uphold, so instead of staying in the laboratory hostel we hired an RV, and camped in their car park (1/5th of the cost!). On arrival, the security guard was nonplussed, and shouted ‘Nice ride!’. In our car park, we were woken up by turkeys, and looked at by deer. The word quickly went round to ‘look out for the mad Brits by the South gate…’.&lt;/p&gt;
+
+&lt;figure class=&quot;figcaption&quot;&gt;
+  &lt;img src=&quot;/images/reading-mg/RV.jpg&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;My supervisor, Simon Redfern, inspecting our temporary home. We got most of the way to Yosemite on a weekend off when we realised it only did 12 mpg… 12!&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;ALS is the Advanced Light Source: essentially a (very) big lightbulb that produces very precise X-Rays. If you’re thinking of a lightbulb in the traditional sense, I’ll have to get you back on track slightly – the ALS is a &lt;a href=&quot;/blog/main/from-a-synchrotron/&quot;&gt;synchrotron&lt;/a&gt;. An enormous ring of magnets accelerates electrons to 99.9% the speed of light. The electrons pass through clever magnetic devices called ‘undulators’, and produce the very precise X-Rays which radiate off the ring on tangents, and power the ‘beamlines’ of the synchrotron where all the work happens. It’s these X-Rays that bring us California.&lt;/p&gt;
+
+&lt;figure class=&quot;figcaption&quot;&gt;
+  &lt;img src=&quot;/images/reading-mg/ALS_night.jpg&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;The Advanced Light Source in Berkeley, CA, where we did these experiments.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We arrive with our carefully prepared slices of plankton shell. Approximately 10×15 µm small (a human hair is around 100 µm in diameter), and 100 nm (1000 nm in a µm) thin. They’re very small. Just to get them to this stage has taken weeks of preparation, using a ‘focussed ion beam’ instrument – a machine that literally digs small holes in things by bombarding it with helium atoms. Ridiculous! So we have prepared painstakingly, flown half-way across the world (during which my face when numb… but that’s another story), hired an RV, somehow driven it along crowded freeways to the ALS in search of precise X-Rays, and against all odds, survived. Why?&lt;/p&gt;
+
+&lt;figure class=&quot;figcaption&quot;&gt;
+  &lt;img src=&quot;/images/reading-mg/beamline.jpg&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;The kind of contraption you’ll run into at a synchrotron. People often have to go back to basics at the cutting edge – this place gets through a lot of tin foil.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We’re here to study magnesium (Mg). Mg is a ‘trace element’ in shells. That is, most (99.9%) of the shell is made of what it’s supposed to be made of (calcium carbonate, CaCO3), but some small impurities get in while the shell is growing – like Mg. Back in the ’50s, people noticed that shells have more Mg in when the water is hotter. Since then this relationship has been developed and refined, and Mg is used as a ‘proxy’ for past ocean temperature. People can work out what temperature the ocean was 50 million years ago.&lt;/p&gt;
+
+&lt;p&gt;Recently, people have started to look more closely and Mg in shells, and noticed a lot of strange things going on. It’s not simply a case of Mg getting into the crystal following simple, physical rules (viz. thermodynamics and kinetics of crystal growth): the concentration of Mg varies enormously within individual shells, in a way that looks a lot like growth rings in trees. Every time the plankton adds a bit more shell, it gets another ‘ring’ of high Mg. This worried us a bit – what does this mean for all the records of Mg that we have related to temperature? How reliable is this proxy that we are relying on to understand the planet? That’s why we’re here.&lt;/p&gt;
+
+&lt;figure class=&quot;figcaption&quot;&gt;
+  &lt;img src=&quot;/images/reading-mg/result_fig1.jpg&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;One of the figures from our paper showing the ‘tree rings’ of Mg in the plankton shells.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We’ve come to check the fundamental assumptions behind the Mg temperature proxy. In practice, this means looking at how the Mg is incorporated in the shell mineral: is it present in the underlying structure of the crystal of the shell, or is it sitting in some other mineral in these ‘tree-rings’, or is it tied up in some complicated organic compound? This is where the X-Rays come in. We put our tiny wafer of plankton in a moderately big machine called a Scanning Transmission X-Ray Microscope (STXM). In this machine, we focus the X-Rays to a tiny point (30nm) on our sample, and scan that point around, measuring the absorption of X-Rays across our sample. Different energies of X-Ray interact with different, specific elements in different ways, so by fine-tuning the energy of our X-Rays, we can work out exactly where our Mg is, and what state it’s in in our samples. If you want to read more about what we did, take a look at &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0012821X13005487&quot;&gt;our paper&lt;/a&gt;, which was recently published in the journal Earth and Planetary Science Letters. It’s even open access, so you don’t have to pay Elsevier’s exorbitant article fees.&lt;/p&gt;
+
+&lt;p&gt;In the end, all was well – Mg was clearly hosted in the mineral, where everyone thought it had been all along. Mg really does tell us about temperature. Phew! But if this is what everyone thought happened all along, why all the fuss? Why have we published a paper about something everyone already assumed? The key here is that it was an assumption. No-one had rigorously tested the fundamentals of the main tools we use to understand past climate. Now we have! Woop!&lt;/p&gt;
+
+&lt;p&gt;Next up, we’ll be looking at boron – a palaeo-pH meter.&lt;/p&gt;
+
+&lt;figure class=&quot;figcaption&quot;&gt;
+  &lt;img src=&quot;/images/reading-mg/safety.jpg&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;The &#39;humour&#39; that comes from working 24 hours a day. Synchrotrons don’t stop for such trifles as the night, or weekends. Combined with a lot of potentially dangerous machinery, they’re all instilled with a fervour for safety.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>It knows where I live: the code.</title>
+        <link href="http://0.0.0.0:4000/main/code/it-knows-where-i-live-code/"/>
+        <updated>2013-12-02T15:00:00-06:00</updated>
+        <id>http://0.0.0.0:4000/main/code/it-knows-where-i-live-code</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;h6 id=&quot;nb-for-complete-beginners&quot;&gt;NB for complete beginners:&lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.r-project.org/&quot;&gt;Install R&lt;/a&gt; – follow the ‘Getting Started’ instructions.&lt;/li&gt;
+  &lt;li&gt;Install &lt;a href=&quot;http://www.rstudio.com/&quot;&gt;RStudio&lt;/a&gt;, an excellent, free interactive environment for R.&lt;/li&gt;
+  &lt;li&gt;In RStudio, install the packages you need to run the scripts below, by copying and pasting the following:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; install.packages&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;“ggmap”&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; install.packages&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;“ggplot2″&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; install.packages&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;“jsonlite”&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt; install.packages&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;“plyr”&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h6 id=&quot;and-on-to-the-good-stuff&quot;&gt;And on to the good stuff…&lt;/h6&gt;
+&lt;p&gt;1) Download the .json location data from Google Takeout.&lt;/p&gt;
+
+&lt;p&gt;2) Import the data into R, get it into a useful format, and plot it.  I haven’t included the code for the animated gif, as it gets a bit more involved (and to be perfectly honest, my code get’s all messy and horrible because I got tired :P). In short: make a function to prude a series of images, then stitch them all into a .gif using ImageMagick (not in R). If you’re interested, just ask.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# Load in the raw data from the JSON file ----------------------------------------------------&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;jsonlite&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;plyr&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; raw &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; fromJSON&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;/Path/To/LocationHistory.json&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# Get the &amp;#39;locations&amp;#39; part of the list&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; locs &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;raw&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;locations
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# these are all the columns that it contains...&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;names&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;locs&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# they&amp;#39;re in various formats...&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;lapply&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;locs&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;kp&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# Get columns into useful formats -----------------------------------------&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; ldf &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;data.frame&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;t&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;kp&quot;&gt;rep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;kp&quot;&gt;nrow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;locs&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# time is in POSIX * 1000 (milliseconds) format, convert it to useful scale...&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; ldf&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;t &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;as.numeric&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;locs&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;timestampMs&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1000&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;ldf&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;kp&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;POSIXct&amp;#39;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# lat/lon are xE7, convert them to usable numbers...&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; ldf&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;lat &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;as.numeric&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;locs&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;latitudeE7&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1E7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt; ldf&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;lon &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;as.numeric&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;locs&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;longitudeE7&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1E7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# Accuracy doesn&amp;#39;t need changing.&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;28&lt;/span&gt; ldf&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;accuracy &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; locs&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;accuracy
+&lt;span class=&quot;lineno&quot;&gt;29&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;30&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# Activity guesses (it can tell when you&amp;#39;re on a bike?!) are in a list... we can unpack these lists to get the most likely activity for each location (takes a while, depending on the size of your dataset).&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;31&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;32&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# get the most likely activity type and confidence for each time point.&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;33&lt;/span&gt; act &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; laply&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;locs&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;activitys&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;f&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;34&lt;/span&gt;  &lt;span class=&quot;kr&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kp&quot;&gt;is.null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;f&lt;span class=&quot;p&quot;&gt;[[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]]))&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;data.frame&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;activity&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;NA&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;confidence&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;NA&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;stringsAsFactors&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;F&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;data.frame&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;activity&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;f&lt;span class=&quot;p&quot;&gt;[[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]][[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]][[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]][&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;confidence&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;f&lt;span class=&quot;p&quot;&gt;[[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]][[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]][[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]][&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;stringsAsFactors&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;F&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;35&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;.&lt;/span&gt;progress&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;text&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;36&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;37&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# combine activity data with the main dataset&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;38&lt;/span&gt; ldf&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;activity &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;as.character&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;act&lt;span class=&quot;p&quot;&gt;[,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;39&lt;/span&gt; ldf&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;confidence &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;as.numeric&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;act&lt;span class=&quot;p&quot;&gt;[,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;40&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;41&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# Velocity, altitude and heading need no alteration:&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;42&lt;/span&gt; ldf&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;velocity &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; locs&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;velocity
+&lt;span class=&quot;lineno&quot;&gt;43&lt;/span&gt; ldf&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;altitude &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; locs&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;altitude
+&lt;span class=&quot;lineno&quot;&gt;44&lt;/span&gt; ldf&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;heading &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; locs&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;heading
+&lt;span class=&quot;lineno&quot;&gt;45&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;46&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# We now have a data.frame &amp;#39;ldf&amp;#39;, which contains all the location data google has on us!&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;47&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;48&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# And plot it... ----------------------------------------&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;49&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;50&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;ggplot2&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;51&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;ggmap&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;52&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;53&lt;/span&gt; EU &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; get_map&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;48&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;kn&quot;&gt;source&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;google&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;54&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;55&lt;/span&gt; ggmap&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;EU&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; geom_point&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;data&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;ldf&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;aes&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;lon&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;lat&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;colour&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;red&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;56&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;57&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# Let&amp;#39;s just look at the UK stuff...&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;58&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;59&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# first, define a quick funciton to clip the data to the current map&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;60&lt;/span&gt; mapclip &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;df&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;map&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;61&lt;/span&gt;  coord &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;attr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;map&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;bb&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;62&lt;/span&gt;  &lt;span class=&quot;kr&quot;&gt;return&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kp&quot;&gt;subset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;df&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;lon&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;coord&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;ll.lon &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; lon&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;coord&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;ur.lon &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; lat&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;coord&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;ll.lat &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; lat&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;coord&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;ur.lat&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;63&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;64&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;65&lt;/span&gt; UK &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; get_map&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;Oxford, UK&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;scale&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;66&lt;/span&gt; ldf.uk &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; mapclip&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;ldf&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;UK&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;67&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;68&lt;/span&gt; ggmap&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;UK&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; geom_point&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;data&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;ldf.uk&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;aes&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;lon&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;y&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;lat&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;colour&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;red&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;size&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;69&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;70&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# Let&amp;#39;s have a look at Cambridge...&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;71&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;72&lt;/span&gt; cam &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; get_map&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;Cambridge, UK&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;13&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;scale&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;73&lt;/span&gt; clip &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; coord_map&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;projection&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;mercator&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;xlim&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0.1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0.15&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;ylim&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;52.19&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;52.23&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;74&lt;/span&gt; ldf.cam &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; mapclip&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;ldf&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;cam&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;75&lt;/span&gt; ggmap&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;cam&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; geom_point&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;data&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;ldf.cam&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;aes&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;lon&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;y&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;lat&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;colour&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;red&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;size&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;alpha&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0.5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; clip
+&lt;span class=&quot;lineno&quot;&gt;76&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;77&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# And what do I do in cambridge?&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;78&lt;/span&gt; ldf.cam.act &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;subset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;ldf.cam&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;activity &lt;span class=&quot;o&quot;&gt;%in%&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;inVehicle&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;onBicycle&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;onFoot&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;still&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;79&lt;/span&gt; ggmap&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;cam&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; geom_point&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;data&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;ldf.cam.act&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;aes&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;lon&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;y&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;lat&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;colour&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;activity&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;size&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; scale_colour_manual&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;values&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;red&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;orange&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;yellow&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;black&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; clip
+&lt;span class=&quot;lineno&quot;&gt;80&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;81&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# A little closer? And add in the non-active markers, to get more of a trend.&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;82&lt;/span&gt; camclose &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; get_map&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;Cambridge, UK&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;15&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;scale&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;83&lt;/span&gt; ldf.cam.act.close &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; mapclip&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;ldf.cam.act&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;camclose&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;84&lt;/span&gt; ldf.cam.close &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; mapclip&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;ldf&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;camclose&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;85&lt;/span&gt; ggmap&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;camclose&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; geom_point&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;data&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;ldf.cam.close&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;aes&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;lon&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;lat&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;colour&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;purple&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;alpha&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0.6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; geom_point&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;data&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;ldf.cam.act.close&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;aes&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;lon&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;y&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;lat&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;colour&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;activity&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;size&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; scale_colour_manual&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;values&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;red&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;orange&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;yellow&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;black&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Isotopes in Medicine</title>
+        <link href="http://0.0.0.0:4000/blog/main/isotopes-in-medicine/"/>
+        <updated>2013-09-02T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/isotopes-in-medicine</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//isotopes-in-medicine/medicine_cover.png&quot;&gt;&lt;br/&gt;
+        	&lt;h3 id=&quot;goldschmidt-2013--tuesday&quot;&gt;Goldschmidt 2013 – Tuesday&lt;/h3&gt;
+
+&lt;h5 id=&quot;plenary-session-francis-albarde-on-isotopes-of-disease&quot;&gt;Plenary Session: Francis Albarède on ‘Isotopes of Disease’&lt;/h5&gt;
+
+&lt;p&gt;Geochemists study the natural processes that govern the distribution of chemicals in the world. Some (like me) directly study the minutia of the processes themselves, while others derive information about the processes by looking at the chemical signatures they produce. &lt;a href=&quot;http://perso.ens-lyon.fr/francis.albarede/&quot;&gt;Francis Albarède&lt;/a&gt; has provided a fantastic example of the latter, illustrating the breadth and depth of geochemical techniques by turning them to focus on the intricacies of human health.&lt;/p&gt;
+
+&lt;p&gt;In a range of experiments his research group studied the &lt;a href=&quot;http://en.wikipedia.org/wiki/Isotope&quot;&gt;isotopic&lt;/a&gt; ratios of various metals that are present in trace amounts in mammals – Cu, Zn, Fe and others. The researchers analysed various tissues and organs of mice and sheep, and found that different parts of the animal had distinct isotopic signatures.&lt;/p&gt;
+
+&lt;h5 id=&quot;isotopes&quot;&gt;Isotopes&lt;/h5&gt;
+
+&lt;p&gt;An ‘isotopic signature’ is not an inherently intuitive concept… first of all, you need to understand what an isotope is.  At a basic level, an atom is made up of protons, neutrons and electrons. The protons and electrons are the ‘business end’ of the atom, providing all the forces that cause it to interact with other atoms: repel and attract, form bonds and generally define the physical and chemical properties of the atom. The neutrons just sit in the nucleus of the atom, and make it heavier. An element can have more or fewer neutrons, and still have almost identical physical and chemical properties, but a different weight: these are isotopes.&lt;/p&gt;
+
+&lt;figure class=&quot;figcap&quot;&gt;
+  &lt;img src=&quot;/images/isotopes-in-medicine/h-isotopes.jpg&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;Three isotopes of hydrogen. The only difference between them is the number of protons in the nucleus (the dark blobs in the middle).&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The ‘&lt;em&gt;almost identical&lt;/em&gt;‘ is key here: they are not perfectly identical. The presence of extra neutrons makes the atom behave in subtly different ways: at a given energy, a heavier atom will move around slightly less than a lighter atom, making them able to form stronger bonds. This means that as the atoms go through chemical processes where bonds are formed and broken a lot (literally any chemical process in the universe), you will end up with lighter isotopes going one way, and heavier isotopes going another. This is isotopic fractionation.&lt;/p&gt;
+
+&lt;p&gt;A very simple example: The two main isotopes of oxygen are &lt;sup&gt;18&lt;/sup&gt;O and &lt;sup&gt;16&lt;/sup&gt;O: one &lt;a href=&quot;http://en.wikipedia.org/wiki/Avogadro_constant&quot;&gt;mole&lt;/a&gt; (6.02214129 × 10&lt;sup&gt;23&lt;/sup&gt; atoms) of each isotope of oxygen will weigh 18g and 16g, because of the extra neutrons in there. Water is made up of hydrogen and oxygen, and when it evaporates, the lighter isotope goes first (its bonds to the hydrogen atoms are weaker). This means that water left behind after evaporation will be enriched in heavy oxygen, and the clouds above that water will be enriched in light oxygen. Scientists can use this relationship to find out all sorts of things about global temperatures, and the amount of ice on the planet, by considering the ratios of heavy to light oxygen isotopes that we find in various materials… but that’s &lt;a href=&quot;http://en.wikipedia.org/wiki/%CE%9418O&quot;&gt;another story&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Back to our bodies!&lt;/p&gt;
+
+&lt;h5 id=&quot;isotopes-in-you&quot;&gt;Isotopes in YOU&lt;/h5&gt;
+
+&lt;p&gt;Francis Albarède’s research group found that different parts of animals had consistently different isotopic signatures. The ‘heaviness’ of Cu, Zn and Fe vary a lot between tissues and organs, and between animals. Despite all this variation, the isotope ratios of a single tissue in a single animal stays remarkable constant, regardless of the diet or lifestyle of the animal. This means that the biology of healthy tissues and organs will fix the isotopic ratio of different trace metals in them, depending on how it puts them to work.&lt;/p&gt;
+
+&lt;p&gt;The next step in this process would be to ask, ‘what happens when a tissue or organ goes wrong?’, which is exactly what these scientists did. In a series of rather sobering slides, Dr Alberède talked the audience through Cu isotope data from a number of cancer patients. These graphs aren’t published, so I can’t include any here, but suffice to say that he had to explain that the time scales were all different lengths: often patients died during the course of the experiments.&lt;/p&gt;
+
+&lt;p&gt;These graphs were essentially timelines of a patient’s treatment, from diagnosis to recovery or death. They contained three lines – two showing the blood concentrations of traditionally used ‘biomarkers’ of cancer, and one showing the blood copper isotope ratio (the ‘heaviness’ of copper in the blood). Biomarkers are compounds that the body produces when it is fighting a tumour. They are by-products of the immune system, so there is a time lag between the body realising what’s going on, and the production of these biomarkers to the extent where they can be measured by medical techniques.&lt;/p&gt;
+
+&lt;p&gt;Not so with copper isotopes. These are affected directly by the growing tumour tissues. Because each tissue type has a distinct isotope ratio, anything going wrong with these tissues will disrupt the isotope ratio in the blood. The copper isotopes rose and fell in the graphs, almost always preceding the fluctuations in traditional biomarkers by a several weeks – vital time in a cancer treatment. There was even one case where the biomarkers showed almost no variation, while the copper isotopes plummeted dramatically until the patient died.&lt;/p&gt;
+
+&lt;p&gt;Both this idea and this technique are very new, and there are a host of questions and problems surrounding it, mainly concerned with our lack of understanding of all the processes that can effect isotopes in our body.  For example, another talk I attended discussed the use of copper isotopes for the early diagnosis of Wilson’s disease, which is very manageable if caught early. This is great, but how does this tie in with the cancer story? What other diseases can effect Cu isotopes? Will they only work in ‘simple’ cancer cases?&lt;/p&gt;
+
+&lt;p&gt;Clearly there is a long way to go in developing these techniques, but if these isotopes are as useful as they seem, I imagine it won’t be long until our hospitals are equipped with mass spectrometers.&lt;/p&gt;
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Deep Life</title>
+        <link href="http://0.0.0.0:4000/blog/main/deep-life/"/>
+        <updated>2013-08-27T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/deep-life</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//deeplife/deeplife_cover.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;h2 id=&quot;goldschmidt-2013--monday&quot;&gt;Goldschmidt 2013 – Monday&lt;/h2&gt;
+
+&lt;h3 id=&quot;session-19k-life-below-the-seafloor--how-alive-and-how-important&quot;&gt;Session 19k: Life Below the Seafloor – How Alive, and How Important?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gso.uri.edu/dhondtlab/Welcome_to_the_DHondt_Lab.html&quot;&gt;Steve D’Hondt&lt;/a&gt; kicked the session off with a fantastic introduction to the ‘Mysteries of Subseafloor Sedimentary Life’, where he painted a bizarre picture of an alien and incredible world beneath the oceans. Until recently, we thought these depths were devoid of all life.&lt;/p&gt;
+
+&lt;p&gt;Light does not penetrate to the bottom of the ocean. Everything that lives there survives of detritus falling from the teeming waters far above them, or gets its energy from the frenetic chemical reactions at &lt;a href=&quot;http://en.wikipedia.org/wiki/Hydrothermal_vent&quot;&gt;hydrothermal vents&lt;/a&gt;, where volcanically heated water belches out of the seafloor at up to 400 degree celsius. Life at these depths is sparse, mostly microbial, and adapted to life in a cool, lightless world. This world is strange to us, but there are aspects of the familiar – fish, sharks, and crustaceans can all be found down here. Underneath these creatures, the world gets more peculiar.&lt;/p&gt;
+
+&lt;p&gt;A layer of marine mud several kilometres thick covers most of the sea floor. It reaches all the way down to the hard basement rock of the oceanic crust. This mud has built up over millions of years from a mixture of dead plants and animals from the surface waters, and runoff from continents sinking from the sea surface. This creatively-named ‘marine snow’ provides all the food for the organisms living deep beneath the surface.&lt;/p&gt;
+
+&lt;figure class=&quot;figcap right&quot;&gt;
+  &lt;img src=&quot;/images/deeplife/cells-depth.png&quot; style=&quot;width:350px&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;The number of cells beneath the surface of the mud, from &lt;a href=&quot;http://www.pnas.org/content/109/40/16213.short&quot;&gt;doi:10.1073/pnas.1203849109&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;At the surface, this marine mud is rich in food, oxygen and life and is a relative hive of activity. Microbes work away frantically digesting the food that has fallen from the surface. But as the marine snow continues to fall, these busy microbes start to get buried. Many die off as they run out of food, but a specialist few survive and take over as they are buried deeper and deeper. The deep muds are dominated by a diverse community of bacteria and archaea (archaea are a collection of evolutionarily ancient single-celled bugs that are often good at surviving in extreme conditions.)&lt;/p&gt;
+
+&lt;p&gt;As they go deeper, the muds become cooler, pressure increases, the amount of food decreases and everything starts to slow down. At these depths it’s hard to tell that anything is alive at all because they are living so slowly. The microbes here can take up to 10,000 years to double their population size (E. coli can do this in around 20 minutes!). Some have suggested that they can use energy from the slow decay of radioactive chemicals in the sediments, rather than relying solely on the small amounts of food in the mud. We only discovered that they were there by stumbling across their DNA. They are adapted to a world were there is very little food, and nothing changes in a hurry.&lt;/p&gt;
+
+&lt;figure class=&quot;figcap&quot;&gt;
+  &lt;img src=&quot;/images/deeplife/deep_dist.png&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;The global distribution of deep life. From &lt;a href=&quot;http://www.pnas.org/content/109/40/16213.short&quot;&gt;doi:10.1073/pnas.1203849109&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Go deeper still, and the temperature begins to rise – heat from beneath the thin oceanic crust penetrates up through the sediments, and increases the temperature to hundreds of degrees celcius. This limits the lower limits of where these barely-alive creatures can exist to between 2-5 km.&lt;/p&gt;
+
+&lt;p&gt;These microbes have a big influence on the chemistry of deep sediments, which can affect the role they play in global chemical cycles, and even the composition of volcanic eruptions. As oceanic crust is sucked down below the Earth’s surface, the layer of mud that the microbes live in goes with it, and the chemistry of this mud can influence the chemistry of the upper mantle, and therefore the nature of volcanic eruptions. In truth though, we really don’t know how important these deep microbes are to the surface world – we have only just realised that they exist!&lt;/p&gt;
+
+&lt;p&gt;The presence of these bizarre microbes stretches our definitions of life – they live and divide on geological timescales, far removed from the energy cycles driven by the sun at the surface. They raise interesting questions about the possibilities of life on other planets – if they can survive in the depths with almost no food or oxygen, who knows what could be hiding under the surface of Mars?&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Goldschmidt 2013</title>
+        <link href="http://0.0.0.0:4000/blog/main/goldschmidt-2013/"/>
+        <updated>2013-08-26T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/goldschmidt-2013</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images//goldschmidt/Florence.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This week I am at the annual conference of the &lt;a href=&quot;http://www.geochemsoc.org/&quot;&gt;Geochemical Society&lt;/a&gt; in Florence: &lt;a href=&quot;http://goldschmidt.info/2013/&quot;&gt;Goldschmidt 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This eclectic conference covers anything related to geochemistry: the science that describes the distribution of chemical elements in nature. In practice, this means anything from the metabolic processes of microbes to the formation of planets, and everything in between. There are around 4000 scientists here from all over the world. I will be updating my blog each day with more about the content of the conference.&lt;/p&gt;
+
+&lt;figure class=&quot;right figcap&quot;&gt;
+  &lt;img src=&quot;https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/0/0b/Victorgoldschmidt0006MA8633570-0001.jpg
+&quot; width=&quot;180&quot; /&gt;
+  &lt;figcaption&gt;Victor Goldschmidt&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The namesake of the conference is the Swiss prodigy &lt;a href=&quot;http://en.wikipedia.org/wiki/Victor_Goldschmidt&quot;&gt;Victor Moritz Goldschmidt&lt;/a&gt;, widely regarded as the father of modern geochemistry. Alongside Vladimir Vernadsky, he was one of the first scientists to consider why elements were distributed as they were in nature, and think about the processes behind the distribution and what they meant. These first steps have led to a broad discipline of science that seeks to understand our world and others by investigating the distribution and behaviour of chemicals in it.&lt;/p&gt;
+
+&lt;p&gt;The conference is being held in the menacing Fortezza da Basso. Commissioned in the 16th century Alessandro de’ Medici, and active during the second world war, the vast fort now houses a vast conference centre. There are big, open spaces in a large central building filled with smaller semi-soundproof boxes where the talks happen. As each set of talks finish small bursts of applause appear at random from the boxes and echo round the spaces in between, followed by a rush of people bustling to the next set of talks. It is a strange place!&lt;/p&gt;
+
+&lt;figure class=&quot;figcap right&quot;&gt;
+  &lt;img src=&quot;/images/goldschmidt/fortrezza.jpg&quot; width=&quot;100%&quot; /&gt;
+  &lt;figcaption&gt;Goldschmidt 2013 at Fortezzo da Basso.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>From a Synchrotron</title>
+        <link href="http://0.0.0.0:4000/blog/main/from-a-synchrotron/"/>
+        <updated>2013-08-13T07:00:00-05:00</updated>
+        <id>http://0.0.0.0:4000/blog/main/from-a-synchrotron</id>
+        <author>
+					<name>Oscar Branson</name>
+					<uri>http://0.0.0.0:4000/</uri>
+					<email>oscarbranson@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://0.0.0.0:4000/images/synchrotron/diamond.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;!-- &lt;figure class=&quot;right figcap&quot; &gt;
+  &lt;img src=&quot;https://i0.wp.com/www.publicengagement.ac.uk/sites/default/files/Diamond%20Light%20Source.jpg&quot; alt=&quot;Diamond Light Source&quot; width=&quot;300&quot;&gt;
+  &lt;figcaption&gt;Diamond Light Source from above.&lt;/figcaption&gt;
+&lt;/figure&gt;
+ --&gt;
+&lt;p&gt;I am sitting in an enormous, shiny doughnut. It is 240 metres across, took 4 years to make, and cost £383 million.&lt;/p&gt;
+
+&lt;p&gt;On the inside, it is silver, grey and yellow. The floor and walls are grey, the arching roof is shiny, silver and flimsy. Every 20 metres or so a path around the rim is cut by a vast yellow pipe, or box. In the centre of the doughnut is a raised, angular ring, with yellow mesh walkways. Everything hums. The whole place smells of concrete dust. I’m at a synchrotron: the &lt;a href=&quot;http://www.diamond.ac.uk/Home/About.html&quot;&gt;Diamond Light Source&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/synchrotron/overview.jpg&quot; /&gt;
+  &lt;figcaption&gt;A view along the inside of the Diamond doughnut.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Everywhere yellow is dangerous. You need to have watched an online video and taken a test to go there. The angular ring with mesh walkways in the centre is the heart of the synchrotron, the yellow blocks radiate out on tangents. These conceal the business end of the synchrotron – layers of concrete and lead, insulating a frighteningly powerful beam of X-rays 100 billion (100,000,000,000… or in scientific terms, MANY) times brighter than the sun. The beam, although only around the size of a human hair, will give you a lethal radiation dose in a fraction of a second, or so the online presentation told me. Although it also told me that the average worker here gets less X-Ray exposure in a whole year than you get on a half-hour [1], so I breath a bit easier.&lt;/p&gt;
+
+&lt;figure class=&quot;right&quot; style=&quot;width:300px&quot;&gt;
+  &lt;img src=&quot;/images/synchrotron/yellowdoor.jpg&quot; /&gt;
+  &lt;figcaption&gt;The heavy yellow door that goes ‘thunk’.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;On the outward side of these these big yellow boxes, we reach the other end of the scale, and the reason we’re here: minutely delicate machines, slaved over and perfected to examine things smaller than it’s easy to imagine. The yellow boxes, or ‘hutches’, vary from the size of a small garden shed, to a cavernous room where you could happily have a game of tennis. Entry is via a heavy, concrete and lead door that opens and closes with a satisfying ‘thunk’ as all the safety interlocks tell the control room which x-rays are allowed out of their tubes. The kind of door that you have to put your whole weight behind to shift. You have to creep round the heavy door, brandishing a gently ticking Geiger counter – the last failsafe in a long line of idiot-proofing to make sure you don’t irradiate yourself. If it squeals, something has gone wrong, and you close the door as quickly as possible. That hasn’t happened yet.&lt;/p&gt;
+
+&lt;p&gt;Once inside you’re confronted with a shambles of organised chaos. All the walls are lined with racks of wires, all labelled, colour-coded and running to carefully planned places. There are lights of various shapes and sizes, alarms, sirens, monitors, safety rails and buttons, all sitting silent and watching you. All the chaos focuses on a single point: a complicated looking array of rails, motors, odd-shaped bits of metal, and tubes, all perched atop an unfeasibly large lump of granite on groaning foam legs. The instrument.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/synchrotron/shambles.png&quot; /&gt;
+  &lt;figcaption&gt;A shambles of organised chaos.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;At the moment, there are 18 such yellow boxes working at Diamond, and several more being built. One day there will be 40. These run 24 hours a day, for most of the year, with people and experiments coming from all over the world to visit them. Each box contains a different type of instrument, suited to a specific area of science, and set of techniques. Some take X-ray images, almost exactly the same as hospital x-ray images, but of much, much smaller things. Others are built to determine the structures of proteins, viruses and minerals, investigate the properties of micro-electronics, or examine the state and distribution of particular chemicals within a substance (to name but a few). An astonishing range of obscure and wonderful research goes on here!&lt;/p&gt;
+
+&lt;p&gt;Once your sample is in, and everything is set, you touch your safety-approved ID card to a special pad by the door. ARGH! Sirens start screaming, yellow lights start flashing. This is truly horrible at 3am. I calm the screams of the sirens slightly by imagining them saying in a soothing voice “This room is about to be filled with mega-death-rays, please leave if you want to live”. Except for one person – the person that has touched their ID card to the sensor has to patrol the area, pressing a series of buttons designed to make sure you search in all corners, and behind all barriers. You can’t press them too quickly, or too slowly (people notice). Once all these buttons are satisfied, you can shut the heavy door (‘thunk!’), and the sirens cease (thank god…), to be replaced by a constant whine of a second siren (ARGH!). At this point, all the lights in the room have gone off, and been replaced by UV lights. Everything has gone purple, and UV-sensitive signs marking the doors, and the emergency stop buttons glow brightly, warning anyone you’ve missed in your search that they have 30 seconds before mega-death-ray time, and they really really really shouldn’t be in there. This tends to be a bad position to be in, not least for the poor trapee, but for all other experiments going on at the synchrotron. An emergency stop button kills the entire synchrotron, and requires a thorough investigation before it can be restarted. Not to be pressed frivolously, or leant on by mistake! After this second wail has ceased, you open the shutters, X-rays pour into the room, and you retire to a bank of computers to shine the light on your sample.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;80&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?visual=false&amp;amp;url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F105157143&amp;amp;show_artwork=false&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;lightbulb&quot;&gt;Lightbulb&lt;/h3&gt;
+
+&lt;p&gt;So that is a sycnhrotron… but what is this mythical beast? A synchrotron is a type of &lt;del&gt;cyclotron&lt;/del&gt; particle accelerator (thanks &lt;a href=&quot;https://twitter.com/suziesheehy&quot;&gt;@suziesheehy&lt;/a&gt;). That might not be as unhelpful as it first seems: both are ‘-trons’. We come into contact with trons all the time – powering our lights, charging our batteries – ‘tron’ is a suffix extracted from ‘electron’. ‘Cyclo-‘ is a derivation of ‘kyklos’, the ancient Greek for circle. So a cyclotron is a circle of electrons, and a synchrotron is a synchronised circle of electrons. Is this helping?&lt;/p&gt;
+
+&lt;p&gt;I’ll try to move away from jargon for a moment here, and return to basics: electrons are one of the three particles (alongside protons and neutrons) that you will have been told make up an atom. In reality there are many more subatomic particles… but that’s another story. In this simple version, the protons and neutrons sit in the nucleus of the atom, and the electrons zoom around in a cloud, far away from the nucleus. To put this in perspective, if the nucleus of a hydrogen atom were the same size as our sun, the closest electron would be about 5 times as far away as Neptune (the furthest planet), and slightly larger than Jupiter (the largest planet). That’s very far, and very big. The electrons are held (relatively) close to the atom because they are negatively charged, and are attracted to the positive protons in the nucleus. This relationship between nucleus and electrons defines an atom: the number and arrangement of electrons the atom has defines the shape, colour, reactivity, and all other physical properties of an element.&lt;/p&gt;
+
+&lt;p&gt;So if an electron is so vitally important to an atom, how and why do you want to get them in a ring? By getting the electrons moving in this controlled way, we can manipulate them to produce very intense, very precise bursts of light: the X-rays used by synchrotron instruments. A piece of equipment called and undulator (or sometimes a wiggler!) uses magnetic fields to make the electrons move rapidly from side to side (wiggle), which causes them to release energy as light. The positions and intensities of these magnets determines the wavelength of light that they emit, so you can fine-tune your X-rays to a specific energy that suits your samples. If you want to know more about how it works, try this highly polished executive video produced by Diamond:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_xv_GwCgpAc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Synchrotrons are very precise, very expensive lightbulbs.&lt;/p&gt;
+
+&lt;p&gt;Because of the various predictable ways in which light interacts with electrons (&lt;a href=&quot;http://www.its.caltech.edu/~ch24/lecture2324_2004.pdf&quot;&gt;scattering, absorption, emission&lt;/a&gt;), we can find out new and interesting things about our samples by measuring the way the light is altered by passing through them. You can study the minutia of atomic architecture, the precise details of chemical reactions, and begin to understand how things fit together.&lt;/p&gt;
+
+&lt;p&gt;In practice, this involves: humming machines, unusual amounts of tin foil, very little sleep, questionable food, glorious/dire settings, scooters, a whole mad, sleepless world of scientists and engineers, constantly badgering away at machines that barely work to understand the minute details of the world. Quite unusual, and at times, very exciting.&lt;/p&gt;
+
+&lt;p&gt;What have they accomplished? Huge advances in batteries, semiconductors, molecular structures, anti-biotics, biominerals, atmospheric reactions. So many things would be less without synchrotrons!&lt;/p&gt;
+
+&lt;h3 id=&quot;three-synchrotrons-and-i&quot;&gt;Three synchrotrons and I&lt;/h3&gt;
+
+&lt;p&gt;I’ve had the privilege of spending around a month at three synchrotrons over the last two years: the &lt;a href=&quot;http://www.diamond.ac.uk/Home/About.html&quot;&gt;Diamond Light Source&lt;/a&gt; (Harwell, Oxfordshire), the &lt;a href=&quot;http://www-als.lbl.gov/&quot;&gt;Advanced Light Source&lt;/a&gt; (Berkeley, CA) and &lt;a href=&quot;http://www.helmholtz-berlin.de/forschung/grossgeraete/beschleunigerphysik/bessy2/index_en.html&quot;&gt;BESSY II&lt;/a&gt; (Adlershof, near Berlin). Each is distinct, in character, approach and capabilities, and have been great fun in their different ways.&lt;/p&gt;
+
+&lt;p&gt;More on these trips later, but here is a synchrotron-view of a tiny plankton shell in the meantime. It’s around 0.2mm long.&lt;/p&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3LgWpiRxjQw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;[1] Planes go higher in the atmosphere, where the radiation from the sun has had less distance to be absorbed by the air, and is considerably stronger. On an aside, it is this radiation that is causing difficulties for manned missions to Mars (getting there, breathing and eating are comparatively simple!). The sun produces light across the whole electromagnetic spectrum – from radio waves to gamma-rays. Our atmosphere absorbs most of this light before it gets to us – particularly the harmful higher energy UV and X-Rays. In space, there is almost nothing to absorb this, and it hits spacecraft full force.&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+</feed>

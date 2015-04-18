@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>It knows where I live: the code. • Oscar Branson</title>
+    
+    <meta name="keywords" content="blog, code">
+    
+    
+    	<!-- Twitter Cards -->
+	<meta name="twitter:title" content="It knows where I live: the code.">
+	
+	<meta name="twitter:site" content="@oscarbranson">
+	<meta name="twitter:creator" content="@oscarbranson">
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:image" content="http://0.0.0.0:4000/images/code_teaser.png">
+	
+	<!-- Open Graph -->
+	<meta property="og:locale" content="">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="It knows where I live: the code.">
+	
+	<meta property="og:url" content="http://0.0.0.0:4000/main/code/it-knows-where-i-live-code/">
+	<meta property="og:site_name" content="Oscar Branson">
+    
+
+    <link rel="canonical" href="http://0.0.0.0:4000/main/code/it-knows-where-i-live-code/">
+
+    <link href="http://0.0.0.0:4000/atom.xml" type="application/atom+xml" rel="alternate" title="Oscar Branson Atom Feed">
+    <link href="http://0.0.0.0:4000/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+
+    <style>
+    .sliding-menu-content {
+      top: 0;
+      right: 0;
+      text-align: center;
+      visibility: hidden;
+      height: 100%;
+      width: 100%;
+      -webkit-transform: translateX(100%);
+      -moz-transform: translateX(100%);
+      -ms-transform: translateX(100%);
+      -o-transform: translateX(100%);
+      transform: translateX(100%);
+    }
+    </style>
+
+    <link rel="stylesheet" href="http://0.0.0.0:4000/css/main.css">
+    <!-- HTML5 Shiv and Media Query Support for IE -->
+    <!--[if lt IE 9]>
+      <script src="http://0.0.0.0:4000/js/vendor/html5shiv.min.js"></script>
+      <script src="http://0.0.0.0:4000/js/vendor/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body>
+    <header id="masthead">
+  <div class="inner-wrap">
+    <a href="http://0.0.0.0:4000" class="site-title">Oscar Branson</a>
+    <nav role="navigation" class="menu top-menu">
+        <ul class="menu-item">
+	<li class="home"><a href="/">Oscar Branson</a></li>
+	
+    
+        
+    
+    <li><a href="http://0.0.0.0:4000/blog/" >Blog</a></li>
+  
+    
+        
+    
+    <li><a href="http://0.0.0.0:4000/travel/" >Travel</a></li>
+  
+    
+        
+    
+    <li><a href="http://0.0.0.0:4000/papers/" >Papers</a></li>
+  
+    
+        
+    
+    <li><a href="http://0.0.0.0:4000/code/" >Code</a></li>
+  
+    
+        
+    
+    <li><a href="http://0.0.0.0:4000/about/" >About</a></li>
+  
+</ul>
+    </nav>
+  </div><!-- /.inner-wrap -->
+</header><!-- /.masthead -->
+    <nav role="navigation" class="js-menu sliding-menu-content">
+	<ul class="menu-item">
+		<li>
+      
+        
+      
+			<a href="http://0.0.0.0:4000/blog/"><img src="http://0.0.0.0:4000/images/blog_teaser.png" alt="teaser" class="teaser"></a>
+			<a href="http://0.0.0.0:4000/blog/" class="title">Blog</a>
+			<p class="excerpt">Stray thoughts...</p>
+		</li><li>
+      
+        
+      
+			<a href="http://0.0.0.0:4000/travel/"><img src="http://0.0.0.0:4000/images/travel_teaser.jpg" alt="teaser" class="teaser"></a>
+			<a href="http://0.0.0.0:4000/travel/" class="title">Travel</a>
+			<p class="excerpt">Adventures</p>
+		</li><li>
+      
+        
+      
+			<a href="http://0.0.0.0:4000/papers/"><img src="http://0.0.0.0:4000/images/papers_teaser.jpg" alt="teaser" class="teaser"></a>
+			<a href="http://0.0.0.0:4000/papers/" class="title">Papers</a>
+			<p class="excerpt">Science I have done.</p>
+		</li><li>
+      
+        
+      
+			<a href="http://0.0.0.0:4000/code/"><img src="http://0.0.0.0:4000/images/code_teaser.png" alt="teaser" class="teaser"></a>
+			<a href="http://0.0.0.0:4000/code/" class="title">Code</a>
+			<p class="excerpt">Serious geekery</p>
+		</li><li>
+      
+        
+      
+			<a href="http://0.0.0.0:4000/about/"><img src="http://0.0.0.0:4000/images/oscar_teaser.jpg" alt="teaser" class="teaser"></a>
+			<a href="http://0.0.0.0:4000/about/" class="title">About</a>
+			<p class="excerpt">A bit about Oscar</p>
+		</li>
+	</ul>
+</nav>
+<button type="button" class="js-menu-trigger sliding-menu-button menulines-button x2" role="button" aria-label="Toggle Navigation">
+	<span class="menulines"></span>
+</button>
+
+<div class="js-menu-screen menu-screen"></div>
+
+    <div id="page-wrapper">
+      <!--[if lt IE 9]><div class="upgrade notice-danger"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
+
+      <div id="main" role="main">			
+	<article class="wrap" itemscope itemtype="http://schema.org/Article">
+		
+		<nav class="breadcrumbs">
+  <a href="http://0.0.0.0:4000">Home</a> <span class="divider">/</span> <a href="http://0.0.0.0:4000/main/">Main</a> <span class="divider">/</span>
+</nav><!-- /.breadcrumbs -->
+		<div class="page-title">
+			<h1>It knows where I live: the code.</h1>
+		</div>
+		<div class="inner-wrap">
+			<nav class="toc"></nav><!-- /.toc -->
+			<div id="content" class="page-content" itemprop="articleBody">
+				<h6 id="nb-for-complete-beginners">NB for complete beginners:</h6>
+
+<ul>
+  <li><a href="http://www.r-project.org/">Install R</a> – follow the ‘Getting Started’ instructions.</li>
+  <li>Install <a href="http://www.rstudio.com/">RStudio</a>, an excellent, free interactive environment for R.</li>
+  <li>In RStudio, install the packages you need to run the scripts below, by copying and pasting the following:</li>
+</ul>
+
+<div class="highlight"><pre><code class="language-r" data-lang="r"><span class="lineno">1</span> install.packages<span class="p">(</span>“ggmap”<span class="p">)</span>
+<span class="lineno">2</span> install.packages<span class="p">(</span>“ggplot2″<span class="p">)</span>
+<span class="lineno">3</span> install.packages<span class="p">(</span>“jsonlite”<span class="p">)</span>
+<span class="lineno">4</span> install.packages<span class="p">(</span>“plyr”<span class="p">)</span></code></pre></div>
+
+<h6 id="and-on-to-the-good-stuff">And on to the good stuff…</h6>
+<p>1) Download the .json location data from Google Takeout.</p>
+
+<p>2) Import the data into R, get it into a useful format, and plot it.  I haven’t included the code for the animated gif, as it gets a bit more involved (and to be perfectly honest, my code get’s all messy and horrible because I got tired :P). In short: make a function to prude a series of images, then stitch them all into a .gif using ImageMagick (not in R). If you’re interested, just ask.</p>
+
+<div class="highlight"><pre><code class="language-r" data-lang="r"><span class="lineno"> 1</span> <span class="c1"># Load in the raw data from the JSON file ----------------------------------------------------</span>
+<span class="lineno"> 2</span> <span class="kn">require</span><span class="p">(</span>jsonlite<span class="p">)</span>
+<span class="lineno"> 3</span> <span class="kn">require</span><span class="p">(</span>plyr<span class="p">)</span>
+<span class="lineno"> 4</span> 
+<span class="lineno"> 5</span> raw <span class="o">=</span> fromJSON<span class="p">(</span><span class="s">&#39;/Path/To/LocationHistory.json&#39;</span><span class="p">)</span>
+<span class="lineno"> 6</span> 
+<span class="lineno"> 7</span> <span class="c1"># Get the &#39;locations&#39; part of the list</span>
+<span class="lineno"> 8</span> locs <span class="o">=</span> <span class="kp">raw</span><span class="o">$</span>locations
+<span class="lineno"> 9</span> 
+<span class="lineno">10</span> <span class="c1"># these are all the columns that it contains...</span>
+<span class="lineno">11</span> <span class="kp">names</span><span class="p">(</span>locs<span class="p">)</span>
+<span class="lineno">12</span> <span class="c1"># they&#39;re in various formats...</span>
+<span class="lineno">13</span> <span class="kp">lapply</span><span class="p">(</span>locs<span class="p">,</span><span class="kp">class</span><span class="p">)</span>
+<span class="lineno">14</span> 
+<span class="lineno">15</span> <span class="c1"># Get columns into useful formats -----------------------------------------</span>
+<span class="lineno">16</span> 
+<span class="lineno">17</span> ldf <span class="o">=</span> <span class="kt">data.frame</span><span class="p">(</span>t<span class="o">=</span><span class="kp">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="kp">nrow</span><span class="p">(</span>locs<span class="p">)))</span>
+<span class="lineno">18</span> 
+<span class="lineno">19</span> <span class="c1"># time is in POSIX * 1000 (milliseconds) format, convert it to useful scale...</span>
+<span class="lineno">20</span> ldf<span class="o">$</span>t <span class="o">=</span> <span class="kp">as.numeric</span><span class="p">(</span>locs<span class="o">$</span>timestampMs<span class="p">)</span><span class="o">/</span><span class="m">1000</span>
+<span class="lineno">21</span> <span class="kp">class</span><span class="p">(</span>ldf<span class="o">$</span><span class="kp">t</span><span class="p">)</span> <span class="o">=</span> <span class="s">&#39;POSIXct&#39;</span>
+<span class="lineno">22</span> 
+<span class="lineno">23</span> <span class="c1"># lat/lon are xE7, convert them to usable numbers...</span>
+<span class="lineno">24</span> ldf<span class="o">$</span>lat <span class="o">=</span> <span class="kp">as.numeric</span><span class="p">(</span>locs<span class="o">$</span>latitudeE7<span class="o">/</span><span class="m">1E7</span><span class="p">)</span>
+<span class="lineno">25</span> ldf<span class="o">$</span>lon <span class="o">=</span> <span class="kp">as.numeric</span><span class="p">(</span>locs<span class="o">$</span>longitudeE7<span class="o">/</span><span class="m">1E7</span><span class="p">)</span>
+<span class="lineno">26</span> 
+<span class="lineno">27</span> <span class="c1"># Accuracy doesn&#39;t need changing.</span>
+<span class="lineno">28</span> ldf<span class="o">$</span>accuracy <span class="o">=</span> locs<span class="o">$</span>accuracy
+<span class="lineno">29</span> 
+<span class="lineno">30</span> <span class="c1"># Activity guesses (it can tell when you&#39;re on a bike?!) are in a list... we can unpack these lists to get the most likely activity for each location (takes a while, depending on the size of your dataset).</span>
+<span class="lineno">31</span> 
+<span class="lineno">32</span> <span class="c1"># get the most likely activity type and confidence for each time point.</span>
+<span class="lineno">33</span> act <span class="o">=</span> laply<span class="p">(</span>locs<span class="o">$</span>activitys<span class="p">,</span> <span class="kr">function</span><span class="p">(</span>f<span class="p">)</span> <span class="p">{</span>
+<span class="lineno">34</span>  <span class="kr">if</span><span class="p">(</span><span class="kp">is.null</span><span class="p">(</span>f<span class="p">[[</span><span class="m">1</span><span class="p">]]))</span> <span class="kt">data.frame</span><span class="p">(</span>activity<span class="o">=</span><span class="kc">NA</span><span class="p">,</span>confidence<span class="o">=</span><span class="kc">NA</span><span class="p">,</span>stringsAsFactors<span class="o">=</span><span class="bp">F</span><span class="p">)</span> <span class="kr">else</span> <span class="kt">data.frame</span><span class="p">(</span>activity<span class="o">=</span>f<span class="p">[[</span><span class="m">2</span><span class="p">]][[</span><span class="m">1</span><span class="p">]][[</span><span class="m">1</span><span class="p">]][</span><span class="m">1</span><span class="p">],</span>confidence<span class="o">=</span>f<span class="p">[[</span><span class="m">2</span><span class="p">]][[</span><span class="m">1</span><span class="p">]][[</span><span class="m">2</span><span class="p">]][</span><span class="m">1</span><span class="p">],</span>stringsAsFactors<span class="o">=</span><span class="bp">F</span><span class="p">)</span>
+<span class="lineno">35</span> <span class="p">},</span><span class="m">.</span>progress<span class="o">=</span><span class="s">&quot;text&quot;</span><span class="p">)</span>
+<span class="lineno">36</span> 
+<span class="lineno">37</span> <span class="c1"># combine activity data with the main dataset</span>
+<span class="lineno">38</span> ldf<span class="o">$</span>activity <span class="o">=</span> <span class="kp">as.character</span><span class="p">(</span>act<span class="p">[,</span><span class="m">1</span><span class="p">])</span>
+<span class="lineno">39</span> ldf<span class="o">$</span>confidence <span class="o">=</span> <span class="kp">as.numeric</span><span class="p">(</span>act<span class="p">[,</span><span class="m">2</span><span class="p">])</span>
+<span class="lineno">40</span> 
+<span class="lineno">41</span> <span class="c1"># Velocity, altitude and heading need no alteration:</span>
+<span class="lineno">42</span> ldf<span class="o">$</span>velocity <span class="o">=</span> locs<span class="o">$</span>velocity
+<span class="lineno">43</span> ldf<span class="o">$</span>altitude <span class="o">=</span> locs<span class="o">$</span>altitude
+<span class="lineno">44</span> ldf<span class="o">$</span>heading <span class="o">=</span> locs<span class="o">$</span>heading
+<span class="lineno">45</span> 
+<span class="lineno">46</span> <span class="c1"># We now have a data.frame &#39;ldf&#39;, which contains all the location data google has on us!</span>
+<span class="lineno">47</span> 
+<span class="lineno">48</span> <span class="c1"># And plot it... ----------------------------------------</span>
+<span class="lineno">49</span> 
+<span class="lineno">50</span> <span class="kn">require</span><span class="p">(</span>ggplot2<span class="p">)</span>
+<span class="lineno">51</span> <span class="kn">require</span><span class="p">(</span>ggmap<span class="p">)</span>
+<span class="lineno">52</span> 
+<span class="lineno">53</span> EU <span class="o">=</span> get_map<span class="p">(</span><span class="kt">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">48</span><span class="p">),</span><span class="m">5</span><span class="p">,</span><span class="kn">source</span><span class="o">=</span><span class="s">&#39;google&#39;</span><span class="p">)</span>
+<span class="lineno">54</span> 
+<span class="lineno">55</span> ggmap<span class="p">(</span>EU<span class="p">)</span> <span class="o">+</span> geom_point<span class="p">(</span>data<span class="o">=</span>ldf<span class="p">,</span>aes<span class="p">(</span>lon<span class="p">,</span>lat<span class="p">),</span>colour<span class="o">=</span><span class="s">&#39;red&#39;</span><span class="p">)</span>
+<span class="lineno">56</span> 
+<span class="lineno">57</span> <span class="c1"># Let&#39;s just look at the UK stuff...</span>
+<span class="lineno">58</span> 
+<span class="lineno">59</span> <span class="c1"># first, define a quick funciton to clip the data to the current map</span>
+<span class="lineno">60</span> mapclip <span class="o">=</span> <span class="kr">function</span><span class="p">(</span>df<span class="p">,</span>map<span class="p">)</span> <span class="p">{</span>
+<span class="lineno">61</span>  coord <span class="o">=</span> <span class="kp">attr</span><span class="p">(</span>map<span class="p">,</span><span class="s">&#39;bb&#39;</span><span class="p">)</span>
+<span class="lineno">62</span>  <span class="kr">return</span><span class="p">(</span><span class="kp">subset</span><span class="p">(</span>df<span class="p">,</span>lon<span class="o">&gt;</span>coord<span class="o">$</span>ll.lon <span class="o">&amp;</span> lon<span class="o">&lt;</span>coord<span class="o">$</span>ur.lon <span class="o">&amp;</span> lat<span class="o">&gt;</span>coord<span class="o">$</span>ll.lat <span class="o">&amp;</span> lat<span class="o">&lt;</span>coord<span class="o">$</span>ur.lat<span class="p">))</span>
+<span class="lineno">63</span> <span class="p">}</span>
+<span class="lineno">64</span> 
+<span class="lineno">65</span> UK <span class="o">=</span> get_map<span class="p">(</span><span class="s">&#39;Oxford, UK&#39;</span><span class="p">,</span><span class="m">7</span><span class="p">,</span>scale<span class="o">=</span><span class="m">2</span><span class="p">)</span>
+<span class="lineno">66</span> ldf.uk <span class="o">=</span> mapclip<span class="p">(</span>ldf<span class="p">,</span>UK<span class="p">)</span>
+<span class="lineno">67</span> 
+<span class="lineno">68</span> ggmap<span class="p">(</span>UK<span class="p">)</span> <span class="o">+</span> geom_point<span class="p">(</span>data<span class="o">=</span>ldf.uk<span class="p">,</span>aes<span class="p">(</span>x<span class="o">=</span>lon<span class="p">,</span>y<span class="o">=</span>lat<span class="p">),</span>colour<span class="o">=</span><span class="s">&#39;red&#39;</span><span class="p">,</span>size<span class="o">=</span><span class="m">2</span><span class="p">)</span>
+<span class="lineno">69</span> 
+<span class="lineno">70</span> <span class="c1"># Let&#39;s have a look at Cambridge...</span>
+<span class="lineno">71</span> 
+<span class="lineno">72</span> cam <span class="o">=</span> get_map<span class="p">(</span><span class="s">&#39;Cambridge, UK&#39;</span><span class="p">,</span><span class="m">13</span><span class="p">,</span>scale<span class="o">=</span><span class="m">4</span><span class="p">)</span>
+<span class="lineno">73</span> clip <span class="o">=</span> coord_map<span class="p">(</span>projection<span class="o">=</span><span class="s">&#39;mercator&#39;</span><span class="p">,</span>xlim<span class="o">=</span><span class="kt">c</span><span class="p">(</span><span class="m">0.1</span><span class="p">,</span><span class="m">0.15</span><span class="p">),</span>ylim<span class="o">=</span><span class="kt">c</span><span class="p">(</span><span class="m">52.19</span><span class="p">,</span><span class="m">52.23</span><span class="p">))</span>
+<span class="lineno">74</span> ldf.cam <span class="o">=</span> mapclip<span class="p">(</span>ldf<span class="p">,</span>cam<span class="p">)</span>
+<span class="lineno">75</span> ggmap<span class="p">(</span>cam<span class="p">)</span> <span class="o">+</span> geom_point<span class="p">(</span>data<span class="o">=</span>ldf.cam<span class="p">,</span>aes<span class="p">(</span>x<span class="o">=</span>lon<span class="p">,</span>y<span class="o">=</span>lat<span class="p">),</span>colour<span class="o">=</span><span class="s">&#39;red&#39;</span><span class="p">,</span>size<span class="o">=</span><span class="m">1</span><span class="p">,</span>alpha<span class="o">=</span><span class="m">0.5</span><span class="p">)</span> <span class="o">+</span> clip
+<span class="lineno">76</span> 
+<span class="lineno">77</span> <span class="c1"># And what do I do in cambridge?</span>
+<span class="lineno">78</span> ldf.cam.act <span class="o">=</span> <span class="kp">subset</span><span class="p">(</span>ldf.cam<span class="p">,</span>activity <span class="o">%in%</span> <span class="kt">c</span><span class="p">(</span><span class="s">&quot;inVehicle&quot;</span><span class="p">,</span><span class="s">&quot;onBicycle&quot;</span><span class="p">,</span><span class="s">&quot;onFoot&quot;</span><span class="p">,</span><span class="s">&quot;still&quot;</span><span class="p">))</span>
+<span class="lineno">79</span> ggmap<span class="p">(</span>cam<span class="p">)</span> <span class="o">+</span> geom_point<span class="p">(</span>data<span class="o">=</span>ldf.cam.act<span class="p">,</span>aes<span class="p">(</span>x<span class="o">=</span>lon<span class="p">,</span>y<span class="o">=</span>lat<span class="p">,</span>colour<span class="o">=</span>activity<span class="p">),</span>size<span class="o">=</span><span class="m">2</span><span class="p">)</span> <span class="o">+</span> scale_colour_manual<span class="p">(</span>values<span class="o">=</span><span class="kt">c</span><span class="p">(</span><span class="s">&#39;red&#39;</span><span class="p">,</span><span class="s">&#39;orange&#39;</span><span class="p">,</span><span class="s">&#39;yellow&#39;</span><span class="p">,</span><span class="s">&#39;black&#39;</span><span class="p">))</span> <span class="o">+</span> clip
+<span class="lineno">80</span> 
+<span class="lineno">81</span> <span class="c1"># A little closer? And add in the non-active markers, to get more of a trend.</span>
+<span class="lineno">82</span> camclose <span class="o">=</span> get_map<span class="p">(</span><span class="s">&#39;Cambridge, UK&#39;</span><span class="p">,</span><span class="m">15</span><span class="p">,</span>scale<span class="o">=</span><span class="m">4</span><span class="p">)</span>
+<span class="lineno">83</span> ldf.cam.act.close <span class="o">=</span> mapclip<span class="p">(</span>ldf.cam.act<span class="p">,</span>camclose<span class="p">)</span>
+<span class="lineno">84</span> ldf.cam.close <span class="o">=</span> mapclip<span class="p">(</span>ldf<span class="p">,</span>camclose<span class="p">)</span>
+<span class="lineno">85</span> ggmap<span class="p">(</span>camclose<span class="p">)</span> <span class="o">+</span> geom_point<span class="p">(</span>data<span class="o">=</span>ldf.cam.close<span class="p">,</span>aes<span class="p">(</span>lon<span class="p">,</span>lat<span class="p">),</span>colour<span class="o">=</span><span class="s">&#39;purple&#39;</span><span class="p">,</span>alpha<span class="o">=</span><span class="m">0.6</span><span class="p">)</span> <span class="o">+</span> geom_point<span class="p">(</span>data<span class="o">=</span>ldf.cam.act.close<span class="p">,</span>aes<span class="p">(</span>x<span class="o">=</span>lon<span class="p">,</span>y<span class="o">=</span>lat<span class="p">,</span>colour<span class="o">=</span>activity<span class="p">),</span>size<span class="o">=</span><span class="m">2</span><span class="p">)</span> <span class="o">+</span> scale_colour_manual<span class="p">(</span>values<span class="o">=</span><span class="kt">c</span><span class="p">(</span><span class="s">&#39;red&#39;</span><span class="p">,</span><span class="s">&#39;orange&#39;</span><span class="p">,</span><span class="s">&#39;yellow&#39;</span><span class="p">,</span><span class="s">&#39;black&#39;</span><span class="p">))</span></code></pre></div>
+
+
+				<hr />
+				<footer class="page-footer">
+					
+
+
+<div class="author-image">
+	<img src="http://0.0.0.0:4000/images/bio-photo.jpg" alt="Oscar Branson">
+</div><!-- ./author-image -->
+<div class="author-content">
+	<h3 class="author-name" >Written by <span itemprop="author">Oscar Branson</span></h3>
+	<p class="author-bio"></p>
+</div><!-- ./author-content -->
+					<div class="inline-btn">
+	<a class="btn-social twitter" href="https://twitter.com/intent/tweet?text=It%20knows%20where%20I%20live:%20the%20code.&amp;url=http://0.0.0.0:4000/main/code/it-knows-where-i-live-code/&amp;via=oscarbranson" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Share on Twitter</a>
+	<a class="btn-social facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://0.0.0.0:4000/main/code/it-knows-where-i-live-code/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Share on Facebook</a>
+	<a class="btn-social google-plus"  href="https://plus.google.com/share?url=http://0.0.0.0:4000/main/code/it-knows-where-i-live-code/" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i> Share on Google+</a>
+</div><!-- /.share-this -->
+					<div class="page-meta">
+	<p>Updated <time datetime="2013-12-02T15:00:00Z" itemprop="datePublished">December 02, 2013</time></p>
+</div><!-- /.page-meta -->
+				</footer><!-- /.footer -->
+				<aside>
+					
+				</aside>
+			</div><!-- /.content -->
+		</div><!-- /.inner-wrap -->
+		
+	</article><!-- ./wrap -->
+</div><!-- /#main -->
+
+      <footer role="contentinfo" id="site-footer">
+	<nav role="navigation" class="menu bottom-menu">
+		<ul class="menu-item">
+		
+      
+        
+      
+			<li><a href="http://0.0.0.0:4000" ></a></li>
+		
+		</ul>
+	</nav><!-- /.bottom-menu -->
+	<p class="copyright">&#169; 2015 <a href="http://0.0.0.0:4000">Oscar Branson</a> powered by <a href="http://jekyllrb.com">Jekyll</a> + <a href="http://mmistakes.github.io/skinny-bones-jekyll/">Skinny Bones</a>.</p>
+</footer>
+    </div>
+
+    <script src="http://0.0.0.0:4000/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="http://0.0.0.0:4000/js/main.js"></script>
+    
+    
+
+  </body>
+
+</html>

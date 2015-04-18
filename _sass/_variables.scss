@@ -19,10 +19,11 @@ $border-radius               	: 3px;
 
 $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
-$base-color                  	: #343434;    
-$comp-color                  	: complement($base-color); 
+$base-color                  	: #343434;
+$comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $white                       	: #fff;
+$dark-grey                      : #828282;
 $black                       	: #000;
 $link-color                  	: #222;
 $primary-color               	: $black;
@@ -73,7 +74,7 @@ $sliding-menu-color 	 		: $white;
 $sliding-menu-background-hover	: $black;
 $sliding-menu-color-hover	 	: $white;
 $sliding-menu-border   			: 1px solid $sliding-menu-border-color;
-$button-size		         	: 30px; 
+$button-size		         	: 30px;
 $transition						: .3s; // increase this to see the transformations in slow-motion
 
 

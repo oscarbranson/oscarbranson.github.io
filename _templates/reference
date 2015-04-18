@@ -1,0 +1,20 @@
+---
+layout: reference
+title: {{ title }}
+author:
+year:
+journal:
+vol:
+pg:
+purl:
+doi:
+description:
+highlight:
+date: {{ date }}
+categories: papers
+tags [papers, publications, main]
+image:
+  feature:
+  teaser:
+  thumb:
+---

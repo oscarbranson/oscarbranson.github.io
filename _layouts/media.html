@@ -2,31 +2,40 @@
 layout: default
 ---
 
-<div id="main" role="main">	
+<div id="main" role="main">
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
-		{% if page.image.feature %}
-		<div class="page-feature">
+			<div class="page-feature-header overlay">
+			{% if page.image.feature %}
 			<div class="page-image">
 				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
 				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
 			</div><!-- /.page-image -->
-		</div><!-- /.page-feature -->
-		{% endif %}
-		{% if page.categories %}{% include breadcrumbs.html %}{% endif %}
-		<div class="page-title">
-			<h1>{{ page.title }}</h1>
-		</div>
+			{% endif %}
+			<div class="page-title">
+        	<h1><span>{{ page.title }}</span></h1>
+        	{% if page.tags %}{% include page-meta-header.html %}{% endif %}
+			</div><!-- /.page-title -->
+      	</div><!-- /.page-image-media -->
 		<div class="inner-wrap">
 			<nav class="toc"></nav><!-- /.toc -->
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
 				<hr />
 				<footer class="page-footer">
-					{% if page.share != false %}{% include share-this.html %}{% endif %}
+					{% if page.categories %}{% include page-author.html %}{% endif %}
+					{% include share-this.html %}
 					{% include page-meta.html %}
 				</footer><!-- /.footer -->
+				<div class="entry-related">
+					<h4>Related Articles</h4>
+					<ul>
+						{% for post in site.related_posts limit:4 %}
+						<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+						{% endfor %}
+					</ul>
+				</div><!-- /.entry-related -->
 				<aside>
-					{% if page.comments == true %}{% include comments.html %}{% endif %}
+				{% include comments.html %}
 				</aside>
 			</div><!-- /.content -->
 		</div><!-- /.inner-wrap -->

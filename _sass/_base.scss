@@ -62,12 +62,14 @@ a {
 
 // Captions
 figcaption {
-	padding-left: 2 * $gutter;
-	padding-right: 2 * $gutter;
+	padding-left: 0.3 * $gutter;
+	padding-right: 0.3 * $gutter;
+	padding-bottom: 4pt;
+	margin-top: -10pt;
 	font-family: $alt-font;
 	@include font-size(12,no,15);
 	color: lighten($text-color, 10);
-	text-align: center;
+	text-align: left;
 	clear: both;
 	@include media($large) {
 		position: absolute;
@@ -78,6 +80,7 @@ figcaption {
 		padding-right: 0;
 		width: (3 * $column);
 		text-align: left;
+		margin-top: 0pt;
 		&:before {
 			content: '';
 			position: absolute;

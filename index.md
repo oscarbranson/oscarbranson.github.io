@@ -1,11 +1,6 @@
 ---
-layout: archive
+layout: home
 permalink: /
-title: "Under Construction..."
+image:
+    feature: main_banner.jpg
 ---
-
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
