@@ -3,7 +3,7 @@ layout: reference
 title: "The Coordination of Mg in Foraminiferal Calcite."
 author: "Branson, O., Redfern, S. A. T., Tyliszczak , T., Sadekov, A., Langer, G., Kimoto, K., Elderfield, H."
 journal: "EPSL"
-year: "2013"
+year: 2013
 vol: "383"
 pg: "134-141"
 doi: "doi:10.1016/j.epsl.2013.09.037"

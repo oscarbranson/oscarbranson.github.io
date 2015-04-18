@@ -3,7 +3,7 @@ layout: reference
 title: "The coordination and distribution of B in foraminiferal calcite."
 author: "Branson, O., Kaczmarek, K., Redfern, S. A. T., Misra, S., Langer, G., Tyliszczak , T., Bijma, J., Elderfield, H."
 journal: "EPSL"
-year: "2015"
+year: 2015
 vol: "416"
 pg: "67–72"
 doi: "doi:10.1016/j.epsl.2015.02.006"

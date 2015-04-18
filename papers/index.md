@@ -20,6 +20,13 @@ ads: false
         {% endif %}
 {% endfor %} -->
 
+**Problem with years:** Where does 2014 come from!?<br>
+{% for post in site.categories.papers %}
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+  {{ this_year }}, {{ next_year}}<br>
+{% endfor %}
+
 <ul class="unstyled-list">
 <!-- {% assign count = '0' %} -->
 
@@ -34,7 +41,7 @@ ads: false
 
     <li>
         {% if post.openaccess %}<a href="{{ post.purl }}" target="_blank">{% else %}<a href="{{ site.url }}{{ post.url }}">{% endif %}
-            {% if post.openaccess %}<img style="float: left" class="oabadge" src="/images/open_access.png" width="45">{% endif %}
+            {% if post.openaccess %}<img style="float: left" class="oabadge" alt="oabadge" src="/images/open_access.png" width="45">{% endif %}
             <img src="{{ site.url }}/images/{{ post.image.thumb }}" class="preview" alt="preview image">
             <b>{% if post.short-title %}{{ post.short-title }}{% else %}{{ post.title }}{% endif %}</b> {% if post.author %}{{ post.author }}{% endif %}{% if post.year %} ({{ post.year }}){% endif %}{% if post.journal %}<i> {{ post.journal }}</i>{% endif %}{% if post.vol %}<b> {{ post.vol }}</b>{% endif %} {% if post.pg %}, {{ post.pg }}</i>{% endif %}
             <!-- <p><i> {{ post.description }}</i> </p> -->

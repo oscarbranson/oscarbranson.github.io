@@ -3,7 +3,7 @@ layout: reference
 title: "The effect of nitrate and phosphate availability on Emiliania huxleyi (NZEH) physiology under different CO<sub>2</sub> scenarios."
 author: "Rouco, M., <font color='red'>Branson, O.</font>, Lebrato, M., Iglesias-Rodriguez, M. D."
 journal: "Front Microbiol"
-year: "2013"
+year: 2013
 vol: "4"
 pg: "155"
 doi: "doi: 10.3389/fmicb.2013.00155"

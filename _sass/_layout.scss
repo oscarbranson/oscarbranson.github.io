@@ -653,11 +653,14 @@
 
 .unstyled-list .oabadge {
   float: right;
-  width: 45px;
-  position: relative;
+  width: 30px;
+  margin-left: -35px;
   margin-top: -12px;
-  margin-right: -40px;
-  z-index : 1;
+  position: relative;
+  z-index : 10;
+  -webkit-border-radius: 50px;
+     -moz-border-radius: 50px;
+          border-radius: 50px;
 }
 
 @media only screen and (min-width: 48em) {
@@ -671,6 +674,17 @@
     -webkit-border-radius: 75px;
        -moz-border-radius: 75px;
             border-radius: 75px;
+  }
+}
+
+@media only screen and (min-width: 48em) {
+  .unstyled-list .oabadge {
+    float: left;
+    width: 45px;
+    position: relative;
+    margin-top: -12px;
+    margin-right: -40px;
+    z-index : 10;
   }
 }
 
