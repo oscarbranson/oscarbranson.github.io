@@ -5,7 +5,7 @@ modified:
 categories: blog main earth-story
 share: true
 excerpt:
-tags: ["blog", "Earth Story"]
+tags: earthstory
 image:
   feature: /earth-story/bostonsnow.png
   teaser: /earth-story/bostonsnow.png

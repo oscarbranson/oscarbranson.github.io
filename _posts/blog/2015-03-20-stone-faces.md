@@ -5,7 +5,7 @@ modified:
 categories: blog main earth-story
 share: true
 excerpt:
-tags: ["blog", "Earth Story"]
+tags: earthstory fun
 image:
   feature: /earth-story/stonefaces_1.jpg
   teaser: /earth-story/stonefaces_2.jpg

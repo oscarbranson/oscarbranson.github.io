@@ -5,7 +5,7 @@ modified:
 categories: blog main code
 share: true
 excerpt:
-tags: ["blog", "science", "code"]
+tags: science code
 image:
   feature: /it-knows-where-i-live/map-header.png
   teaser: /it-knows-where-i-live/it-knows-teaser.jpeg

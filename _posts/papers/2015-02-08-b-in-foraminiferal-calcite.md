@@ -12,7 +12,7 @@ openaccess: true
 description: "The chemistry of boron in plankton shells can tell us about the pH of past oceans, and the CO2 level in the past. I used a synchrotron to find out how this palaeo-pH-meter works."
 date: 2015-02-08T12:00:00
 categories: papers
-tags: ["papers", "science", "publications", "main"]
+tags: science publication
 image:
   thumb: papers_b_thumb.png
 ---

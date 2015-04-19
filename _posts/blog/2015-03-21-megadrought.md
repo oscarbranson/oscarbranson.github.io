@@ -5,7 +5,7 @@ modified:
 categories: blog main earth-story
 share: true
 excerpt:
-tags: ["blog", "Earth Story"]
+tags: science earthstory
 image:
   feature: /earth-story/drought.jpg
   teaser: /earth-story/drought.jpg

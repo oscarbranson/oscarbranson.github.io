@@ -12,7 +12,7 @@ openaccess: true
 description: "The concentration of Mg in plankton shells can tell us about the temperature of past oceans.  How does that work? I used a synchrotron to find out."
 date: 2013-12-29T20:37:40-07:00
 categories: papers
-tags: ["papers", "science", "publications", "main"]
+tags: science publication
 image:
   thumb: papers_mg_thumb.png
 ---

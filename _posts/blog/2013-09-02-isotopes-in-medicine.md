@@ -5,7 +5,7 @@ modified:
 categories: blog main
 share: true
 excerpt:
-tags: ["blog", "science"]
+tags: science conference
 image:
   feature: /isotopes-in-medicine/medicine_cover.png
   teaser: /isotopes-in-medicine/h-isotopes-teaser.jpg

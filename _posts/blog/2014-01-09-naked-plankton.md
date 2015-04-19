@@ -5,7 +5,7 @@ modified:
 categories: blog main
 share: true
 excerpt:
-tags: ["blog", "science"]
+tags: science communication
 image:
   feature: /naked-plankton/clouds.jpg
   teaser: /naked-plankton/plankton_teaser.png

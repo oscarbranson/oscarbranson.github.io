@@ -9,7 +9,7 @@
     <subtitle>Research, Travel, Thoughts</subtitle>
     <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
     <link href="http://0.0.0.0:4000/" rel="alternate" type="text/html"/>
-    <updated>2015-04-18T16:16:16-07:00</updated>
+    <updated>2015-04-18T18:34:06-07:00</updated>
     <id>http://0.0.0.0:4000/</id>
     <author>
 			<name>Oscar Branson</name>
@@ -20,9 +20,9 @@
     
     <entry>
         <title>A new piece in the Moon puzzle</title>
-        <link href="http://0.0.0.0:4000/blog/main/earth-story/moon-puzzle/"/>
+        <link href="http://0.0.0.0:4000/blog/earth-story/moon-puzzle/"/>
         <updated>2015-04-12T06:00:00-07:00</updated>
-        <id>http://0.0.0.0:4000/blog/main/earth-story/moon-puzzle</id>
+        <id>http://0.0.0.0:4000/blog/earth-story/moon-puzzle</id>
         <author>
 					<name>Oscar Branson</name>
 					<uri>http://0.0.0.0:4000/</uri>
@@ -59,9 +59,9 @@
     
     <entry>
         <title>A Pufferfish&#39;s Garden</title>
-        <link href="http://0.0.0.0:4000/blog/main/earth-story/pufferfish-garden/"/>
+        <link href="http://0.0.0.0:4000/blog/earth-story/pufferfish-garden/"/>
         <updated>2015-04-12T05:00:00-07:00</updated>
-        <id>http://0.0.0.0:4000/blog/main/earth-story/pufferfish-garden</id>
+        <id>http://0.0.0.0:4000/blog/earth-story/pufferfish-garden</id>
         <author>
 					<name>Oscar Branson</name>
 					<uri>http://0.0.0.0:4000/</uri>
@@ -655,7 +655,7 @@ Walcott also discovered a strange ‘sea cucumber’, which he called &lt;em&gt;
 
 &lt;h5 id=&quot;the-nitty-gritty&quot;&gt;The Nitty-Gritty&lt;/h5&gt;
 
-&lt;p&gt;I did all this using open source (i.e. free) software. If you’re interested in seeing how I did it, take a look at &lt;a href=&quot;/main/code/it-knows-where-i-live-code/&quot;&gt;this post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I did all this using open source (i.e. free) software. If you’re interested in seeing how I did it, take a look at &lt;a href=&quot;/code/it-knows-where-i-live-code/&quot;&gt;this post&lt;/a&gt;.&lt;/p&gt;
 
 
         </content>
@@ -790,9 +790,9 @@ Walcott also discovered a strange ‘sea cucumber’, which he called &lt;em&gt;
     
     <entry>
         <title>It knows where I live: the code.</title>
-        <link href="http://0.0.0.0:4000/main/code/it-knows-where-i-live-code/"/>
+        <link href="http://0.0.0.0:4000/code/it-knows-where-i-live-code/"/>
         <updated>2013-12-02T13:00:00-08:00</updated>
-        <id>http://0.0.0.0:4000/main/code/it-knows-where-i-live-code</id>
+        <id>http://0.0.0.0:4000/code/it-knows-where-i-live-code</id>
         <author>
 					<name>Oscar Branson</name>
 					<uri>http://0.0.0.0:4000/</uri>

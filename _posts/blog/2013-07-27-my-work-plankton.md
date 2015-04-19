@@ -6,9 +6,7 @@ categories: blog main
 ads: false
 share: true
 excerpt:
-tags:
-- blog
-- science
+tags: science
 image:
   feature: default_banner.jpg
   teaser: default_teaser.jpg

@@ -2,10 +2,10 @@
 layout: earthstory
 title: A Pufferfish's Garden
 modified:
-categories: blog main earth-story
+categories: blog earth-story
 share: true
 excerpt:
-tags: ["blog", "Earth Story"]
+tags: science earthstory fun
 image:
   feature: /earth-story/pufferfishgarden.jpg
   teaser: /earth-story/pufferfishgarden.jpg

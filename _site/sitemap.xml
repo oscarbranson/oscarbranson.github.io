@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://0.0.0.0:4000/blog/main/earth-story/moon-puzzle/</loc>
+    <loc>http://0.0.0.0:4000/blog/earth-story/moon-puzzle/</loc>
     <lastmod>2015-04-12T06:00:00-07:00</lastmod>
   </url>
   <url>
-    <loc>http://0.0.0.0:4000/blog/main/earth-story/pufferfish-garden/</loc>
+    <loc>http://0.0.0.0:4000/blog/earth-story/pufferfish-garden/</loc>
     <lastmod>2015-04-12T05:00:00-07:00</lastmod>
   </url>
   <url>
@@ -81,7 +81,7 @@
     <lastmod>2013-12-02T13:00:00-08:00</lastmod>
   </url>
   <url>
-    <loc>http://0.0.0.0:4000/main/code/it-knows-where-i-live-code/</loc>
+    <loc>http://0.0.0.0:4000/code/it-knows-where-i-live-code/</loc>
     <lastmod>2013-12-02T13:00:00-08:00</lastmod>
   </url>
   <url>

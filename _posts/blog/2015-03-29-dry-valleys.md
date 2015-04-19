@@ -5,7 +5,7 @@ modified:
 categories: blog main earth-story
 share: true
 excerpt:
-tags: ["blog", "Earth Story"]
+tags: earthstory
 image:
   feature: /earth-story/dryvalleys_1.jpg
   teaser: /earth-story/dryvalleys_1.jpg

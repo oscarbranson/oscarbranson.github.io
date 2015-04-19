@@ -5,7 +5,7 @@ modified:
 categories: blog main earth-story
 share: true
 excerpt:
-tags: ["blog", "Earth Story"]
+tags: earthstory photography
 image:
   feature: /earth-story/foram_pic.jpg
   teaser: /earth-story/foram_pic.jpg

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Posts by Tag
+title: Posts Arranged by Tag
 desc: "A list of blog posts organized by tags"
 permalink: /tag/
 
@@ -30,6 +30,7 @@ Click on a tag to see relevant list of posts.
   {% if post.tags contains t %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
+     ⋅
     <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
   </li>
   {% endif %}

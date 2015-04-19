@@ -5,7 +5,7 @@ modified:
 categories: blog main
 share: true
 excerpt:
-tags: ["blog"]
+tags: communication
 image:
   feature: /big-city/hop_banner.jpg
   teaser: /big-city/POST_teaser.gif

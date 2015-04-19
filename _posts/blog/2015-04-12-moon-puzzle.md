@@ -2,10 +2,10 @@
 layout: earthstory
 title: A new piece in the Moon puzzle
 modified:
-categories: blog main earth-story
+categories: blog earth-story
 share: true
 excerpt:
-tags: ["blog", "Earth Story"]
+tags: science earthstory
 image:
   feature: /earth-story/moonformation.jpg
   teaser: /earth-story/moonformation.jpg

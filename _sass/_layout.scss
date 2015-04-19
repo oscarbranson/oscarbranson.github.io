@@ -470,11 +470,29 @@
 		@include omega(4n);
 	}
 	.entry-date {
-		@include font-size(16,no);
+		@include font-size(14,no);
 		color: lighten($text-color,25);
+        margin-bottom: 0;
+        margin-top: 4px;
+        font-family: $alt-font;
 	}
+    .tags {
+        @include font-size(10,yes);
+        font-family: $alt-font;
+        color: lighten($black,60);
+        text-transform: uppercase;
+        margin-top: -2px;
+    }
+    .time {
+        @include font-size(10,yes);
+        font-family: $alt-font;
+        color: lighten($black,60);
+        margin-top: -2px;
+        margin-bottom: 0px;
+    }
 	.post-title {
 		@include font-size(18,no);
+        border-top: 1px solid $text-color;
 	}
 	.post-excerpt {
 		@include font-size(16);
@@ -652,7 +670,7 @@
 }
 
 .unstyled-list .oabadge {
-  float: right;
+  float: left;
   width: 30px;
   margin-left: -35px;
   margin-top: -12px;

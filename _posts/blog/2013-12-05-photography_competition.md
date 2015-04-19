@@ -5,7 +5,7 @@ modified:
 categories: blog main
 share: true
 excerpt:
-tags: ["blog", "science"]
+tags: science photography
 image:
   feature: /science-photog/obranson_photo_banner.jpg
   teaser: /science-photog/obranson_photo_teaser.jpg

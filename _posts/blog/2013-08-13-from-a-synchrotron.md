@@ -5,7 +5,7 @@ modified:
 categories: blog main
 share: true
 excerpt:
-tags: ["blog", "science"]
+tags: science
 image:
   feature: synchrotron/diamond.jpg
   teaser: synchrotron/diamond_teaser.jpg

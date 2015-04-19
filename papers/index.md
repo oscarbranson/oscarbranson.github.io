@@ -13,6 +13,8 @@ ads: false
 
 <ul class="unstyled-list">
 
+<!-- Work out peculiarities of OA badge not moving (inspect element in chrome to see the styles) -->
+<!-- Add google scholar links to papers? -->
 
 {% for post in site.categories.papers %}
     {% capture this_year %}{{ post.year }}{% endcapture %}

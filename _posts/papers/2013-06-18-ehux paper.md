@@ -11,7 +11,7 @@ purl: "http://journal.frontiersin.org/article/10.3389/fmicb.2013.00155/full"
 openaccess: true
 date: 2013-06-18T12:00
 categories: papers
-tags: ["papers", "science", "publications", "main"]
+tags: science publication
 image:
   thumb: papers_ehux_thumb.png
 ---

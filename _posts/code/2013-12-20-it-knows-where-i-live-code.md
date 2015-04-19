@@ -4,8 +4,8 @@ title: "It knows where I live: the code."
 date: 2013-12-02T21:00:00
 modified:
 excerpt:
-categories: main code
-tags: ["blog", "code"]
+categories: code
+tags: code
 image:
   feature:
   teaser: code_teaser.png

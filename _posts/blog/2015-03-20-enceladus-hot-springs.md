@@ -5,7 +5,7 @@ modified:
 categories: blog main earth-story
 share: true
 excerpt:
-tags: ["blog", "Earth Story"]
+tags: science earthstory
 image:
   feature: /earth-story/enceladus_hot_springs.jpg
   teaser: /earth-story/enceladus_hot_springs2.jpg

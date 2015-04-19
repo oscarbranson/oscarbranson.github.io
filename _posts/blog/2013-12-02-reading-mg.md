@@ -5,7 +5,7 @@ modified:
 categories: blog main
 share: true
 excerpt:
-tags: ["blog", "science"]
+tags: science publication
 image:
   feature: /reading-mg/ALS_night_header.png
   teaser: /reading-mg/RV_teaser.jpg
