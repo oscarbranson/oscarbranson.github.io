@@ -21,7 +21,7 @@
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
 	height: $masthead-height;
 	text-decoration: none;
-	color: $black;
+	color: lighten($black,30);
 	font-family: $alt-font;
 	font-weight: 700;
 	@include font-size(20,no);
@@ -97,7 +97,7 @@
 			font-weight: 700;
 			@include font-size(16,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: $black;
+			color: lighten($black,30);
 			text-transform: uppercase;
 		}
 	}
@@ -241,7 +241,7 @@
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	text-align: center;
-	color: $white;
+    color: $black;
 	@include media($large) {
 		background-size: cover;
 	}
@@ -255,6 +255,7 @@
 		padding: 3em;
 	}
 	h1 {
+        color: rgba(20,70,220,0.8);
 		@include font-size(48);
 		@include media($medium) {
 			@include font-size(60);
@@ -264,6 +265,7 @@
 		}
 	}
 	h2 {
+        color: $white;
 		@include font-size(20);
 		@include media($medium) {
 			@include font-size(24);

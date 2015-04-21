@@ -5,7 +5,8 @@ description: "Research, Travel, Thoughts"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: defaut_teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale:
-url: http://oscarbranson.github.io # http://0.0.0.0:4000
+# url: http://0.0.0.0:4000
+url: http://oscarbranson.github.io
 
 # Jekyll configuration
 
