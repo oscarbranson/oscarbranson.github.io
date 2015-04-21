@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "It knows where I live: the code."
-date: 2013-12-02T21:00:00
+date: 2013-12-20T12:00:00
 modified:
 excerpt:
 categories: code
