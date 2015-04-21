@@ -256,7 +256,7 @@
 	}
 	h1 {
         color: rgba(20,70,220,0.8);
-		@include font-size(48);
+		@include font-size(42);
 		@include media($medium) {
 			@include font-size(60);
 		}
