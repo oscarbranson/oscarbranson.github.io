@@ -1,14 +1,18 @@
 ---
-layout: media
+layout: travel
 title: {{ title }}
 modified:
-categories: {{ dir }}
+categories: travel main
 excerpt:
-tags: []
+tags: travel
 image:
   feature:
   teaser:
   thumb:
 ads: false
+date: YYYY-MM-DD
+mode:
 comments: true
+
 ---
+

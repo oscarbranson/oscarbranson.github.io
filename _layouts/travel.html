@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+    <article class="wrap" itemscope itemtype="http://schema.org/Article">
+            <div class="page-feature-header overlay">
+            {% if page.image.feature %}
+            <div class="page-image">
+                <img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+                {% if page.image.credit %}{% include image-credit.html %}{% endif %}
+            </div><!-- /.page-image -->
+            {% endif %}
+            <div class="page-title">
+            <h1><span>{{ page.title }}</span></h1>
+            {% if page.tags %}{% include page-meta-header.html %}{% endif %}
+            </div><!-- /.page-title -->
+        </div><!-- /.page-image-media -->
+        <div class="inner-wrap">
+            <nav class="toc"></nav><!-- /.toc -->
+            <div id="content" class="page-content" itemprop="articleBody">
+                {{ content }}
+                <hr />
+                <footer class="page-footer">
+                    {% if page.categories %}{% include page-author.html %}{% endif %}
+                    {% include share-this.html %}
+                    {% include page-meta.html %}
+                </footer><!-- /.footer -->
+                <div class="entry-related">
+                    <h4>Related Articles</h4>
+                    <ul>
+                        {% for post in site.related_posts limit:4 %}
+                        <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div><!-- /.entry-related -->
+                {% if page.comments %}
+                    <aside>
+                    {% include comments.html %}
+                    </aside>
+                {% endif %}
+            </div><!-- /.content -->
+        </div><!-- /.inner-wrap -->
+        {% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
+    </article><!-- /.wrap -->
+</div><!-- /#main -->

@@ -4,7 +4,7 @@ title: "Blog"
 date: 2014-09-28
 modified:
 excerpt:
-tags: ["blog"]
+tags:
 image:
   feature:
   teaser:

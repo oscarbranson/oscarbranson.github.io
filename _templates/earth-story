@@ -5,7 +5,7 @@ modified:
 categories: blog main earth-story
 share: true
 excerpt:
-tags: ["blog", "Earth Story"]
+tags: earthstory
 image:
   feature: /earth-story/
   teaser: /earth-story/
@@ -14,7 +14,8 @@ image:
   creditlink:
 ads: false
 original:
-date: 2015-MM-DDT12:00:00
+date: 2015-MM-DD
+comments: true
 ---
 
 

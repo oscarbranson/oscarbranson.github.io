@@ -34,9 +34,11 @@ layout: default
 						{% endfor %}
 					</ul>
 				</div><!-- /.entry-related -->
-				<aside>
-				{% include comments.html %}
-				</aside>
+                {% if page.comments %}
+                    <aside>
+                    {% include comments.html %}
+                    </aside>
+                {% endif %}
 			</div><!-- /.content -->
 		</div><!-- /.inner-wrap -->
 		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
