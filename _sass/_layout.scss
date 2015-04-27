@@ -895,3 +895,14 @@ span + .entry-title {
 .entry-tags {
   display: block;
 }
+
+// OSCAR'S ADDITIONS
+// --------------------------------------------------
+
+// Strava float
+.strava {
+    @include outer-container;
+    position: absolute;
+    right: 0;
+    padding: $gutter;
+}

@@ -13,9 +13,13 @@ ads: false
 
 <!-- Map edit link: https://www.google.com/maps/d/u/0/edit?hl=en&authuser=0&mid=ze_XPNXVoqZ8.kWuRmuZxNqX4 -->
 
-<embed src="https://www.google.com/maps/d/u/0/embed?mid=ze_XPNXVoqZ8.kWuRmuZxNqX4" width="640" height="480">
+<embed src="https://www.google.com/maps/d/u/0/embed?mid=ze_XPNXVoqZ8.kWuRmuZxNqX4" width="640" height="420">
 
-<h2>All Travels</h2>
+<div class="strava">
+    <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/974683/latest-rides/578203f9f16fcdba02ff41376348c87706492fa1'></iframe>
+</div>
+
+<h2>All Adventures</h2>
 
 <div class="tiles">
 {% for post in site.categories.travel %}
