@@ -8,8 +8,8 @@ excerpt:
 tags: science earthstory fun
 image:
   feature: /earth-story/pufferfishgarden.jpg
-  teaser: /earth-story/pufferfishgarden.jpg
-  thumb: /earth-story/pufferfishgarden.jpg
+  teaser: /earth-story/pufferfishgarden-teaser.jpg
+  thumb: /earth-story/pufferfishgarden-thumb.jpg
   credit: Kawase et al (2013)
   creditlink: http://goo.gl/PCahFI
 ads: false

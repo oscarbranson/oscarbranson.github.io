@@ -8,8 +8,8 @@ excerpt:
 tags: earthstory
 image:
   feature: /earth-story/swim-with-a-viking-2.jpg
-  teaser: /earth-story/swim-with-a-viking-2-sm.jpg
-  thumb: /earth-story/swim-with-a-viking-2-sm.jpg
+  teaser: /earth-story/swim-with-a-viking-2-teaser.jpg
+  thumb: /earth-story/swim-with-a-viking-2-thumb.jpg
   credit: NASA Perpetual Ocean
   creditlink: http://www.nasa.gov/topics/earth/features/perpetual-ocean.html
 ads: false

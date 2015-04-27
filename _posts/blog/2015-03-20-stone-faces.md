@@ -8,8 +8,8 @@ excerpt:
 tags: earthstory fun
 image:
   feature: /earth-story/stonefaces_1.jpg
-  teaser: /earth-story/stonefaces_2.jpg
-  thumb: /earth-story/stonefaces_4.jpg
+  teaser: /earth-story/stonefaces_2-teaser.jpg
+  thumb: /earth-story/stonefaces_4-thumb.jpg
   credit: Alain Bernegger
   creditlink: http://goo.gl/kIFDto
 ads: false

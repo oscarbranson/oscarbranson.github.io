@@ -8,8 +8,8 @@ excerpt:
 tags: earthstory
 image:
   feature: /earth-story/bostonsnow.png
-  teaser: /earth-story/bostonsnow.png
-  thumb: /earth-story/bostonsnow.png
+  teaser: /earth-story/bostonsnow-teaser.png
+  thumb: /earth-story/bostonsnow-thumb.png
   credit: NOAA/NWSBoston
   creditlink:
 ads: false

@@ -8,8 +8,8 @@ excerpt:
 tags: science earthstory
 image:
   feature: /earth-story/moonformation.jpg
-  teaser: /earth-story/moonformation.jpg
-  thumb: /earth-story/moonformation.jpg
+  teaser: /earth-story/moonformation-teaser.jpg
+  thumb: /earth-story/moonformation-thumb.jpg
   credit: Hagai Perets
   creditlink: http://goo.gl/S3KgKL
 ads: false

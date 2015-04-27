@@ -8,8 +8,8 @@ excerpt:
 tags: science earthstory
 image:
   feature: /earth-story/zombie_ant.jpg
-  teaser: /earth-story/zombie_ant.jpg
-  thumb: /earth-story/zombie_ant.jpg
+  teaser: /earth-story/zombie_ant-teaser.jpg
+  thumb: /earth-story/zombie_ant-thumb.jpg
   credit: Penn State
   creditlink: http://goo.gl/KKjMsU
 original: "https://www.facebook.com/TheEarthStory/photos/a.352867368107647.80532.352857924775258/859055307488848/?type=1"

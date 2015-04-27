@@ -8,8 +8,8 @@ excerpt:
 tags: earthstory
 image:
   feature: /earth-story/darwinbeast.jpg
-  teaser: /earth-story/darwinbeast.jpg
-  thumb: /earth-story/darwinbeast.jpg
+  teaser: /earth-story/darwinbeast-teaser.jpg
+  thumb: /earth-story/darwinbeast-thumb.jpg
   credit: Wikimedia
   creditlink: http://goo.gl/ChqfKV
 ads: false
