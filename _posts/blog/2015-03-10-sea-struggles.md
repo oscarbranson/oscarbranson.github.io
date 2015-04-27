@@ -14,7 +14,8 @@ image:
   creditlink:
 ads: false
 original: https://www.facebook.com/TheEarthStory/photos/a.352867368107647.80532.352857924775258/843027765758269/?type=1
-date: 2015-03-10T12:00:00
+date: 2015-03-10
+comments: true
 ---
 
 This photograph captures a life-or-death struggle between two ferocious sea beasts. Only one will survive this encounter. Both are less than a millimetre long.

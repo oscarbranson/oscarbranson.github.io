@@ -14,7 +14,8 @@ image:
   creditlink: https://www.flickr.com/photos/ozyman/155517365/
 ads: false
 original: https://www.facebook.com/video.php?v=848938131833899
-date: 2015-03-21T12:00:00
+date: 2015-03-21
+comments: true
 ---
 
 The California Drought is in the news a lot these days. California has just declared a fourth consecutive year of historic drought. In January the governor declared a State of Emergency, and told everyone to prepare for water shortages.

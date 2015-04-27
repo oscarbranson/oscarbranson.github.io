@@ -11,7 +11,8 @@ image:
   feature: default_banner.jpg
   teaser: default_teaser.jpg
   thumb: default_thumb.jpg
-date: 2013-07-27T12:00:00
+date: 2013-07-27
+comments: true
 ---
 
 I study plankton. For fun, but also for my PhD.

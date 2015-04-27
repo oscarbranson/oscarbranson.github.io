@@ -11,7 +11,8 @@ image:
   teaser: /it-knows-where-i-live/it-knows-teaser.jpeg
   thumb: /it-knows-where-i-live/it-knows-teaser.jpeg
 ads: false
-date: 2013-12-20T21:00:00
+date: 2013-12-20
+comments: true
 ---
 
 I recently came across an intriguing post by fellow Jesuan [James Black](https://epijim.uk/), about making maps out of Google location data. This is the result.

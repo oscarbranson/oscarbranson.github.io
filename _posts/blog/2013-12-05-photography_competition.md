@@ -11,7 +11,8 @@ image:
   teaser: /science-photog/obranson_photo_teaser.jpg
   thumb: /science-photog/obranson_photo_thumb.jpg
 ads: false
-date: 2013-12-05T19:00:00
+date: 2013-12-05
+comments: true
 ---
 
 A few weeks ago, I foolishly entered a [NERC Photography and Short Article Writing competition](http://www.nerc.ac.uk/press/releases/2013/87-competition/). I didn’t win.

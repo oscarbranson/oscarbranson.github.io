@@ -14,7 +14,8 @@ image:
   creditlink: http://goo.gl/5rZtCA
 ads: false
 original: https://www.facebook.com/TheEarthStory/photos/a.352867368107647.80532.352857924775258/856256574435388/?type=1
-date: 2015-04-03T12:00:00
+date: 2015-04-03
+comments: true
 ---
 
 What do a shrimp, a jellyfish and a sponge have in common? It took palaeontologists around 80 years to work this one out.

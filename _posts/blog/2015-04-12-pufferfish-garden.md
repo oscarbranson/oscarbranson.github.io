@@ -14,7 +14,8 @@ image:
   creditlink: http://goo.gl/PCahFI
 ads: false
 original: https://www.facebook.com/TheEarthStory/photos/a.352867368107647.80532.352857924775258/859959607398418/?type=1
-date: 2015-04-12T12:00:00
+date: 2015-04-12
+comments: true
 ---
 
 For years divers off the coast of Japan encountered these enormous, 2 metre diameter 'mystery circles' on the sandy sea floor. Recently we found out who was making them.

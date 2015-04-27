@@ -11,7 +11,8 @@ image:
   teaser: /reading-mg/RV_teaser.jpg
   thumb: papers_mg_thumb.png
 ads: false
-date: 2013-12-02T21:00:00
+date: 2013-12-02
+comments: true
 ---
 
 Or: [Look!](http://www.sciencedirect.com/science/article/pii/S0012821X13005487)  I published a paper! This is what we did…

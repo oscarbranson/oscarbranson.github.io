@@ -11,7 +11,8 @@ image:
   teaser: synchrotron/diamond_teaser.jpg
   thumb: synchrotron/diamond_teaser.jpg
 ads: false
-date: 2013-08-13T12:00:00
+date: 2013-08-13
+comments: true
 ---
 
 <!-- <figure class="right figcap" >

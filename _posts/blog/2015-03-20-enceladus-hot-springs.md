@@ -14,7 +14,8 @@ image:
   creditlink:
 ads: false
 original: https://www.facebook.com/TheEarthStory/posts/848200988574280
-date: 2015-03-20T13:00:00
+date: 2015-03-20
+comments: true
 ---
 
 NASA's Cassini spacecraft heated up the extra-terrestrial life debate last week, by finding evidence of hot-springs on Enceladus, Saturn's sixth largest moon.

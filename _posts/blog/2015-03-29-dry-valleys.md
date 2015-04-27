@@ -14,7 +14,8 @@ image:
   creditlink: http://goo.gl/E15f19
 ads: false
 original: https://www.facebook.com/TheEarthStory/posts/853503438044035
-date: 2015-03-29T12:00:00
+date: 2015-03-29
+comments: true
 ---
 
 It's not where you expect. You're thinking of majestic sand dunes along the western edge of the Sahara, or the barren rocky outcrop's of Chile's Atacama desert. The driest place on Earth is in Antarctica: the McMurdo Dry Valleys.

@@ -11,6 +11,7 @@ image:
   teaser: code_teaser.png
   thumb: code_teaser.png
 ads: false
+comments: true
 ---
 
 ######NB for complete beginners:

@@ -14,7 +14,8 @@ image:
   creditlink:
 ads: false
 original: https://www.facebook.com/TheEarthStory/photos/a.352867368107647.80532.352857924775258/847667605294285/?type=1
-date: 2015-03-18T12:00:00
+date: 2015-03-18
+comments: true
 ---
 
 Last Sunday Boston got a paltry 7.4 cm of new snow. This pushed the season total up to 2.77 m (just over 9 feet), more snow than Boston has experienced since records began in 1873.

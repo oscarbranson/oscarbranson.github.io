@@ -14,7 +14,8 @@ image:
   creditlink: http://goo.gl/S3KgKL
 ads: false
 original: https://www.facebook.com/TheEarthStory/photos/a.352867368107647.80532.352857924775258/859960417398337/?type=1
-date: 2015-04-12T13:00:00
+date: 2015-04-12
+comments: true
 ---
 
 The formation of the Moon has puzzled scientists for generations. The best theory we have at the moment is called the 'Giant Impactor Hypothesis'. We've covered this before on [Earth Story](http://goo.gl/k6HarI

@@ -14,7 +14,8 @@ image:
   creditlink: http://goo.gl/kIFDto
 ads: false
 original: https://www.facebook.com/TheEarthStory/posts/848308685230177
-date: 2015-03-20T12:00:00
+date: 2015-03-20
+comments: true
 ---
 
 It doesn't take much to bring rocks to life.

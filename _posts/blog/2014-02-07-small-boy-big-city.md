@@ -11,7 +11,8 @@ image:
   teaser: /big-city/POST_teaser.gif
   thumb: /big-city/parliament_thumb.png
 ads: false
-date: 2014-02-07T21:00:00
+date: 2014-02-07
+comments: true
 ---
 
 What a week.

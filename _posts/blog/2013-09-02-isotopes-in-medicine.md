@@ -11,7 +11,8 @@ image:
   teaser: /isotopes-in-medicine/h-isotopes-teaser.jpg
   thumb: /isotopes-in-medicine/h-isotopes-teaser.jpg
 ads: false
-date: 2013-09-02T12:00:00
+date: 2013-09-02
+comments: true
 ---
 
 ###Goldschmidt 2013 – Tuesday

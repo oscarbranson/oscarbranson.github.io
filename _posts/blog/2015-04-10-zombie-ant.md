@@ -14,7 +14,8 @@ image:
   creditlink: http://goo.gl/KKjMsU
 original: "https://www.facebook.com/TheEarthStory/photos/a.352867368107647.80532.352857924775258/859055307488848/?type=1"
 ads: false
-date: 2015-04-10T12:00:00
+date: 2015-04-10
+comments: true
 ---
 
 This ant has been completely taken over by a fungus. It's dead now, but the fungus has been in control for some time.

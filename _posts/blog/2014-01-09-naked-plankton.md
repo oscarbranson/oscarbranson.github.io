@@ -11,7 +11,8 @@ image:
   teaser: /naked-plankton/plankton_teaser.png
   thumb: /naked-plankton/plankton_thumb.jpg
 ads: false
-date: 2014-01-09T21:00:00
+date: 2014-01-09
+comments: true
 ---
 
 I wrote an article for the [Naked Scientists](http://www.thenakedscientists.com/).
