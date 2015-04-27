@@ -2,7 +2,7 @@
 layout: earthstory
 title: A new piece in the Moon puzzle
 modified:
-categories: blog earth-story
+categories: blog main earth-story
 share: true
 excerpt:
 tags: science earthstory

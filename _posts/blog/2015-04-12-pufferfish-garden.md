@@ -2,7 +2,7 @@
 layout: earthstory
 title: A Pufferfish's Garden
 modified:
-categories: blog earth-story
+categories: blog main earth-story
 share: true
 excerpt:
 tags: science earthstory fun
