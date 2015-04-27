@@ -8,8 +8,8 @@ excerpt:
 tags: science earthstory
 image:
   feature: /earth-story/drought.jpg
-  teaser: /earth-story/drought.jpg
-  thumb: /earth-story/drought.jpg
+  teaser: /earth-story/drought-teaser.jpg
+  thumb: /earth-story/drought-thumb.jpg
   credit: QQ Li
   creditlink: https://www.flickr.com/photos/ozyman/155517365/
 ads: false

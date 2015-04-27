@@ -8,8 +8,8 @@ excerpt:
 tags: science earthstory
 image:
   feature: /earth-story/enceladus_hot_springs.jpg
-  teaser: /earth-story/enceladus_hot_springs2.jpg
-  thumb: /earth-story/enceladus_hot_springs.jpg
+  teaser: /earth-story/enceladus_hot_springs2-teaser.jpg
+  thumb: /earth-story/enceladus_hot_springs-thumb.jpg
   credit: NASA/JPL-Caltech
   creditlink:
 ads: false

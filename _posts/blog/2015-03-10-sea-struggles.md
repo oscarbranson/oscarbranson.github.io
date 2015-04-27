@@ -8,8 +8,8 @@ excerpt:
 tags: earthstory photography
 image:
   feature: /earth-story/foram_pic.jpg
-  teaser: /earth-story/foram_pic.jpg
-  thumb: /earth-story/foram_pic.jpg
+  teaser: /earth-story/foram_pic-teaser.jpg
+  thumb: /earth-story/foram_pic-thumb.jpg
   credit: Oscar Branson
   creditlink:
 ads: false

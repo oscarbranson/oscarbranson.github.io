@@ -8,8 +8,8 @@ excerpt:
 tags: earthstory
 image:
   feature: /earth-story/dryvalleys_1.jpg
-  teaser: /earth-story/dryvalleys_1.jpg
-  thumb: /earth-story/dryvalleys_1.jpg
+  teaser: /earth-story/dryvalleys_1-teaser.jpg
+  thumb: /earth-story/dryvalleys_1-thumb.jpg
   credit: Wikimedia
   creditlink: http://goo.gl/E15f19
 ads: false

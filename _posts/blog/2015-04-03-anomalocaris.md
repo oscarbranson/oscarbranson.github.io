@@ -8,8 +8,8 @@ excerpt:
 tags: science earthstory
 image:
   feature: /earth-story/anomalocaris.jpg
-  teaser: /earth-story/anomalocaris.jpg
-  thumb: /earth-story/anomalocaris.jpg
+  teaser: /earth-story/anomalocaris-teaser.jpg
+  thumb: /earth-story/anomalocaris-thumb.jpg
   credit: Wikimedia
   creditlink: http://goo.gl/5rZtCA
 ads: false
