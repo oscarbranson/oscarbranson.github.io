@@ -19,7 +19,7 @@ ads: false
     <col width="">
     <col width="300">
     <tr>
-        <th><h2>Click on the map above, or...</h2></th>
+        <th><h2>Adventures</h2></th>
         <th></th>
     </tr>
     <tr>
