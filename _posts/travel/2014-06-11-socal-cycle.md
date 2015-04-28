@@ -13,6 +13,7 @@ ads: false
 date: 2014-06-11
 mode: bike
 comments: true
+published: false
 ---
 
 Some time around Christmas 2013, while deep in the mire of writing my PhD thesis, I had an idea. It was daft and impractical, but offered a tantalising glimmer of light at the end of the tunnel. I was going to cycle from San Francisco to LA.
