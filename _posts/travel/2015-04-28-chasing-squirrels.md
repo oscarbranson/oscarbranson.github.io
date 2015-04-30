@@ -8,7 +8,7 @@ tags: travel
 image:
   feature: /chasing-squirrels/group-triumph.jpeg
   teaser: /chasing-squirrels/wildflower.png
-  thumb: /chasing-squirrels/thumb.jpeg
+  thumb: /roadbike-thumb.png
 ads: false
 date: 2015-04-26
 mode: roadbike
