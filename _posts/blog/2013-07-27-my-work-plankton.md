@@ -13,6 +13,7 @@ image:
   thumb: default_thumb.jpg
 date: 2013-07-27
 comments: true
+published: true
 ---
 
 I study plankton. For fun, but also for my PhD.

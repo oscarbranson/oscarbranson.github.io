@@ -8,7 +8,7 @@ tags: travel
 image:
   feature: /socal-cycle/teaser.jpg
   teaser: /socal-cycle/teaser.jpg
-  thumb: /socal-cycle/teaser.jpg
+  thumb: /tourbike-thumb.png
 ads: false
 date: 2014-06-11
 mode: tourbike
