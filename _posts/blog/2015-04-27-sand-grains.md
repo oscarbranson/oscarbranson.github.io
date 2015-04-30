@@ -14,7 +14,7 @@ image:
   creditlink: http://sandgrains.com/
 ads: false
 original:
-date: 2015-MM-DD
+date: 2015-04-29
 published: false
 ---
 
@@ -24,7 +24,7 @@ Sand is soft, scratchy, in all the wrong places, and boring... or is it? Each mi
 
 These journeys are captured in the spectacular work of Dr Gary Greenberg, who has been photographing sand for decades. The sand grains in this picture are from Maui, and are mainly the remains of living creatures, some more intact than others. Just in these few grains there are fragments of corals, sea urchins, bivalves, gastropods, bryozoans and encrusting algaes, there are near-complete foraminifera and the skeleton of a juvenile sponge (the three-pronged structure), as well as a few grains of 'terrigenous' material - ground up rocks from the land.
 
-More about Sand:
+######More about Sand:
 * ['Sand Star Beach'](http://goo.gl/4g4EIu)
 * [A 'Sand Tsunami'](http://goo.gl/eQ84G5)
 * [The mineralogical side of sand](http://goo.gl/Vjyfuc)

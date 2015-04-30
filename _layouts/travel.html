@@ -9,6 +9,7 @@ layout: default
             <div class="page-image">
                 <img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
                 {% if page.image.credit %}{% include image-credit.html %}{% endif %}
+                {% if page.mode %}{% include travel-badge.html %}{% endif %}
             </div><!-- /.page-image -->
             {% endif %}
             <div class="page-title">

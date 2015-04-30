@@ -12,6 +12,7 @@ ads: false
 ---
 
 <!-- Map edit link: https://www.google.com/maps/d/u/0/edit?hl=en&authuser=0&mid=ze_XPNXVoqZ8.kWuRmuZxNqX4 -->
+<!-- Strava GPX to KML converter: http://www.gpsvisualizer.com/map_input?form=googleearth -->
 
 <embed src="https://www.google.com/maps/d/u/0/embed?mid=ze_XPNXVoqZ8.kWuRmuZxNqX4" width="640" height="420">
 

@@ -2,7 +2,7 @@
 
 - title: Blog
   url: /blog/
-  excerpt: "Stray thoughts..."
+  # excerpt: ""
   image: blog_teaser.png
 
 - title: Travel

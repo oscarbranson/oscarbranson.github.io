@@ -11,9 +11,9 @@ image:
   thumb: /socal-cycle/teaser.jpg
 ads: false
 date: 2014-06-11
-mode: bike
+mode: tourbike
 comments: true
-published: false
+published: true
 ---
 
 Some time around Christmas 2013, while deep in the mire of writing my PhD thesis, I had an idea. It was daft and impractical, but offered a tantalising glimmer of light at the end of the tunnel. I was going to cycle from San Francisco to LA.
