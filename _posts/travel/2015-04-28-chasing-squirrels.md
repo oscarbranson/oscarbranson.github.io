@@ -16,7 +16,7 @@ comments: true
 published: true
 ---
 
-Last weekend we embarked upon the Best Worst Idea Ever: to go to a delightful wedding, drive one and a half hours to sleep in a glorified car-park under the stars, and then get up at 5 am to cycle 100 miles. What could possibly go wrong? And so began the [Chico Wildflower century](https://www.chicovelo.org/wildflower-april.html).
+Last weekend we embarked upon the Best Worst Idea Ever. We went to a delightful evening wedding, drove one and a half hours to sleep in a glorified car-park under the stars, and then got up at 5 am to cycle 100 miles. What could possibly go wrong? And so began the [Chico Wildflower century](https://www.chicovelo.org/wildflower-april.html).
 
 We left the wedding late to arrive at cycle start point around midnight. Too tired and drunk to think about tents, we threw our sleeping bags on the ground, and slept out under the stars, because apparently that's a thing you can do in California. We woke to the sound of a kindly citizen mowing their lawn at 4am. I mean really... who does that?! After the appropriate cursing and muted threats, we calmed ourselves with thimbles full of coffee and flaccid croissants, and were treated to a spectacular sunrise over not-so-distant Sierras.
 
