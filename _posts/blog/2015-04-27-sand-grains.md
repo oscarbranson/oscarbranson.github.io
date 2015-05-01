@@ -13,12 +13,10 @@ image:
   credit: Dr Gary Greenberg
   creditlink: http://sandgrains.com/
 ads: false
-original:
+original: https://www.facebook.com/TheEarthStory/photos/a.352867368107647.80532.352857924775258/868606833200362/
 date: 2015-04-30
 published: true
 ---
-
-A Grain of Sand
 
 Sand is soft, scratchy, in all the wrong places, and boring... or is it? Each minute sand grain has a remarkable history with roots in diverse geological processes, from explosive volcanic eruptions, to the formation and destruction of intricate sea shells. Each grain is somewhere on its journey from formation to destruction, and will eventually be re-cycled into the planet's huge, slow chemical and physical cycles.
 
