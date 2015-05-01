@@ -170,7 +170,7 @@
 			// larger font for intro paragraph
 			> p {
 				&:first-child {
-					@include font-size(20,yes,30);
+					@include font-size(19,yes,30);
 				}
 			}
 			// cleaner underlines for links
@@ -915,4 +915,9 @@ span + .entry-title {
     right: 1%;
     bottom: 2%;
     width: 20%;
+}
+
+// Remove underline from unstyled list on home page
+.no-underline {
+      text-decoration: none;
 }
