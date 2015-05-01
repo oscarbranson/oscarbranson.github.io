@@ -1,6 +1,7 @@
 ---
 layout: earthstory
 title: A Grain of Sand
+description: Sand grains under the microscope.
 modified:
 categories: blog main earth-story
 share: true

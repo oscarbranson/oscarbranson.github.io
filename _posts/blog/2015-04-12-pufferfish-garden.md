@@ -1,6 +1,7 @@
 ---
 layout: earthstory
 title: A Pufferfish's Garden
+description: Enormous sand sculptures
 modified:
 categories: blog main earth-story
 share: true

@@ -1,6 +1,7 @@
 ---
 layout: earthstory
 title: Darwin's mystery beasts
+description: He was a lot more than finches.
 modified:
 categories: blog main earth-story
 share: true

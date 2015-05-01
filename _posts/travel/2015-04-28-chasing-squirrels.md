@@ -1,6 +1,7 @@
 ---
 layout: travel
 title: Chasing Squirrels
+description: The Chico Wildflower Century
 modified:
 categories: travel main
 excerpt:

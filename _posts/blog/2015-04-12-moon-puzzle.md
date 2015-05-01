@@ -1,6 +1,7 @@
 ---
 layout: earthstory
 title: A new piece in the Moon puzzle
+description: Support for the 'giant impactor' hypothesis
 modified:
 categories: blog main earth-story
 share: true

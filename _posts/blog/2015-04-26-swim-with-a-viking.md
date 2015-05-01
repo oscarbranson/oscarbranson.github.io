@@ -1,6 +1,7 @@
 ---
 layout: earthstory
 title: Swim with a Viking
+description: Slow-moving ocean currents.
 modified:
 categories: blog main earth-story
 share: true
