@@ -144,7 +144,7 @@
 #main {
 	.inner-wrap {
 		@include media($medium) {
-			@include span-columns(9);
+			@include span-columns(11);
 		}
 	}
 	.toc {
@@ -170,7 +170,7 @@
 			// larger font for intro paragraph
 			> p {
 				&:first-child {
-					@include font-size(19,yes,30);
+					@include font-size(18,yes,30);
 				}
 			}
 			// cleaner underlines for links
