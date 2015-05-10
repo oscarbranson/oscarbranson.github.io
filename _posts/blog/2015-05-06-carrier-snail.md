@@ -20,7 +20,7 @@ published: true
 
 These sea-snails really like to decorate. As they grow, they grab things from their surroundings, living or dead, and hold them in place while their shell grows around them, and cements them into place.
 
-These remarkable gastropods are in the genus Xenophora (from latin: xeno = 'foreign', phora = 'carrier'), and are found in deep tropical waters throughout the Indo-Pacific, from East Africa, all the way to New Zealand and Japan. The specimen in this photo is *Xenophora pallidula*, or 'pale carrier snail'.
+These remarkable gastropods are in the genus Xenophora (xeno = 'foreign', phora = 'carrier'), and are found in deep tropical waters throughout the Indo-Pacific, from East Africa, all the way to New Zealand and Japan. The specimen in this photo is *Xenophora pallidula*, or 'pale carrier snail'.
 
 Why do they do this? In simple terms, to make themselves bigger. Larger, spikier objects are harder for predators to get their jaws or claws around. Many gastropods, like the spectacular Murex 'comb shells' (https://goo.gl/SnxuZW), do this by physically growing a complex network of spines. However, this takes a lot of time and energy. The Xenophora have found an efficient short cut, by collecting rocks and shells to act as makeshift spines.
 
