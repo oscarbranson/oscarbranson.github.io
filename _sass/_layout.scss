@@ -65,7 +65,7 @@
 			}
 			&:after {
 				width: 0;
-				background: $black;
+				background: $primary-color;
 			}
 			&:active:after,
 			&:hover:after {
@@ -109,7 +109,6 @@
 		color: lighten($black,60);
 	}
 }
-
 
 // PAGE WRAPPER
 // --------------------------------------------------
@@ -255,7 +254,7 @@
 		padding: 3em;
 	}
 	h1 {
-        color: rgba(20,70,220,0.8);
+        color: $highlight-color;
 		@include font-size(42);
 		@include media($medium) {
 			@include font-size(60);
@@ -653,22 +652,10 @@
 
 .unstyled-list .entry-meta {
   clear: none;
-  font-size: 14px;
-  font-size: 0.875rem;
-  line-height: 1.7143;
-}
-
-.unstyled-list .preview {
-  float: right;
-  width: 50px;
-  height: 50px;
-  margin-left: 5px;
-  border: 4px solid #ccc;
-  position: relative;
-  z-index : 0;
-  -webkit-border-radius: 50px;
-     -moz-border-radius: 50px;
-          border-radius: 50px;
+  @include font-size(14,yes,22);
+  text-indent:0.5em;
+  font-style: italic;
+  color: lighten($text-color, 20);
 }
 
 .unstyled-list .oabadge {
@@ -681,20 +668,6 @@
   -webkit-border-radius: 30px;
      -moz-border-radius: 30px;
           border-radius: 30px;
-}
-
-@media only screen and (min-width: 48em) {
-  .unstyled-list .preview {
-    float: left;
-    width: 75px;
-    height: 75px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    margin-left: 0;
-    -webkit-border-radius: 75px;
-       -moz-border-radius: 75px;
-            border-radius: 75px;
-  }
 }
 
 @media only screen and (min-width: 48em) {
@@ -714,187 +687,83 @@
 // homepage recents
 // --------------------------------------------------
 
-.entry,
-.hentry {
-  border-bottom: 1px solid #cccccc;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  *zoom: 1;
-}
+.entry {
 
-.entry:before,
-.hentry:before,
-.entry:after,
-.hentry:after {
-  display: table;
-  line-height: 0;
-  content: "";
-}
-
-.entry:after,
-.hentry:after {
-  clear: both;
-}
-
-.entry-header {
-  width: 100%;
-}
-
-.entry-header h1 {
-  max-width: 440px;
-  padding-right: 20px;
-  padding-left: 20px;
-  margin-right: auto;
-  margin-left: auto;
-  *zoom: 1;
-}
-
-.entry-header h1:before,
-.entry-header h1:after {
-  display: table;
-  line-height: 0;
-  content: "";
-}
-
-.entry-header h1:after {
-  clear: both;
-}
-
-@media only screen and (min-width: 48em) {
-  .entry-header h1 {
-    max-width: 720px;
-    padding-right: 60px;
-    padding-left: 60px;
-  }
-}
-
-@media only screen and (min-width: 62.5em) {
-  .entry-header h1 {
-    max-width: 960px;
-    padding-right: 140px;
-  }
-}
-
-.entry-image {
-  position: relative;
-}
-
-.entry-feature-image {
-  width: 100%;
-  margin: 20px 0 0;
-}
-
-span + .entry-title {
-  margin-top: 0;
-}
-
-.entry-title {
-  font-family: lato, Calibri, Arial, sans-serif;
-  font-size: 24px;
-  font-size: 1.5rem;
-  line-height: 1;
-  text-transform: uppercase;
-}
-
-.entry-title a {
-  color: #000000;
-}
-
-@media only screen and (min-width: 48em) {
-  .entry-title {
-    max-width: 600px;
-    font-size: 36px;
-    font-size: 2.25rem;
-  }
-}
-
-@media only screen and (min-width: 62.5em) {
-  .entry-title {
-    max-width: 800px;
-    font-size: 42px;
-    font-size: 2.625rem;
-  }
 }
 
 .entry-wrapper {
-  max-width: 440px;
-  padding-right: 20px;
-  padding-left: 20px;
-  margin: 0 auto;
-  *zoom: 1;
-}
-
-.entry-wrapper:before,
-.entry-wrapper:after {
-  display: table;
-  line-height: 0;
-  content: "";
-}
-
-.entry-wrapper:after {
-  clear: both;
+    max-width: 440px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 0 auto;
+    *zoom: 1;
+    text-decoration: none;
 }
 
 @media only screen and (min-width: 48em) {
-  .entry-wrapper {
-    max-width: 760px;
-    padding-right: 60px;
-    padding-left: 60px;
-    margin-bottom: 3em;
-  }
+    .entry-wrapper {
+        max-width: 760px;
+        padding-right: 60px;
+        padding-left: 60px;
+        margin-bottom: 3em;
+    }
 }
 
-@media only screen and (min-width: 62.5em) {
-  .entry-wrapper {
-    max-width: 960px;
-  }
+.entry-item .preview{
+    vertical-align: center;
+    float: right;
+    width: 70px;
+    height: 70px;
+    margin-right: 0.5rem;
+    border: 3px solid #ccc;
+    z-index : 0;
+    -webkit-border-radius: 50px;
+       -moz-border-radius: 50px;
+            border-radius: 50px;
 }
 
-.entry-meta {
-  clear: both;
-  font-size: 14px;
-  font-size: 0.875rem;
-  color: #343434;
+@media only screen and (min-width: 48em) {
+    .entry-item .preview {
+        float: left;
+        width: 70px;
+        height: 70px;
+        margin-right: 1rem;
+    }
+    .entry-item .description {
+        p {
+            text-indent:1em;
+        }
+    }
 }
 
-.entry-meta a {
-  color: #343434;
+
+.entry-item .description{
+    position: relative;
+    display: inline-block;
+    @include font-size(14);
+    p {
+        @include font-size(14, no, 24);
+        color: lighten($text-color, 20);
+    }
 }
 
-.entry-meta .tag {
-  display: inline-block;
-  padding: 2px 6px;
-  margin: 4px 4px 4px 0;
-  color: #ffffff;
-  background-color: #343434;
-  -webkit-border-radius: 3px;
-     -moz-border-radius: 3px;
-          border-radius: 3px;
+.entry-item:hover {
+    transition: width 0.2s, height 0.2s;
+    .preview {
+        border: 4px solid $text-highlight;
+    }
+    .description {
+        h1 {
+            font-style: bold;
+            color: $text-highlight;
+        }
+        p {
+            color: $text-highlight;
+        }
+    }
 }
 
-.entry-meta .tag span {
-  font-size: 10px;
-  font-size: 0.625rem;
-  vertical-align: super;
-}
 
-.entry-meta .tag:hover {
-  background-color: #222222;
-}
-
-.entry-meta .tag:active {
-  -webkit-transform: translate(0, 1px);
-     -moz-transform: translate(0, 1px);
-      -ms-transform: translate(0, 1px);
-       -o-transform: translate(0, 1px);
-          transform: translate(0, 1px);
-  -webkit-box-shadow: 0 0 1px rgba(52, 52, 52, 0.2);
-     -moz-box-shadow: 0 0 1px rgba(52, 52, 52, 0.2);
-          box-shadow: 0 0 1px rgba(52, 52, 52, 0.2);
-}
-
-.entry-tags {
-  display: block;
-}
 
 // OSCAR'S ADDITIONS
 // --------------------------------------------------
@@ -916,8 +785,18 @@ span + .entry-title {
     bottom: 2%;
     width: 20%;
 }
-
+/*
 // Remove underline from unstyled list on home page
 .no-underline {
       text-decoration: none;
+}*/
+
+.mouseover {
+    background: rgba($base-color,0);
+    @include transition(background 0.3s);
+    &:hover {
+        &:after {
+            background: rgba($base-color,0.2);
+        }
+    }
 }
