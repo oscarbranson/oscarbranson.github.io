@@ -27,11 +27,14 @@ $white                       	: #fff;
 $dark-grey                      : #828282;
 $black                       	: #000;
 $link-color                  	: #222;
-$primary-color               	: $black;
+$primary-color               	: rgba(20,70,220,0.8);
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
 $info-color                  	: #3498db;
+
+$highlight-color                : rgba(20,70,220,0.8);
+$text-highlight                 : darken($highlight-color,10);
 
 $table-border-color          	: $border-color;
 $table-border                	: 1px solid $table-border-color;
@@ -70,7 +73,7 @@ $form-font-size              	: $doc-font-size;
 // Sliding Menu Navigation
 
 $sliding-menu-border-color	 	: $black;
-$sliding-menu-background 		: $black;
+$sliding-menu-background 		: darken($primary-color,20);
 $sliding-menu-color 	 		: $white;
 $sliding-menu-background-hover	: $black;
 $sliding-menu-color-hover	 	: $white;
