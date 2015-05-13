@@ -49,7 +49,7 @@
       <div class="wrap page-lead-content">
         <h1>Oscar Branson</h1>
         <h2>Postdoc at UC Davis.</h2>
-        <a href="{{ site.url }}/blog/" class="btn-inverse">Blog</a> &nbsp; <a href="{{ site.url }}/travel/" class="btn-inverse">Adventures</a> &nbsp; <a href="{{ site.url }}/papers/" class="btn-inverse">Science</a> &nbsp; <a href="{{ site.url }}/about/" class="btn-inverse">Who am I?</a>
+        <a href="{{ site.url }}/blog/" class="btn-inverse">Blog</a> &nbsp; <a href="{{ site.url }}/travel/" class="btn-inverse">Adventures</a> &nbsp; <a href="{{ site.url }}/papers/" class="btn-inverse">Science</a>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
     {% endif %}
@@ -57,41 +57,12 @@
     <div id="page-wrapper">
       {% include browser-upgrade.html %}
 
+  {% include recent-posts.html %}
 
-<!-- Convert this to a md file? -->
+  {% include footer.html %}
 
-<section class="entry">
-        <div class="entry-wrapper">
-            <header class="entry-header">
-                <h2>Recent posts </h2>
-            </header>
-            <div class="entry-content">
-                <ul class="post-index unstyled-list">
-                {% for post in site.categories.main limit:5 %}
-                {% assign readtime = post.content | number_of_words | divided_by:200 %}
-                    <li>
-                        <article itemscope itemtype="http://schema.org/Article">
-                            <a href="{{ site.url }}{{ post.url }}" itemprop="url" class="no-underline">
-                                <img src="{{ site.url }}/images/{{ post.image.thumb }}" class="preview" alt="preview image">
-                                <h1 itemprop="name">{{ post.title }}</h1>
-                                <p itemprop="description"><em>{{ post.description }}</em></p>
-                                <p class="entry-meta">
-                                    <i class="fa fa-clock-o"></i> Reading time ~{% if readtime <= 1 %}1 min{% else %}{{ readtime }} min{% endif %} &#8901; <span class="entry-date date published"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span>
-                                </p><!~~ /.entry-meta ~~>
-                            </a>
-                        </article>
-                    </li>
-                {% endfor %}
-                    <div class="center-block"><a href="{{ site.url }}/blog/" class="btn">Read More</a></div><!~~ /.center-block ~~>
-                </ul><!~~ /.unstyled-list ~~>
-            </div><!~~ /.entry-content ~~>
-        </div><!~~ /.entry-wrapper ~~>
-    </section><!~~ /.entry ~~>
-
- {% include footer.html %}
-
-    <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
-    <script src="{{ site.url }}/js/main.js"></script>
+  <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
+  <script src="{{ site.url }}/js/main.js"></script>
 
   </body>
 
