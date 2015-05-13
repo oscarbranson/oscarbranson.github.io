@@ -1,6 +1,7 @@
 ---
 layout: earthstory
 title: The Golden Snail
+description: A shell of Fool's Gold.
 modified:
 categories: blog main earth-story
 share: true

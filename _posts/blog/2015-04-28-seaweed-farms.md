@@ -1,6 +1,7 @@
 ---
 layout: earthstory
 title: Seaweed Farms?
+description: Unusual ocean agriculture.
 modified:
 categories: blog main earth-story
 share: true

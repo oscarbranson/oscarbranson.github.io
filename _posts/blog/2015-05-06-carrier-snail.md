@@ -1,6 +1,7 @@
 ---
 layout: earthstory
 title: Carrier Snail
+description: This snail likes to decorate.
 modified:
 categories: blog main earth-story
 share: true
