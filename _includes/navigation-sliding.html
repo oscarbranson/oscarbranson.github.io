@@ -1,12 +1,17 @@
 <nav role="navigation" class="js-menu sliding-menu-content">
 	<ul class="menu-item">
-		{% for link in site.data.navigation %}<li>
-      {% unless link.url contains 'http' %}
-        {% assign domain = site.url %}
-      {% endunless %}
-			{% if link.image %}<a href="{{ domain }}{{ link.url }}"><img src="{{ site.url }}/images/{{ link.image }}" alt="teaser" class="teaser"></a>{% endif %}
-			<a href="{{ domain }}{{ link.url }}" class="title">{{ link.title }}</a>
-			{% if link.excerpt %}<p class="excerpt">{{ link.excerpt }}</p>{% endif %}
+		{% for link in site.data.navigation %}
+        <li>
+            {% unless link.url contains 'http' %}
+                {% assign domain = site.url %}
+            {% endunless %}
+            <a href="{{ domain }}{{ link.url }}">
+                <div class="infobox">
+                    {% if link.image %}<a href="{{ domain }}{{ link.url }}"><img src="{{ site.url }}/images/{{ link.image }}" alt="teaser" class="teaser"></a>{% endif %}
+                    <h1>{{ link.title }}</h1>
+	       		  {% if link.excerpt %}<p class="excerpt">{{ link.excerpt }}</p>{% endif %}
+                </div>
+            </a>
 		</li>{% endfor %}
 	</ul>
 </nav>

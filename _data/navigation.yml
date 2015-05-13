@@ -7,20 +7,20 @@
 
 - title: Travel
   url: /travel/
-  excerpt: "Adventures"
+  # excerpt: "Adventures"
   image: travel_teaser.jpg
 
 - title: Papers
   url: /papers/
-  excerpt: "Science I have done."
+  # excerpt: "Science I have done."
   image: papers_teaser.jpg
 
 - title: Code
   url: /code/
-  excerpt: "Serious geekery"
+  # excerpt: "Serious geekery"
   image: code_teaser.png
 
 - title: About
   url: /about/
-  excerpt: "A bit about Oscar"
+  # excerpt: "A bit about Oscar"
   image: oscar_teaser.jpg
