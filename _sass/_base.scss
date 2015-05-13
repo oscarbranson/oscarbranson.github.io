@@ -11,10 +11,6 @@ p {
 	@include font-size(18,yes,28);
 }
 
-p[itemprop="description"] {
-	@include font-size(14, no, 16);
-}
-
 li {
 	@include font-size(16,12,24);
 }
