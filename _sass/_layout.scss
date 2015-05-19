@@ -658,12 +658,35 @@
   color: lighten($text-color, 20);
 }
 
+.unstyled-list .preview{
+    vertical-align: center;
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-right: 1rem;
+    margin-left: -0.5rem;
+    border: 3px solid #ccc;
+    z-index : 0;
+    -webkit-border-radius: 50px;
+       -moz-border-radius: 50px;
+            border-radius: 50px;
+}
+
+@media only screen and (min-width: 48em) {
+    .unstyled-list .preview {
+        float: left;
+        width: 70px;
+        height: 70px;
+        margin-right: 1rem;
+    }
+}
+
 .unstyled-list .oabadge {
   float: left;
   width: 30px;
-  margin-left: -35px;
-  margin-top: -12px;
-  position: relative;
+  margin-left: -12px;
+  margin-top: -4px;
+  position: absolute;
   z-index : 10;
   -webkit-border-radius: 30px;
      -moz-border-radius: 30px;
@@ -674,15 +697,105 @@
   .unstyled-list .oabadge {
     float: left;
     width: 45px;
-    position: relative;
     margin-top: -12px;
-    margin-right: -35px;
+    margin-left: -10px;
+    margin-right: -25px;
     z-index : 10;
    -webkit-border-radius: 45px;
       -moz-border-radius: 45px;
            border-radius: 45px;
   }
 }
+
+.unstyled-list li:hover {
+    transition: width 0.2s, height 0.2s;
+    .preview {
+        border: 4px solid $text-highlight;
+    }
+    .oabadge {
+        opacity: 0.8;
+    }
+    h1 {
+        color: $text-highlight;
+    }
+    p {
+        color: $text-highlight;
+    }
+}
+
+// Papers page
+// --------------------------------------------------
+.papers {
+    float: left;
+    display: inline-block;
+    width: calc(100% - 58px);
+    text-decoration: none;
+    margin-top: 1rem;
+    h1 {
+        font-weight: 70;
+        @include font-size(20);
+        margin-bottom: 0.5em;
+    }
+    p {
+        @include font-size(16);
+    }
+}
+
+.papers-preview {
+    width: 58px;
+    float:left;
+    display: inline-block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+@media only screen and (min-width: 48em) {
+    .papers {
+        float: left;
+        display: inline-block;
+        width: calc(100% - 96px);
+        text-decoration: none;
+        margin-top: 1rem;
+        h1 {
+            font-weight: 70;
+            @include font-size(20);
+            margin-bottom: 0.5em;
+        }
+        p {
+            @include font-size(16);
+        }
+    }
+
+    .papers-preview {
+        width: 96px;
+        float:left;
+        display: inline-block;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+}
+
+.papers-hr {
+    display: block;
+    clear: both;
+    position: relative;
+    margin: 0;
+    margin-top: -1rem;
+    /*margin: 0px + (2 * $doc-line-height) 0;*/
+    /*margin: 0rem + ((2 * $doc-line-height) / $doc-font-size) 0;*/
+    padding: 0;
+    height: 5px;
+    border: 0;
+/*    &:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 2 * $column;
+        height: 1px;
+        background: $border-color;
+    }
+*/}
 
 // homepage recents
 // --------------------------------------------------
