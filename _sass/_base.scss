@@ -153,8 +153,8 @@ th {
 }
 td {
 	border-bottom: 1px solid $border-color;
-	padding: (0px + $doc-line-height) / 2;
-	padding: (0rem + ($doc-line-height / $doc-font-size)) / 2;
+	/*padding: (0px + $doc-line-height) / 2;*/
+	/*padding: (0rem + ($doc-line-height / $doc-font-size)) / 2;*/
 }
 tr, td, th {
 	vertical-align: middle;
@@ -195,6 +195,9 @@ figure {
 	}
 	@include clearfix;
 	img {
+		@include media($large) {
+			margin-bottom: 0px;
+		}
 		margin-bottom: 0px + $doc-line-height;
 		margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
 	}
