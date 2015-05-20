@@ -913,3 +913,27 @@
         }
     }
 }
+
+// floating badge link
+.image-badge {
+    @include span-columns(11);
+    @include media($medium) {
+        @include span-columns(9)
+    }
+    display: inline-block;
+    position: absolute;
+    z-index: 10;
+    img {
+        float: right;
+        width: 100%;
+    }
+}
+
+.image-badge .linkbox {
+    width: 15%;
+    float: right;
+    &:hover{
+        @include transition(0.2s);
+        opacity: 0.6;
+    }
+}

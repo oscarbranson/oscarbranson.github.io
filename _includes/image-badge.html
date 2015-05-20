@@ -1,0 +1,7 @@
+<div class="image-badge">
+    <div class="linkbox">
+        {% if page.badgelink %}<a href="{{page.badgelink}}" target="_blank">{% endif %}
+        <img src="{{ site.url }}/images/{{ page.imagebadge }}">
+        {% if page.badgelink %}</a>{% endif %}
+    </div>
+</div>
