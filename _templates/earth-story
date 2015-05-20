@@ -1,6 +1,7 @@
 ---
 layout: earthstory
-title:
+title: title
+description: subtitle
 modified:
 categories: blog main earth-story
 share: true
@@ -10,17 +11,15 @@ image:
   feature: /earth-story/
   teaser: /earth-story/
   thumb: /earth-story/
-  credit:
-  creditlink:
+  credit: image_credit
+  creditlink: image_url
 ads: false
-original:
-date: 2015-MM-DD
-comments: true
+original: facebook_link
+date: 2015-05-13
+published: true
 ---
 
-
-
-
+Content
 
 ######Further Reading:
-*
+* [text](link){:target="_blank"}
