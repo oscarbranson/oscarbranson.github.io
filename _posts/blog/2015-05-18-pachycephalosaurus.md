@@ -17,6 +17,8 @@ ads: false
 original: https://www.facebook.com/TheEarthStory/posts/875758419151870
 date: 2015-05-18
 published: true
+badgelink: https://goo.gl/Wxxys6
+imagebadge: /earth-story/mesozoic_park.png
 ---
 
 This moderately sized herbivore makes an appearance in 'The Lost World'. Its distinctive domed head immediately earns it the nick-name 'Friar Tuck', when the big-game hunter Roland Tembo can't pronounce Pachysephalosaurus (can YOU?).
@@ -39,8 +41,6 @@ In the film, a particularly hairy palaeontologist treats us to a [description of
 We know it didn't run and [charge like a Musk Ox](http://goo.gl/DuMs0i){:target="_blank"}, so what's with the 'Friar Tuck' bald patch? Its clearly weaponised head would mainly have been used for settling disputes with other pachysephalosaurs, and defending itself from predators (like T-Rex, which was around in the same place at the same time!). We think it would have used its head like a club, swiping sideways into its challenger. Probably something similar to [what male Giraffes do to each other in the mating season](https://goo.gl/E9ony6){:target="_blank"}, but with a shorter neck .
 
 When the first pachycephalosaurus skulls were found in the late 19th century, they were so bony that people thought they were the kneecaps of a larger dinosaur. Dinosaurs don't actually have kneecaps... but they didn't know that back then, so give them a break!
-
-> This post is part of the [***Mesozoic Park***](https://goo.gl/Wxxys6){:target="_blank"} series for The Earth Story.
 
 ######Further Reading:
 * [Wiki](http://goo.gl/qao5K){:target="_blank"}

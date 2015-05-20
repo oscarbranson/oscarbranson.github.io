@@ -17,6 +17,8 @@ ads: false
 original: facebook_link
 date: 2015-05-19
 published: true
+badgelink: https://goo.gl/Wxxys6
+imagebadge: /earth-story/mesozoic_park.png
 ---
 
 We've got a big one for you today. Think Brachiosaurus ([its Western cousin](https://goo.gl/SnKE2U){:target="_blank"}), but quite a lot bigger and elongated.
@@ -39,8 +41,6 @@ This big grazer appears briefly in 'The Lost World', just before the Pachycephal
   <img src="/images/earth-story/Mamench_skel.jpg" width="100%">
   <figcaption>Mamenchisaurus skeleton in the Zigong dinosaur museum. Credit: <a href="http://commons.wikimedia.org/wiki/File:Sauropods.jpg">Wikmedia</a></figcaption>
 </figure>
-
-> This post is part of the [***Mesozoic Park***](https://goo.gl/Wxxys6){:target="_blank"} series for The Earth Story.
 
 ######Further Reading:
 * [Wiki](http://goo.gl/r7z0Wn){:target="_blank"}
