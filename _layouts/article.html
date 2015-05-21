@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div id="main" role="main">			
+<div id="main" role="main">
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
 		{% if page.image.feature %}
 		<div class="page-feature">
@@ -13,6 +13,7 @@ layout: default
 		</div><!-- /.page-feature -->
 		{% endif %}
 		{% if page.categories %}{% include breadcrumbs.html %}{% endif %}
+		{% if page.imagebadge %} {% include image-badge.html %} {% endif %}
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
 		</div>

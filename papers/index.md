@@ -9,8 +9,14 @@ image:
   teaser:
   thumb:
 ads: false
+badgelink: https://scholar.google.co.uk/citations?user=4aYtKEIAAAAJ&hl=en
+imagebadge: /google-scholar.png
 ---
 
+<!-- {% include image-badge.html %} -->
+
+<!-- <h2><a href="https://scholar.google.co.uk/citations?user=4aYtKEIAAAAJ&hl=en" target="_blank">Google Scholar Profile</a></h2>
+ -->
 <ul class="unstyled-list">
 
 <!-- Work out peculiarities of OA badge not moving (inspect element in chrome to see the styles) -->
