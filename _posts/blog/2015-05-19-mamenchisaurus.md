@@ -14,7 +14,7 @@ image:
   credit: Wikimedia
   creditlink: http://en.wikipedia.org/wiki/File:Mamench_DB.jpg
 ads: false
-original: facebook_link
+original: https://www.facebook.com/TheEarthStory/posts/876620289065683
 date: 2015-05-19
 published: true
 badgelink: https://goo.gl/Wxxys6
