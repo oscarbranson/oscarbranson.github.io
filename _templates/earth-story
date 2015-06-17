@@ -15,8 +15,8 @@ image:
   creditlink: image_url
 ads: false
 original: facebook_link
-date: 2015-05-13
-published: true
+date: YYYY-MM-DD
+published: false
 ---
 
 Content
