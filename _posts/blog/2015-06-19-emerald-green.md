@@ -16,7 +16,7 @@ image:
 ads: false
 original: https://www.facebook.com/TheEarthStory/photos/a.352867368107647.80532.352857924775258/890703327657379
 date: 2015-06-19
-published: false
+published: true
 ---
 
 The Emerald Green Snail (Papustyla pulcherrima) lives in rainforest trees, where its outrageous colour is perfectly matched to the lush forest foliage.
