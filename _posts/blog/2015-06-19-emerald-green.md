@@ -19,7 +19,7 @@ date: 2015-06-19
 published: true
 ---
 
-The Emerald Green Snail (Papustyla pulcherrima) lives in rainforest trees, where its outrageous colour is perfectly matched to the lush forest foliage.
+The Emerald Green Snail (*Papustyla pulcherrima*) lives in rainforest trees, where its outrageous colour is perfectly matched to the lush forest foliage.
 
 The calcium carbonate shell of the snail is actually yellow, not green. The unusual colour comes from a layer of proteins that encapsulates the whole shell (the periostracum).
 
