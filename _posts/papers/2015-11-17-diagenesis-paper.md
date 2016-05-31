@@ -14,5 +14,5 @@ date: 2015-11-17T12:00
 categories: papers
 tags: science publication
 image:
-  thumb: papers-ammoniatepida.png
+  thumb: papers-ammonia.png
 ---
