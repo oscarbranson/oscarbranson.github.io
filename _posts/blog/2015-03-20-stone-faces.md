@@ -30,6 +30,6 @@ Le Beaucet, in the Provence-Alpes-Côte d'Azur region, provides a spectacular ba
 
 ![](/images/earth-story/stonefaces_4.jpg)
 
-###### urther Reading:
+######Further Reading:
 * [Artist's Page](http://goo.gl/kIFDto)
 * [Le Beaucet](http://goo.gl/3DoIWP)

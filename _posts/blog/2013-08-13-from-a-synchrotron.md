@@ -53,7 +53,7 @@ Once your sample is in, and everything is set, you touch your safety-approved ID
 
 <iframe width="100%" height="80" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=false&url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F105157143&show_artwork=false"></iframe>
 
-### Lightbulb
+###Lightbulb
 
 So that is a sycnhrotron… but what is this mythical beast? A synchrotron is a type of <del>cyclotron</del> particle accelerator (thanks [@suziesheehy][]). That might not be as unhelpful as it first seems: both are ‘-trons’. We come into contact with trons all the time – powering our lights, charging our batteries – ‘tron’ is a suffix extracted from ‘electron’. ‘Cyclo-‘ is a derivation of ‘kyklos’, the ancient Greek for circle. So a cyclotron is a circle of electrons, and a synchrotron is a synchronised circle of electrons. Is this helping?
 
@@ -75,7 +75,7 @@ In practice, this involves: humming machines, unusual amounts of tin foil, very 
 
 What have they accomplished? Huge advances in batteries, semiconductors, molecular structures, anti-biotics, biominerals, atmospheric reactions. So many things would be less without synchrotrons!
 
-### Three synchrotrons and I
+###Three synchrotrons and I
 
 I’ve had the privilege of spending around a month at three synchrotrons over the last two years: the [Diamond Light Source][] (Harwell, Oxfordshire), the [Advanced Light Source][] (Berkeley, CA) and [BESSY II][] (Adlershof, near Berlin). Each is distinct, in character, approach and capabilities, and have been great fun in their different ways.
 

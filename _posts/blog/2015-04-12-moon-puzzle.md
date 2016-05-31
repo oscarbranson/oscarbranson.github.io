@@ -31,12 +31,12 @@ The Israeli study, published in Nature this week, shows the results of state-of-
 The study found that in planetary collisions like the 'Giant Impact', there is a 20-40% chance that the planets are as similar as the Earth and the Moon are today. This translates to a 20-40% chance that the Giant Impactor Hypothesis is correct, promoting it from 'improbable' to 'quite likely' - a great improvement on the 1% chance we gave it before. This is a major missing piece in the puzzle of how the moon formed.
 
 
-###### urther Reading:
+######Further Reading:
 * [Nature News Article and PodCast](http://goo.gl/S3KgKL)
 * [A more erudite summary](http://goo.gl/PhBJyf)
 * [Original Article](http://goo.gl/2blKx9)
 
-###### ther Moon-related Earth Story posts
+######Other Moon-related Earth Story posts
 * [Formation theories](http://goo.gl/k6HarI)
 * [Moon + asteroids = Earth's iron core?](http://goo.gl/8wS6zf)
 * [The Moon and Life](http://goo.gl/CaupMB)

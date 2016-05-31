@@ -28,7 +28,7 @@ The fungus then grows a large 'fruiting' structure, which grows through the back
 
 This specific fungus-ant relationship is found in Thailand and Brazil, although numerous other examples of 'zombie insects' can be found throughout the world. Don't worry though - there aren't any human zombie fungi.
 
-###### urther Reading:
+######Further Reading:
 * [A quick video](http://goo.gl/OObekX)
 * [A bit more detail](http://goo.gl/PR3hWm)
 * [The fungus also has predators...](http://goo.gl/z78gP)

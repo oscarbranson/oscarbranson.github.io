@@ -38,7 +38,7 @@ Our bucket analogy, while ridiculous, is pretty much what happens. Ocean circula
 The picture above is complex, but doesn't begin to scratch the surface of these global ocean processes. Oceanographers spend their entire lives trying to work out the peculiarities of ocean currents, and how they tie in to climate and our daily lives. A pressing question at the moment concerns the flow of the Gulf Stream: melting of ice sheets have the potential to disrupt a lot more than Polar Bears. The worry is that as the Greenland Ice Sheet melts, it will dump a huge amount of fresh water into the North Atlantic. As we know, fresh water is less dense, and could mix with North Atlantic water and stop it sinking, and take away the main driving force behind the 'conveyor belt' circulation. It's almost impossible to work out what this would do to ocean circulation. The world is as we know it because the ocean currents move the way they do.
 
 
-###### urther Reading:
+######Further Reading:
 * [The ocean currents in action (video)](http://goo.gl/UHsJ6m)
 * [Watch the Gulf Stream flowing and cooling (video)](http://goo.gl/xvIXXH)
 * [More detail on thermohaline circulation (NOAA)](http://goo.gl/m2HMZm)

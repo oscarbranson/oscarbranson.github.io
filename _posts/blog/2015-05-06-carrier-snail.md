@@ -29,6 +29,6 @@ They're not too fussy about what they pick up. Their decorations depend mostly o
 
 >IMPORTANT: You'll find these spectacular shells for sale in various places on the internet. PLEASE DO NOT BUY THEM. They are usually caught live, and by buying them you'll be creating a market for unsustainable fishing in delicate ecosystems.
 
-###### urther Reading:
+######Further Reading:
 * [More about Carrier Shells](http://goo.gl/RcTpev)
 * [Symbiotic Barnacles](http://goo.gl/zQAlpn)

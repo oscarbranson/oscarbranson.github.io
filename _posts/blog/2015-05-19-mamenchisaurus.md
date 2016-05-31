@@ -42,6 +42,6 @@ This big grazer appears briefly in 'The Lost World', just before the Pachycephal
   <figcaption>Mamenchisaurus skeleton in the Zigong dinosaur museum. Credit: <a href="http://commons.wikimedia.org/wiki/File:Sauropods.jpg">Wikmedia</a></figcaption>
 </figure>
 
-###### urther Reading:
+######Further Reading:
 * [Wiki](http://goo.gl/r7z0Wn){:target="_blank"}
 * [10 Fun Facts](http://goo.gl/pbEhUV){:target="_blank"}

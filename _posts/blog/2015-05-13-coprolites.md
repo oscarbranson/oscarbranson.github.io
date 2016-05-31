@@ -35,7 +35,7 @@ In some cases, coprolites can transform over time, and get really quite pretty. 
 </figure>
 
 
-###### urther Reading:
+######Further Reading:
 * [A more detailed look at coprolites](http://goo.gl/ylJYmJ)
 * [Neanderthal poo](http://goo.gl/cMLUJd)
 * [T-Rex poo!](http://goo.gl/IaVma3)

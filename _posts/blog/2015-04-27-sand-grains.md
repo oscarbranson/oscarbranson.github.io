@@ -29,7 +29,7 @@ These journeys are captured in the spectacular work of Dr Gary Greenberg, who ha
 </figure>
 
 
-###### ore about Sand:
+######More about Sand:
 * ['Sand Star Beach'](http://goo.gl/4g4EIu)
 * [A 'Sand Tsunami'](http://goo.gl/eQ84G5)
 * [The mineralogical side of sand](http://goo.gl/Vjyfuc)

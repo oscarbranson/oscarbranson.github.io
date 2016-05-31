@@ -28,7 +28,7 @@ This sub-glacial world is dark and cold: a low-energy environment. Complex life 
 
 Over a 6 hour dive, the scientists saw around 40 fish (of three types), as well as dozens of unusual crustaceans. The WISSARD scientists are now trying to work out what this complex ecosystem lives on, and are revising some of their ideas about what life is capable of.
 
-###### urther Reading:
+######Further Reading:
 * [Scientific American](http://goo.gl/UTNydk){:target="_blank"}
 * [The WISSARD Project](http://goo.gl/FpUEd){:target="_blank"}
 * [Radio interview with the chief WISSARD scientist, Ross Powell](http://goo.gl/o9rpn8){:target="_blank"}
