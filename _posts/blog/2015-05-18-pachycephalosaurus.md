@@ -42,6 +42,6 @@ We know it didn't run and [charge like a Musk Ox](http://goo.gl/DuMs0i){:target=
 
 When the first pachycephalosaurus skulls were found in the late 19th century, they were so bony that people thought they were the kneecaps of a larger dinosaur. Dinosaurs don't actually have kneecaps... but they didn't know that back then, so give them a break!
 
-######Further Reading:
+###### urther Reading:
 * [Wiki](http://goo.gl/qao5K){:target="_blank"}
 * [10 Fun Facts](http://goo.gl/5CCsm5){:target="_blank"}

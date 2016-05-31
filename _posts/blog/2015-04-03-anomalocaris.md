@@ -38,7 +38,7 @@ For decades, these animals existed in the scientific world. People discussed the
 
 Scientists have since discovered several whole specimens of *Anomalocaris*, and worked out a lot about how it lived. Its size means that it would have been a top predator in the Cambrian. It had complex compound eyes, which would give it excellent vision, similar to a dragonfly today. It probably fed on hard-shelled 'trilobites', which were common throughout the ocean.
 
-######Further Reading:
+###### urther Reading:
 * [A video about *Anomalocaris*](http://goo.gl/F7kMO1)
 * Some other Burgess Shale Wonders:
   * [The REAL prequel to Jaws](http://goo.gl/gVGUbT)

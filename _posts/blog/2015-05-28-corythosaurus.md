@@ -44,5 +44,5 @@ We know a remarkable amount about Corythosaurus, because we have a lot of very w
 
 This big, crested herbivore made only a fleeting appearance in 'The Lost World' (where it was misnamed...) and 'Jurassic Park III'.
 
-######Further Reading:
+###### urther Reading:
 * [10 fun Corythosaurus facts](http://goo.gl/zGBuEm){:target="_blank"}

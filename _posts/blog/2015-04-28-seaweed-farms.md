@@ -28,7 +28,7 @@ Seaweed farming, like all farming, causes a degree of environmental disruption, 
 
 I think I'll have Sushi tonight...
 
-######Further Reading:
+###### urther Reading:
 * [NASA Earth Observatory Post](http://goo.gl/qU0bQA)
 * [Seaweed Farming in the USA](http://goo.gl/VlQEuQ)
 * [Seaweed farming to fight climate change](http://goo.gl/ErYl4z)

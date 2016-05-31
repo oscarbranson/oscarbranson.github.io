@@ -42,5 +42,5 @@ It has been found on three separate continents, but was thought to have been rel
 
 Ceratosaurus was one of the first dinosaur film stars, appearing in the 1914 'Brute Force', alongside [scantily clad cave-women](https://goo.gl/Vea50R), and a mighty [Triceratops](https://goo.gl/4VI57x). Ceratosaurus appears briefly in Jurassic Park 3, [intent on turning the stars into a tasty afternoon snack](https://goo.gl/QA4jmA), but is scared off by some [Spinosaurus](https://goo.gl/9RTLFy) dung.
 
-######Further Reading:
+###### urther Reading:
 * [10 Ceratosaurus facts](http://mentalfloss.com/article/61662/10-bumpy-facts-about-ceratosaurus){:target="_blank"}

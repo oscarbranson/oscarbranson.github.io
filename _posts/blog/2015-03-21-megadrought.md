@@ -31,7 +31,7 @@ Aside from the immediate importance of these findings to the millions of people 
 
 It's true that the models that foretell these grim events are "just models", and models are not straightforward. They all tell slightly different stories, and often don't perfectly predict the real world. However, as models go this study has used the best we've got - based firmly in the physics of how the ocean, atmosphere and land work and interact with each other. The real strength of this study comes in the use of 17 independent models. The results might not all be identical, because the underlying models work in subtly different ways, but they all show the same trends for increased drought risk.
 
-######Further Reading:
+###### urther Reading:
 * [Video source](http://svs.gsfc.nasa.gov/vis/a000000/a004200/a004270/10yr_-3to3_rcp85.mp4)
 * [Our past post on the topic](http://on.fb.me/1xHiRhU)
 * [The original scientific article](http://goo.gl/oufe1p)

@@ -44,5 +44,5 @@ It's quite likely that they'll be larger, and much more ferocious in Jurassic Wo
   <figcaption>Dimorphodon skeleton. Credit: <a href="http://commons.wikimedia.org/wiki/File:Dimorphodon_mount.jpg">Wikmedia</a></figcaption>
 </figure>
 
-######Further Reading:
+###### urther Reading:
 * [Wiki](http://goo.gl/xY5X27){:target="_blank"}
