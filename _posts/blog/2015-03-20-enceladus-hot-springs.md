@@ -33,7 +33,7 @@ Finding them on Enceladus is exciting because it means that this small, icy moon
   <figcaption>A Hydrothermal Vent on Earth. Credit: IFE, URI-IAO, UW, Lost City Science Party; NOAA/OAR/OER; Lost City 2005 Exp./CC BY 2.0</figcaption>
 </figure>
 
-######Further Reading:
+###### Further Reading:
 * [Nature News Feature](http://goo.gl/sKpsqw)
 * [A hydrothermal vent (video)](http://goo.gl/NgIK7a)
 * [Did life evolve at vents?](http://goo.gl/X7I69w)

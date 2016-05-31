@@ -62,7 +62,7 @@ And finally, here is a day:
 
 I’m going to steer clear of the morals of this kind of information hoarding, and leave this as a fun, and revealing exercise. I have always been aware that Google have been keeping an eye on me, but the extent of it is staggering!
 
-#####The Nitty-Gritty
+##### The Nitty-Gritty
 
 I did all this using open source (i.e. free) software. If you're interested in seeing how I did it, take a look at [this post]({% post_url /code/2013-12-20-it-knows-where-i-live-code %}).
 

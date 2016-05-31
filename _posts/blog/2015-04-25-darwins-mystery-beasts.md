@@ -28,7 +28,7 @@ Some scientists recently worked out a new way of tracing the ancestry of these s
 
 By analysing the collagen fibres from twelve-thousand-year-old Toxodon and Macrauchenia bones, the researchers were able to work out that the South American Ungulate group shared a common ancestor with horses, tapirs and rhinos (Perissodactyla). Now we know where they came from, we can start working out how and why these animals got so bizarre.
 
-######Further Reading:
+###### Further Reading:
 * [Nature News article](http://goo.gl/OLNZU1)
 * [The scientific article](http://goo.gl/kisEyo)
 * [Darwin's voyage on the Beagle](http://goo.gl/JNeLuy)

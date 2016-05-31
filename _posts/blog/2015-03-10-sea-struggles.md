@@ -26,6 +26,6 @@ In the lower right is a calanoid copepod, a microscopic crustacean. This complex
 
 The copepod is an advanced and active predator, but it doesn't stand a chance against the foraminifera. Besides being a benevolent farmer, *Orbulina universa* is also a voracious predator, capable of catching and consuming prey many times its size. The foraminifera does not hunt actively, but sticky tendrils out beyond the tips of its spines can act like a microscopic cobweb - a trap for an unsuspecting visitor like the copepod. This copepod was completely devoured in just a few hours.
 
-######Further Reading:
+###### Further Reading:
 * [More about foraminifera, and why we're interested in them (video)](http://goo.gl/gufXtH)
 * [How copepods hunt](http://goo.gl/WoIoDy)

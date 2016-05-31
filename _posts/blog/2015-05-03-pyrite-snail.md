@@ -25,7 +25,7 @@ Its shell is made up of three, unique layers. At the base is a normal aragonite 
 
 Just think, how long until you see soldiers with snails on their heads?
 
-######Further Reading:
+###### Further Reading:
 * [More about these amazing beasts](http://goo.gl/2ZqEtN)
 * [The alien world they live in (video)](http://goo.gl/pAAbXh)
 * [Pyrite in its common form](http://goo.gl/AiqOEw)

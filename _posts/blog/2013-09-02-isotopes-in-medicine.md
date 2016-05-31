@@ -15,16 +15,16 @@ date: 2013-09-02
 comments: true
 ---
 
-###Goldschmidt 2013 – Tuesday
+### Goldschmidt 2013 – Tuesday
 
-#####Plenary Session: Francis Albarède on ‘Isotopes of Disease’
+##### Plenary Session: Francis Albarède on ‘Isotopes of Disease’
 
 
 Geochemists study the natural processes that govern the distribution of chemicals in the world. Some (like me) directly study the minutia of the processes themselves, while others derive information about the processes by looking at the chemical signatures they produce. [Francis Albarède](http://perso.ens-lyon.fr/francis.albarede/) has provided a fantastic example of the latter, illustrating the breadth and depth of geochemical techniques by turning them to focus on the intricacies of human health.
 
 In a range of experiments his research group studied the [isotopic](http://en.wikipedia.org/wiki/Isotope) ratios of various metals that are present in trace amounts in mammals – Cu, Zn, Fe and others. The researchers analysed various tissues and organs of mice and sheep, and found that different parts of the animal had distinct isotopic signatures.
 
-#####Isotopes
+##### Isotopes
 
 An ‘isotopic signature’ is not an inherently intuitive concept… first of all, you need to understand what an isotope is.  At a basic level, an atom is made up of protons, neutrons and electrons. The protons and electrons are the ‘business end’ of the atom, providing all the forces that cause it to interact with other atoms: repel and attract, form bonds and generally define the physical and chemical properties of the atom. The neutrons just sit in the nucleus of the atom, and make it heavier. An element can have more or fewer neutrons, and still have almost identical physical and chemical properties, but a different weight: these are isotopes.
 
@@ -39,7 +39,7 @@ A very simple example: The two main isotopes of oxygen are <sup>18</sup>O and <s
 
 Back to our bodies!
 
-#####Isotopes in YOU
+##### Isotopes in YOU
 
 Francis Albarède’s research group found that different parts of animals had consistently different isotopic signatures. The ‘heaviness’ of Cu, Zn and Fe vary a lot between tissues and organs, and between animals. Despite all this variation, the isotope ratios of a single tissue in a single animal stays remarkable constant, regardless of the diet or lifestyle of the animal. This means that the biology of healthy tissues and organs will fix the isotopic ratio of different trace metals in them, depending on how it puts them to work.
 
