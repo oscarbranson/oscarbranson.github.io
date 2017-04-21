@@ -11,7 +11,7 @@ image:
 ads: false
 ---
 
-I am a scuba-diving farmer from Wales who got stuck at university, and ended up studying plankton shells. At the moment, I do this in California.
+I am a scuba-diving farmer from Wales who got stuck at university, and ended up studying plankton shells. At the moment, I do this in Australia.
 
 If you want the nitty-gritty, [**have a look at my CV**](/assets/140928_FullCV.pdf).
 
@@ -29,6 +29,6 @@ From here, it was a natural progression to geochemistry, learning how to read th
 
 Geochemistry took me to [Cambridge](http://www.cam.ac.uk/) to do a PhD in [Earth Sciences](http://www.esc.cam.ac.uk/) under the guidance of mineraolgist [Simon Redfern](https://www.esc.cam.ac.uk/people/academic-staff/simon-redfern) and palaeoceanographer [Harry Elderfield](https://www.esc.cam.ac.uk/people/academic-staff/harry-elderfield). I spent my PhD trying to work out how plankton (and other sea creatures) make their shells.
 
-After nearly four years in Cambridge, I made a big leap to California. At the moment, I'm doing a Postdoc split between [Earth and Planetary Sciences at UC Davis](http://geology.ucdavis.edu/index.php) and [Oceanography at the University of Washington](http://www.ocean.washington.edu/), under the guidance of Profs [Howie Spero](http://geology.ucdavis.edu/people/faculty/spero.php) and [Alex Gagnon](http://www.ocean.washington.edu/home/Alex+Gagnon).
+After nearly four years in Cambridge, I made a big leap to California, where I spent two years as a Postdoc split between [Earth and Planetary Sciences at UC Davis](http://geology.ucdavis.edu/index.php) and [Oceanography at the University of Washington](http://www.ocean.washington.edu/), under the guidance of Profs [Howie Spero](http://geology.ucdavis.edu/people/faculty/spero.php) and [Alex Gagnon](http://www.ocean.washington.edu/home/Alex+Gagnon).
 
-So far, America has been fun.
+Now, I'm at the [Research School of Earth Sciences](http://rses.anu.edu.au/) at the [Australian National University](http://www.anu.edu.au/) in Canberra.
