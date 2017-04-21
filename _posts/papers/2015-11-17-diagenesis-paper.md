@@ -2,7 +2,7 @@
 layout: reference
 title: "Revisiting diagenesis on the Ontong Java Plateau: Evidence for authigenic crust precipitation in Globorotalia tumida"
 author: "Branson, O., Read, E., Redfern, S A T., Rau, C., Elderfield, H."
-journal: "Front Microbiol"
+journal: "Palaeoceanography"
 year: 2015
 vol: "30"
 pg: "1490-1502"

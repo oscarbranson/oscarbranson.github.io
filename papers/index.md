@@ -48,7 +48,7 @@ imagebadge: /google-scholar.png
             </div>
             <div class="papers">
               <h1>{% if post.short-title %}{{ post.short-title }}{% else %}{{ post.title }}{% endif %}</h1>
-              <p>{% if post.author %}{{ post.author }}{% endif %}{% if post.year %} ({{ post.year }}){% endif %}{% if post.journal %}<i> {{ post.journal }}</i>{% endif %}{% if post.vol %}<b> {{ post.vol }}</b>{% endif %} {% if post.pg %}, {{ post.pg }}</i>{% endif %}</p>
+              <p>{% if post.author %}{{ post.author }}{% endif %}{% if post.year %} ({{ post.year }}){% endif %}{% if post.journal %}<i> {{ post.journal }}</i>{% endif %}{% if post.vol %}<b> {{ post.vol }}</b>{% endif %} {% if post.pg %}, {{ post.pg }}{% endif %}</p>
             </div>
             <!-- <p><i> {{ post.description }}</i> </p> -->
         </a>
