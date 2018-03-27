@@ -56,8 +56,14 @@
 
     <div id="page-wrapper">
       {% include browser-upgrade.html %}
-
-  {% include recent-posts.html %}
+    </div>
+    
+    <div class="wrap">
+      <table>
+        <td>{% include recent-posts.html %}</td>
+        <td><a class="twitter-timeline" data-width="500" data-height="600" href="https://twitter.com/oscarbranson?ref_src=twsrc%5Etfw">Tweets by oscarbranson</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+      </table>
+    </div>
 
   {% include footer.html %}
 
