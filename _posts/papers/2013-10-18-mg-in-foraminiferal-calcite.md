@@ -10,6 +10,7 @@ doi: "doi:10.1016/j.epsl.2013.09.037"
 purl: "http://www.sciencedirect.com/science/article/pii/S0012821X13005487"
 openaccess: true
 description: "The concentration of Mg in plankton shells can tell us about the temperature of past oceans.  How does that work? I used a synchrotron to find out."
+caption: "Forams do sometimes behave..."
 date: 2013-12-29T20:37:40-07:00
 categories: papers
 tags: science publication

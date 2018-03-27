@@ -2,14 +2,19 @@
     <div class="entry-wrapper">
         <h1>Recent Posts</h1>
         <ul class="unstyled-list">
-            {% for post in site.categories.main limit:5 %}
+            {% for post in site.posts limit:5 %}
                 {% assign readtime = post.content | number_of_words | divided_by:200 %}
                 <li class="entry-item">
                     <a href="{{ site.url }}{{ post.url }}">
                         <img src="{{ site.url }}/images/{{ post.image.thumb }}" class="preview">
                         <div class="description">
-                            <h1>{{ post.title }}</h1>
-                            <p>{{ post.description }}</p>
+                            {% if post.categories contains 'papers' %}
+                                <h1>Paper: {{ post.shorttitle }}</h1>
+                                <p>{{ post.caption }}</p>
+                            {% else %}
+                                <h1>{{ post.title }}</h1>
+                                <p>{{ post.description }}</p>
+                            {% endif %}
                             <p>
                                 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time> &#8901; <i class="fa fa-clock-o" style="text-indent: 0em"></i> ~{% if readtime <= 1 %}1 min{% else %}{{ readtime }} min{% endif %}
                             </p>
