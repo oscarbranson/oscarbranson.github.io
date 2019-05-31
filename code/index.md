@@ -9,6 +9,7 @@ image:
   teaser:
   thumb:
 ads: false
+gitflag: true
 ---
 
 <div class="tiles">
